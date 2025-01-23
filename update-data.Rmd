@@ -201,14 +201,14 @@ resume <- function(bloc) {
   df <- results %>%
     select(id,starts_with(bloc)) %>%
     pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
-    filter(!is.na(Réponse)) %>%
+    filter(!is.na(Réponse)) 
     #filter( !startsWith(as.character(Réponse), "Ne connait pas")) %>%
-    mutate(Réponse = droplevels(Réponse)) 
+    #mutate(Réponse = droplevels(Réponse)) 
   
   NNP <- df %>%
-    mutate(Réponse = factor(case_match(str_sub(Réponse,1,1),
-             "N" ~ "NCP",
-             c("0","1","2","3") ~ "Négatif",
+    mutate(Réponse2 = factor(case_match(str_sub(Réponse,1,2),
+             "Ne" ~ "NCP",
+             c("0 ","1","2","3") ~ "Négatif",
              c("4","5","6") ~ "Neutre",
              c("7","8","9","10") ~ "Positif"),
              levels = c("Négatif","Neutre","Positif","NCP"))) %>%
