@@ -19,7 +19,7 @@ theme_cpesr_setup(authors = "Julien Gossa", source = "https://github.com/cpesr/R
 
 
 ```{r funs}
-root <- xmlRoot(xmlParse(file = "survey_648722_fr.xml"))
+root <- xmlRoot(xmlParse(file = "survey_593811_fr.xml"))
 
 qlevels <- function(qgrp,qnum) {
     xmlToDataFrame(root[[4+qgrp]][[2+qnum]][["response"]][["fixed"]])[["label"]]
@@ -40,7 +40,7 @@ qtext <- function(qgrp,qnum) {
 ## Données 
 
 ```{r load}
-res <- read.csv("results-survey648722.csv",na.strings=c("","NA"))
+res <- read.csv("results-survey593811.csv",na.strings=c("","NA"))
 
 colnames(res)
 ```
@@ -72,57 +72,63 @@ res %>%
 ## Export
 
 ```{r export}
+infolevel <- 7
+
 results <- res %>%
   rename(anciennete = aciennete) %>%
   rename(confiance.ParitairesLocales. = confiance.ParitainesLocales.) %>%
   #filter(!is.na(submitdate)) %>%
-  filter(!is.na(submitdate) | !is.na(conditions.generale.)) %>%
+  filter(!is.na(submitdate) | !is.na(conditions.gener.)) %>%
   mutate(across(starts_with("conditions"), ~ factor(.x, levels = qlevels(1,1)))) %>%
   mutate(across(starts_with("evolution"), ~ factor(.x, levels = qlevels(2,0)))) %>%
   mutate(across(starts_with("optimisme"), ~ factor(.x, levels = qlevels(3,0)))) %>%
   mutate(across(starts_with("confiance"), ~ factor(.x, levels = qlevels(4,0)))) %>%
-  mutate(across(starts_with("reformes"), ~ factor(.x, levels = qlevels(5,0)))) %>%
-  mutate(sexe = factor(sexe, qlevels(6,0))) %>%
-  mutate(age = factor(age, qlevels(6,1))) %>%
-  mutate(anciennete = factor(anciennete, qlevels(6,2))) %>%
-  mutate(metier = factor(metier, qlevels(6,3))) %>%
-  mutate(discipline = factor(discipline, qlevels(6,4))) %>%
-  mutate(categorie = factor(categorie, qlevels(6,5))) %>%
-  mutate(statut = factor(statut, qlevels(6,6))) %>%
-  mutate(secteur = factor(secteur, qlevels(6,8))) %>%
-  mutate(responsabilites = factor(responsabilites,qlevels(6,10)))
+  #mutate(across(starts_with("reformes"), ~ factor(.x, levels = qlevels(5,0)))) %>%
+  mutate(across(starts_with("PCinquietude"), ~ factor(.x, levels = qlevels(5,1)))) %>%
+  mutate(across(starts_with("PCimpact"), ~ factor(.x, levels = qlevels(5,2)))) %>%
+  mutate(across(starts_with("PCeffort"), ~ factor(.x, levels = qlevels(5,3)))) %>%
+  mutate(across(starts_with("socle"), ~ factor(.x, levels = qlevels(6,1)))) %>%
+  mutate(sexe = factor(sexe, qlevels(infolevel,0))) %>%
+  mutate(age = factor(age, qlevels(infolevel,1))) %>%
+  mutate(anciennete = factor(anciennete, qlevels(infolevel,2))) %>%
+  mutate(metier = factor(metier, qlevels(infolevel,3))) %>%
+  mutate(discipline = factor(discipline, qlevels(infolevel,4))) %>%
+  mutate(categorie = factor(categorie, qlevels(infolevel,5))) %>%
+  mutate(statut = factor(statut, qlevels(infolevel,6))) %>%
+  mutate(secteur = factor(secteur, qlevels(infolevel,8))) %>%
+  mutate(responsabilites = factor(responsabilites,qlevels(infolevel,10)))
 
 
 cn <- colnames(results)
 conditions.factor <- tibble(
   levels = cn[startsWith(cn,"conditions")] %>% substr(12,50),
-  labels = unlist(lapply(1:7, function(x) qsubquestion(1,1,x) )))
+  labels = unlist(lapply(1:9, function(x) qsubquestion(1,1,x) )))
 
 confiance.factor <- tibble(
   levels = cn[startsWith(cn,"confiance")] %>% substr(11,50),
   labels = unlist(lapply(0:15, function(x) qsubquestion(4,0,x) )))
 
-reformes.factor <- tibble(
-  levels = cn[startsWith(cn,"reformes")] %>% substr(10,50),
-  labels = unlist(lapply(1:7, function(x) qsubquestion(5,0,x) )) %>% gsub(", description)",")",.))
+# reformes.factor <- tibble(
+#   levels = cn[startsWith(cn,"reformes")] %>% substr(10,50),
+#   labels = unlist(lapply(1:7, function(x) qsubquestion(5,0,x) )) %>% gsub(", description)",")",.))
 #reformes.factor$labels
 
 etab.factor <-tibble(
-    levels = unlist(lapply(1:12,function (x) xmlGetAttr(root[[10]][[9]][[x]],"varName"))),
-    labels = sapply(3:12,function (x) xmlValue(root[[10]][[9]][[x]][[1]][[1]][[1]][[1]]))) %>%
+    levels = unlist(lapply(1:12,function (x) xmlGetAttr(root[[11]][[9]][[x]],"varName"))),
+    labels = sapply(3:12,function (x) xmlValue(root[[11]][[9]][[x]][[1]][[1]][[1]][[1]]))) %>%
   mutate(levels = paste0(gsub("_",".",levels),".")) %>%
   mutate(levels = recode(levels, 'typeetabo.' = 'typeetab.other.')) 
 
 ## Labels courts
 
 conditions.factor$lab <- c("Général", "Enseignement", "Recherche", 
-  "Administration", "Relations", "Carrière", "Vie")
+  "Administration", "Relations pairs", "Relations autres", "Carrière", "Rémunération", "Equilibre")
 
 confiance.factor$lab <- c("Etat", "MESRI", "Paritaires Nationales", "CNU", "CoNRS", "ANR", 
 "HCERES", "ONR", "FU", "UDICE", "AUREF", "Territoire", 
 "Presidences", "CA, CR, CFVU", "Paritaires Locales", "Composante")
 
-reformes.factor$lab <- c("LOLF", "LRU", "Fioraso", "ORE", "LCAP", "LTF", "LPPR")
+#reformes.factor$lab <- c("LOLF", "LRU", "Fioraso", "ORE", "LCAP", "LTF", "LPPR")
 
 ## Fusions de caractéristiques
 
@@ -154,9 +160,12 @@ results <- results %>%
     `Composante` = "Membre d'un conseil de composante ou laboratoire", 
     `Aucune` = "Aucune de ces responsabilités")) %>%
   mutate(categorie.grp = fct_recode(categorie,
-    `PR, DR` = "PR, DR ou assimilé ; BIATSS catégorie A ou assimilé", 
-    `MCF, CR` = "MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou assimilé",
-    `Doc, Post-Doc,\nATER, vacataires` = "Doctorant, post-doctorant, ATER, ATEN, vacataire ou assimilé ; BIASS catégorie C ou assimilé")) %>%
+    `PR, DR` = "PR, DR ou assimilé", 
+    `MCF, CR` = "MCF, CR, PRAG, PRCE ou assimilé",
+    `Doc, Post-Doc,\nATER, vacataires` = "Doctorant, post-doctorant, ATER, ATEN, vacataire ou assimilé",
+    `BIATSS A` = "BIATSS catégorie A ou assimilé",
+    `BIATSS B` = "BIATSS catégorie B ou assimilé",
+    `BIATSS C` = "BIATSS catégorie C ou assimilé")) %>%
   #mutate(categorie.grp = if_else(metier.grp=="BIATSS",NA,categorie.grp)) %>%
   mutate(anciennete.grp = fct_recode(anciennete,
     `Moins de 5 ans` = "Moins de 5 ans", 
@@ -176,12 +185,11 @@ results <- results %>%
     NULL = "Autre")) 
 
 
-
 ## Sauvegarde 
-save(results,conditions.factor,confiance.factor,reformes.factor,etab.factor, file="results.RData")
+save(results,conditions.factor,confiance.factor,etab.factor, file="results.RData")
 
 results %>%
-  select(conditions.generale.:statut,responsabilites) %>% 
+  select(conditions.gener.:statut,responsabilites) %>% 
   write.csv("results-anon.csv",row.names = FALSE)
 ```
 
@@ -197,59 +205,73 @@ resume <- function(bloc) {
     #filter( !startsWith(as.character(Réponse), "Ne connait pas")) %>%
     mutate(Réponse = droplevels(Réponse)) 
   
-  l <- levels(df$Réponse)
+  NNP <- df %>%
+    mutate(Réponse = factor(case_match(str_sub(Réponse,1,1),
+             "N" ~ "NCP",
+             c("0","1","2","3") ~ "Négatif",
+             c("4","5","6") ~ "Neutre",
+             c("7","8","9","10") ~ "Positif"),
+             levels = c("Négatif","Neutre","Positif","NCP"))) %>%
+    summarise(nb.réponses = n(), .by=c(Question,Réponse)) %>%
+    mutate(part = nb.réponses / sum(nb.réponses), .by=Question) %>%
+    mutate(part = scales::percent(part,accuracy = 1)) %>%
+    mutate(nb.réponses = sum(nb.réponses), .by=Question) %>%
+    arrange(Question,Réponse) %>%
+    pivot_wider(names_from = Réponse, values_from = part)
   
-  df <- df %>%
-    mutate(Réponse = fct_collapse(Réponse, "Négatif" = l[1:3], "Positif"=l[5:7])) %>%
-    summarise(nb.questions = n(), .by=c(Question,Réponse)) %>%
-    mutate(part = nb.questions / sum(nb.questions), .by=Question) %>%
-    mutate(rang = rank(-part), .by=c(Réponse)) %>%
-    mutate(part = scales::percent(part)) %>%
-    arrange(Réponse,rang)
-    
-  
-  df <- bind_rows(df %>%
-                    summarise(nb.questions = sum(nb.questions), .by=c(Réponse)) %>%
-                    mutate(part = scales::percent(nb.questions / sum(nb.questions))),
-                  df
-  )
+  score <- df %>%
+    mutate(Réponse2 = droplevels(recode_factor(Réponse,"Ne connais pas" = NA_character_))) %>%
+    mutate(Score = as.numeric(Réponse2)-6) %>%
+    summarise(Score = mean(Score,na.rm=TRUE), .by=Question)
 
-  return(df) 
+  return(left_join(NNP,score)) 
 }
 
-# resume("confiance") %>% View()
+#resume("confiance") %>% View()
 ```
 
 
-### Condition
+### Conditions de travail
 
-```{r rescond}
-resume("condition") %>% slice_head(n=4,by=Réponse) %>% kableExtra::kable()
+```{r rescond, results='asis'}
+resume("condition") %>% spoiler_table("Conditions",trim = Inf)
 ```
 
-### Evolution
-
-```{r resevol}
-resume("evolution") %>% slice_head(n=4,by=Réponse) %>% kableExtra::kable()
+```{r resevol, results='asis'}
+resume("evolution") %>% spoiler_table("Evolution",trim = Inf)
 ```
 
-### Optimisme
-
-```{r resopt}
-resume("optimisme") %>% slice_head(n=4,by=Réponse) %>% kableExtra::kable()
+```{r resopt, results='asis'}
+resume("optimisme") %>% spoiler_table("Optimisme",trim = Inf)
 ```
 
 ### Confiance
 
-```{r resconf}
-resume("confiance") %>% slice_head(n=4,by=Réponse) %>% kableExtra::kable()
+```{r resconf, results='asis'}
+resume("confiance") %>% spoiler_table(trim = Inf)
 ```
 
-### Réformes
+### Crises
 
-```{r resref}
-resume("reformes") %>% slice_head(n=4,by=Réponse) %>% kableExtra::kable()
+```{r respci, results='asis'}
+resume("PCinquietude") %>% spoiler_table("Inquiétude", trim = Inf)
 ```
+
+
+```{r respcim, results='asis'}
+resume("PCimpact") %>% spoiler_table("Impact",trim = Inf)
+```
+
+```{r respcef, results='asis'}
+resume("PCeffort") %>% spoiler_table("Effort",trim = Inf)
+```
+
+### Socle
+
+```{r socle, results='asis'}
+resume("socle") %>% spoiler_table("Socle",trim = Inf)
+```
+
 
 ### Etablissements
 
