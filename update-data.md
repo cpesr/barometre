@@ -1,7 +1,7 @@
 Baromètre ESR - updatedata
 ================
 CPESR
-2025-01-23
+2025-01-24
 
 ## Données
 
@@ -193,15 +193,15 @@ Conditions
 
 | Question           | nb.réponses | Négatif | Neutre | Positif |      Score |
 |:-------------------|------------:|:--------|:-------|:--------|-----------:|
-| conditions.admin.  |        2166 | 53%     | 35%    | 12%     | -1.4662973 |
-| conditions.carri.  |        2180 | 46%     | 34%    | 20%     | -1.0486239 |
-| conditions.ens.    |        1726 | 27%     | 44%    | 28%     | -0.0110081 |
-| conditions.equil.  |        2223 | 38%     | 34%    | 28%     | -0.4340981 |
-| conditions.gener.  |        2235 | 23%     | 41%    | 35%     |  0.3114094 |
-| conditions.rech.   |        2018 | 31%     | 40%    | 28%     | -0.1377602 |
-| conditions.relaut. |        2144 | 16%     | 38%    | 46%     |  0.9090485 |
-| conditions.relmem. |        2208 | 13%     | 31%    | 56%     |  1.3328804 |
-| conditions.remun.  |        2216 | 43%     | 35%    | 22%     | -0.8506318 |
+| conditions.admin.  |        2166 | 67%     | 13%    | 20%     | -1.4662973 |
+| conditions.carri.  |        2180 | 56%     | 14%    | 31%     | -1.0486239 |
+| conditions.ens.    |        1726 | 40%     | 18%    | 43%     | -0.0110081 |
+| conditions.equil.  |        2223 | 49%     | 13%    | 38%     | -0.4340981 |
+| conditions.gener.  |        2235 | 35%     | 15%    | 50%     |  0.3114094 |
+| conditions.rech.   |        2018 | 43%     | 14%    | 43%     | -0.1377602 |
+| conditions.relaut. |        2144 | 24%     | 16%    | 60%     |  0.9090485 |
+| conditions.relmem. |        2208 | 20%     | 13%    | 67%     |  1.3328804 |
+| conditions.remun.  |        2216 | 55%     | 13%    | 32%     | -0.8506318 |
 
 </details>
 <details>
@@ -211,17 +211,17 @@ Evolution
 
     ## Joining with `by = join_by(Question)`
 
-| Question          | nb.réponses | Négatif | Neutre | Positif | NA  |      Score |
-|:------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| evolution.admin.  |        2014 | 65%     | 17%    | 2%      | 16% | -2.2432969 |
-| evolution.carri.  |        2021 | 44%     | 20%    | 4%      | 32% | -1.4903513 |
-| evolution.ens.    |        1670 | 45%     | 22%    | 3%      | 31% | -1.4628743 |
-| evolution.equil.  |        2043 | 34%     | 20%    | 7%      | 39% | -1.0093000 |
-| evolution.gener.  |        2051 | 48%     | 23%    | 5%      | 25% | -1.5343735 |
-| evolution.rech.   |        1894 | 48%     | 24%    | 4%      | 23% | -1.5290391 |
-| evolution.relaut. |        1988 | 18%     | 18%    | 7%      | 56% | -0.4537223 |
-| evolution.relmem. |        2023 | 18%     | 17%    | 9%      | 56% | -0.3919921 |
-| evolution.remun.  |        2037 | 42%     | 24%    | 6%      | 28% | -1.2906235 |
+| Question          | nb.réponses | Négatif | Positif | NA  |      Score |
+|:------------------|------------:|:--------|:--------|:----|-----------:|
+| evolution.admin.  |        2014 | 79%     | 5%      | 16% | -2.2432969 |
+| evolution.carri.  |        2021 | 60%     | 8%      | 32% | -1.4903513 |
+| evolution.ens.    |        1670 | 63%     | 6%      | 31% | -1.4628743 |
+| evolution.equil.  |        2043 | 48%     | 12%     | 39% | -1.0093000 |
+| evolution.gener.  |        2051 | 68%     | 8%      | 25% | -1.5343735 |
+| evolution.rech.   |        1894 | 69%     | 8%      | 23% | -1.5290391 |
+| evolution.relaut. |        1988 | 31%     | 12%     | 56% | -0.4537223 |
+| evolution.relmem. |        2023 | 30%     | 14%     | 56% | -0.3919921 |
+| evolution.remun.  |        2037 | 57%     | 15%     | 28% | -1.2906235 |
 
 </details>
 <details>
@@ -231,17 +231,17 @@ Optimisme
 
     ## Joining with `by = join_by(Question)`
 
-| Question          | nb.réponses | Négatif | Neutre | Positif | NA  |      Score |
-|:------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| optimisme.admin.  |        1968 | 76%     | 12%    | 2%      | 10% | -2.8053862 |
-| optimisme.carri.  |        1963 | 64%     | 14%    | 4%      | 18% | -2.3346918 |
-| optimisme.ens.    |        1705 | 68%     | 14%    | 3%      | 14% | -2.3806452 |
-| optimisme.equil.  |        1977 | 42%     | 15%    | 10%     | 34% | -1.2169954 |
-| optimisme.gener.  |        1993 | 65%     | 16%    | 5%      | 14% | -2.2493728 |
-| optimisme.rech.   |        1860 | 70%     | 15%    | 3%      | 12% | -2.4215054 |
-| optimisme.relaut. |        1942 | 27%     | 16%    | 11%     | 46% | -0.6271885 |
-| optimisme.relmem. |        1960 | 27%     | 15%    | 14%     | 45% | -0.5117347 |
-| optimisme.remun.  |        1975 | 65%     | 15%    | 4%      | 16% | -2.3807595 |
+| Question          | nb.réponses | Négatif | Positif | NA  |      Score |
+|:------------------|------------:|:--------|:--------|:----|-----------:|
+| optimisme.admin.  |        1968 | 86%     | 4%      | 10% | -2.8053862 |
+| optimisme.carri.  |        1963 | 75%     | 7%      | 18% | -2.3346918 |
+| optimisme.ens.    |        1705 | 80%     | 6%      | 14% | -2.3806452 |
+| optimisme.equil.  |        1977 | 52%     | 15%     | 34% | -1.2169954 |
+| optimisme.gener.  |        1993 | 79%     | 7%      | 14% | -2.2493728 |
+| optimisme.rech.   |        1860 | 81%     | 7%      | 12% | -2.4215054 |
+| optimisme.relaut. |        1942 | 37%     | 18%     | 46% | -0.6271885 |
+| optimisme.relmem. |        1960 | 35%     | 20%     | 45% | -0.5117347 |
+| optimisme.remun.  |        1975 | 77%     | 7%      | 16% | -2.3807595 |
 
 </details>
 
@@ -256,22 +256,22 @@ Voir les données
 
 | Question                     | nb.réponses | Négatif | Neutre | Positif | NCP |      Score |
 |:-----------------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| confiance.ANR.               |        1831 | 66%     | 23%    | 5%      | 6%  | -2.6521991 |
-| confiance.AUREF.             |        1683 | 25%     | 8%     | 1%      | 66% | -3.1992945 |
-| confiance.CNU.               |        1762 | 36%     | 30%    | 22%     | 12% | -0.7509653 |
-| confiance.CoNRS.             |        1746 | 33%     | 24%    | 16%     | 26% | -1.0473602 |
-| confiance.Conseils.          |        1854 | 43%     | 34%    | 15%     | 9%  | -1.2158019 |
-| confiance.Dircomp.           |        1927 | 22%     | 25%    | 52%     | 1%  |  1.0828961 |
-| confiance.Etat.              |        1934 | 85%     | 12%    | 2%      | 2%  | -3.5248677 |
-| confiance.FU.                |        1734 | 43%     | 16%    | 3%      | 38% | -2.7660764 |
-| confiance.HCERES.            |        1850 | 66%     | 23%    | 6%      | 5%  | -2.6442033 |
-| confiance.MESRI.             |        1928 | 83%     | 13%    | 2%      | 2%  | -3.4220573 |
-| confiance.ONR.               |        1799 | 43%     | 33%    | 13%     | 10% | -1.4385856 |
-| confiance.ParitairesLocales. |        1803 | 28%     | 33%    | 23%     | 17% | -0.3844104 |
-| confiance.ParitairesNat.     |        1798 | 39%     | 23%    | 8%      | 30% | -1.8156646 |
-| confiance.Presidences.       |        1903 | 52%     | 29%    | 16%     | 3%  | -1.4964922 |
-| confiance.Territoire.        |        1831 | 54%     | 30%    | 8%      | 7%  | -1.9546525 |
-| confiance.UDICE.             |        1721 | 41%     | 11%    | 1%      | 47% | -3.3394995 |
+| confiance.ANR.               |        1831 | 75%     | 11%    | 8%      | 6%  | -2.6521991 |
+| confiance.AUREF.             |        1683 | 27%     | 5%     | 2%      | 66% | -3.1992945 |
+| confiance.CNU.               |        1762 | 43%     | 15%    | 31%     | 12% | -0.7509653 |
+| confiance.CoNRS.             |        1746 | 38%     | 13%    | 22%     | 26% | -1.0473602 |
+| confiance.Conseils.          |        1854 | 52%     | 15%    | 24%     | 9%  | -1.2158019 |
+| confiance.Dircomp.           |        1927 | 27%     | 11%    | 61%     | 1%  |  1.0828961 |
+| confiance.Etat.              |        1934 | 89%     | 5%     | 3%      | 2%  | -3.5248677 |
+| confiance.FU.                |        1734 | 48%     | 8%     | 5%      | 38% | -2.7660764 |
+| confiance.HCERES.            |        1850 | 73%     | 11%    | 11%     | 5%  | -2.6442033 |
+| confiance.MESRI.             |        1928 | 89%     | 5%     | 4%      | 2%  | -3.4220573 |
+| confiance.ONR.               |        1799 | 53%     | 16%    | 21%     | 10% | -1.4385856 |
+| confiance.ParitairesLocales. |        1803 | 35%     | 16%    | 32%     | 17% | -0.3844104 |
+| confiance.ParitairesNat.     |        1798 | 46%     | 12%    | 13%     | 30% | -1.8156646 |
+| confiance.Presidences.       |        1903 | 60%     | 13%    | 24%     | 3%  | -1.4964922 |
+| confiance.Territoire.        |        1831 | 63%     | 14%    | 16%     | 7%  | -1.9546525 |
+| confiance.UDICE.             |        1721 | 44%     | 7%     | 3%      | 47% | -3.3394995 |
 
 </details>
 
@@ -286,10 +286,10 @@ Inquiétude
 
 | Question            | nb.réponses | Négatif | Neutre | Positif |    Score |
 |:--------------------|------------:|:--------|:-------|:--------|---------:|
-| PCinquietude.clim.  |        1915 | 5%      | 9%     | 86%     | 3.501305 |
-| PCinquietude.diplo. |        1906 | 10%     | 27%    | 63%     | 2.051417 |
-| PCinquietude.eco.   |        1916 | 7%      | 22%    | 71%     | 2.416493 |
-| PCinquietude.pol.   |        1914 | 6%      | 16%    | 78%     | 2.922675 |
+| PCinquietude.clim.  |        1915 | 6%      | 5%     | 89%     | 3.501305 |
+| PCinquietude.diplo. |        1906 | 13%     | 12%    | 74%     | 2.051417 |
+| PCinquietude.eco.   |        1916 | 10%     | 8%     | 82%     | 2.416493 |
+| PCinquietude.pol.   |        1914 | 7%      | 6%     | 86%     | 2.922675 |
 
 </details>
 <details>
@@ -301,10 +301,10 @@ Impact
 
 | Question        | nb.réponses | Négatif | Neutre | Positif |      Score |
 |:----------------|------------:|:--------|:-------|:--------|-----------:|
-| PCimpact.clim.  |        1903 | 19%     | 28%    | 53%     |  1.2858644 |
-| PCimpact.diplo. |        1885 | 34%     | 33%    | 32%     | -0.1405836 |
-| PCimpact.eco.   |        1900 | 7%      | 16%    | 77%     |  2.7173684 |
-| PCimpact.pol.   |        1901 | 12%     | 20%    | 69%     |  2.2709100 |
+| PCimpact.clim.  |        1903 | 23%     | 13%    | 64%     |  1.2858644 |
+| PCimpact.diplo. |        1885 | 41%     | 18%    | 41%     | -0.1405836 |
+| PCimpact.eco.   |        1900 | 9%      | 6%     | 85%     |  2.7173684 |
+| PCimpact.pol.   |        1901 | 15%     | 9%     | 77%     |  2.2709100 |
 
 </details>
 <details>
@@ -316,10 +316,10 @@ Effort
 
 | Question        | nb.réponses | Négatif | Neutre | Positif |     Score |
 |:----------------|------------:|:--------|:-------|:--------|----------:|
-| PCeffort.clim.  |        1850 | 49%     | 34%    | 18%     | -1.277297 |
-| PCeffort.diplo. |        1521 | 52%     | 38%    | 10%     | -1.837607 |
-| PCeffort.eco.   |        1705 | 53%     | 37%    | 9%      | -1.770674 |
-| PCeffort.pol.   |        1609 | 62%     | 32%    | 7%      | -2.321939 |
+| PCeffort.clim.  |        1850 | 58%     | 15%    | 27%     | -1.277297 |
+| PCeffort.diplo. |        1521 | 59%     | 27%    | 14%     | -1.837607 |
+| PCeffort.eco.   |        1705 | 63%     | 22%    | 15%     | -1.770674 |
+| PCeffort.pol.   |        1609 | 70%     | 21%    | 10%     | -2.321939 |
 
 </details>
 
@@ -332,15 +332,15 @@ Socle
 
     ## Joining with `by = join_by(Question)`
 
-| Question            | nb.réponses | Négatif | Neutre | Positif | NA  |      Score |
-|:--------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| socle.bonheur.      |        1867 | 6%      | 14%    | 65%     | 15% |  1.8998393 |
-| socle.capretraite.  |        1870 | 29%     | 16%    | 42%     | 14% |  0.4438503 |
-| socle.confiance.    |        1851 | 13%     | 13%    | 47%     | 28% |  0.9378714 |
-| socle.satisfaction. |        1889 | 14%     | 22%    | 52%     | 12% |  1.0577025 |
-| socle.sens.         |        1889 | 12%     | 16%    | 64%     | 8%  |  1.8173637 |
-| socle.souretraite.  |        1863 | 26%     | 11%    | 48%     | 15% |  0.8480945 |
-| socle.valo.         |        1893 | 46%     | 24%    | 19%     | 11% | -1.0987850 |
+| Question            | nb.réponses | Négatif | Positif | NA  |      Score |
+|:--------------------|------------:|:--------|:--------|:----|-----------:|
+| socle.bonheur.      |        1867 | 9%      | 76%     | 15% |  1.8998393 |
+| socle.capretraite.  |        1870 | 37%     | 49%     | 14% |  0.4438503 |
+| socle.confiance.    |        1851 | 16%     | 56%     | 28% |  0.9378714 |
+| socle.satisfaction. |        1889 | 23%     | 66%     | 12% |  1.0577025 |
+| socle.sens.         |        1889 | 17%     | 75%     | 8%  |  1.8173637 |
+| socle.souretraite.  |        1863 | 31%     | 54%     | 15% |  0.8480945 |
+| socle.valo.         |        1893 | 59%     | 30%     | 11% | -1.0987850 |
 
 </details>
 

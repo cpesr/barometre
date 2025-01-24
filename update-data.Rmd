@@ -102,11 +102,21 @@ results <- res %>%
 cn <- colnames(results)
 conditions.factor <- tibble(
   levels = cn[startsWith(cn,"conditions")] %>% substr(12,50),
-  labels = unlist(lapply(1:9, function(x) qsubquestion(1,1,x) )))
+  labels = unlist(lapply(1:9, function(x) qsubquestion(1,1,x) )),
+  lab = c("Général", "Enseignement", "Recherche", 
+  "Administration", "Relations pairs", "Relations autres", "Carrière", "Rémunération", "Equilibre"))
 
 confiance.factor <- tibble(
   levels = cn[startsWith(cn,"confiance")] %>% substr(11,50),
-  labels = unlist(lapply(0:15, function(x) qsubquestion(4,0,x) )))
+  labels = unlist(lapply(1:16, function(x) qsubquestion(4,0,x) )),
+  lab = c("Etat", "MESRI", "Paritaires Nationales", "CNU", "CoNRS", "ANR", 
+"HCERES", "ONR", "FU", "UDICE", "AUREF", "Territoire", 
+"Presidences", "CA, CR, CFVU", "Paritaires Locales", "Composante"))
+
+pc.factor  <- tibble(
+  levels = cn[startsWith(cn,"PCinquietude")] %>% substr(14,50),
+  labels = unlist(lapply(1:4, function(x) qsubquestion(5,1,x))),
+  lab = c("Crise\nClimatique","Crise\nEconomique","Crise\nDiplomatique","Crise\nPolitique"))
 
 # reformes.factor <- tibble(
 #   levels = cn[startsWith(cn,"reformes")] %>% substr(10,50),
@@ -119,24 +129,15 @@ etab.factor <-tibble(
   mutate(levels = paste0(gsub("_",".",levels),".")) %>%
   mutate(levels = recode(levels, 'typeetabo.' = 'typeetab.other.')) 
 
-## Labels courts
 
-conditions.factor$lab <- c("Général", "Enseignement", "Recherche", 
-  "Administration", "Relations pairs", "Relations autres", "Carrière", "Rémunération", "Equilibre")
-
-confiance.factor$lab <- c("Etat", "MESRI", "Paritaires Nationales", "CNU", "CoNRS", "ANR", 
-"HCERES", "ONR", "FU", "UDICE", "AUREF", "Territoire", 
-"Presidences", "CA, CR, CFVU", "Paritaires Locales", "Composante")
-
-#reformes.factor$lab <- c("LOLF", "LRU", "Fioraso", "ORE", "LCAP", "LTF", "LPPR")
 
 ## Fusions de caractéristiques
 
 results <- results %>%
   mutate(metier.grp = fct_recode(metier,
-    `E` = "Personnel d'enseignement", 
+    `E-EC` = "Personnel d'enseignement", 
     `C` = "Personnel de recherche", 
-    `EC` = "Personnel d'enseignement et de recherche", 
+    `E-EC` = "Personnel d'enseignement et de recherche", 
     `BIATSS` = "Personnel de bibliothéque", 
     `BIATSS` = "Personnel d'ingénieurie", 
     `BIATSS` = "Personnel administratif", 
@@ -164,8 +165,8 @@ results <- results %>%
     `MCF, CR` = "MCF, CR, PRAG, PRCE ou assimilé",
     `Doc, Post-Doc,\nATER, vacataires` = "Doctorant, post-doctorant, ATER, ATEN, vacataire ou assimilé",
     `BIATSS A` = "BIATSS catégorie A ou assimilé",
-    `BIATSS B` = "BIATSS catégorie B ou assimilé",
-    `BIATSS C` = "BIATSS catégorie C ou assimilé")) %>%
+    NULL = "BIATSS catégorie B ou assimilé",
+    NULL = "BIATSS catégorie C ou assimilé")) %>%
   #mutate(categorie.grp = if_else(metier.grp=="BIATSS",NA,categorie.grp)) %>%
   mutate(anciennete.grp = fct_recode(anciennete,
     `Moins de 5 ans` = "Moins de 5 ans", 
@@ -186,7 +187,7 @@ results <- results %>%
 
 
 ## Sauvegarde 
-save(results,conditions.factor,confiance.factor,etab.factor, file="results.RData")
+save(results,conditions.factor,confiance.factor,pc.factor,etab.factor, file="results.RData")
 
 results %>%
   select(conditions.gener.:statut,responsabilites) %>% 
@@ -208,9 +209,9 @@ resume <- function(bloc) {
   NNP <- df %>%
     mutate(Réponse = factor(case_match(str_sub(Réponse,1,2),
              "Ne" ~ "NCP",
-             c("0 ","1","2","3") ~ "Négatif",
-             c("4","5","6") ~ "Neutre",
-             c("7","8","9","10") ~ "Positif"),
+             c("0 ","1","2","3","4") ~ "Négatif",
+             c("5") ~ "Neutre",
+             c("6","7","8","9","10") ~ "Positif"),
              levels = c("Négatif","Neutre","Positif","NCP"))) %>%
     summarise(nb.réponses = n(), .by=c(Question,Réponse)) %>%
     mutate(part = nb.réponses / sum(nb.réponses), .by=Question) %>%
