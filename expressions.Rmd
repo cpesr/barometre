@@ -18,6 +18,19 @@ theme_cpesr_setup(authors = "Julien Gossa", source = "https://github.com/cpesr/R
 source("barometre-esr.R")
 ```
 
+## Commentaire sur les crises 
+
+```{r elcrise, results='asis'}
+t <- results %>% filter(!is.na(PCexpression))
+for(i in seq(1,length(t))) { 
+  cat("\n### Témoignage ", i,"\n\n")
+  for(c in c('sexe','age','anciennete','metier','statut','categorie','discipline','etab','etab.other','responsabilites'))
+    cat("- ",c," : ",as.character(t[i,c]),"\n")
+
+  cat("\n\n",t[i,'PCexpression'],"\n")
+}
+```
+
 ## Avez-vous des choses à ajouter ? 
 
 ```{r elajout, results='asis'}

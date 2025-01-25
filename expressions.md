@@ -1,447 +1,522 @@
 Expressions libres
 ================
 CPESR
-2023-11-01
+2025-01-25
 
-## Avez-vous des choses à ajouter ?
+## Commentaire sur les crises
 
 ### Témoignage 1
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Il faudrait distinguer la présidence de l’université, le laboratoire de
+recherche et la composante d’enseignement pour pouvoir éventuellement
+répondre de façon différente car la présidence de l’université n’est pas
+démocratiquement élue et ne tient pas compte de l’avis des personnels ni
+des étudiants
+
+### Témoignage 2
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La crise économique est une crise politique. Les deux ne sont pas
+séparées. Une vraie politique, social et ancré à gauche, peut tout à
+fait enclencher des dynamiques pour mettre des mesures en place face à
+la crise climatique, et la précarité qui mine et détruit les précaires
+au sein de l’université…
+
+### Témoignage 3
 
 - sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - etab : École des hautes études en sciences sociales
 - etab.other :  
-- responsabilites : Membre d’une autre instance centrale d’établissement
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
 
-C’est Christelle R. Vous pourriez ajouter une quesiton : avez vous connu
-des formes de discriminations (sexistes/ racistes/ sociales/ politiques
-ou syndicales).
-
-### Témoignage 2
-
-- sexe : Féminin
-- age : De 25 à 34 ans
-- anciennete : Moins de 5 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Université de Lille
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Ayant intégrée la fonction publique depuis peu (moins d’un an) une
-partie des réponses est faussée par manque de recul sur les conditions
-de travail et sur l’évolution de ces dernières.
-
-### Témoignage 3
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : CY Cergy Paris Université
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-La direction d’études est extrêmement chronophage (mais ayant rejoint le
-département où j’enseigne il y a moins de cinq ans, je veux être “team
-player”). Elle est aussi survenue alors que COVID, enseignement hybride,
-ET réforme du BUT se cumulaient. Les changements de règles permanents,
-l’absence de stabilité dans le fonctionnement de la partie pédagogique,
-plus que les heures complémentaires “nécessaires” (car pas assez de
-vacataire ou permanents pour correctement assurer les cours), sont les
-plus grosses sources d’épuisement et de drain d’énergie dans mon cas.
+MOn établissement brasse beaucoup d’air, mais ne se pose aucune question
+qui ne soit pas comment obéir. Y compris en communiquant de façon
+conforme.
 
 ### Témoignage 4
 
-- sexe : Masculin
+- sexe : Féminin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
-- statut : Sous contrat CDI
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Autre
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Le Mans Université
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
 
-Favoriser et reconnaître le développement de logiciels libres ( cf
-<https://April.org/> et <http://refpersys.org/> dans les carrières des
-métiers de la recherche et de l enseignement supérieur)
+Mon université de rattachement et le CNRS font des efforts certes, mais
+avec le budget contraint qui leur est alloué ils font ce qu’ils peuvent
+(coût de l’énergie non compensé en totalité 2024 contrairement aux
+engagements annoncés par le MESR). Conclusion pour mon université
+actuellement 0 jour de fonds de roulement et 88% de masse salariale (GVT
+non compensé qui grève la charge de service public…). Bref une situation
+plus qu’alarmante avec la menace permanente du rectorat qui plane sur
+nos têtes et une campagne d’emplois contrainte : pour mon UFR
+probablement 2 postes à publier à la campagne d’emplois 2025 sur les 17
+supports d’EC vacants et pour les deux la vacance remonte à 2021 et
+2022.
 
 ### Témoignage 5
 
 - sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 5 à 9 ans
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Sous contrat CDD
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Université Toulouse Capitole
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Lumière - Lyon 2
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Responsable pédagogique
 
-.
+Il serait d’une grande niaiserie de croire que mon université peut
+quelque chose au regard de l’ampleur de ces crises. Les petits gestes
+symboliques et consolateurs (compost, tri, recyclage, tribune,
+déclaration de la présidence, pétition, action sociale en direction des
+étudiants et des personnels) nous endorment et ne changent quasiment
+rien sur le fond.
 
 ### Témoignage 6
 
 - sexe : Féminin
-- age : De 25 à 34 ans
-- anciennete : Moins de 5 ans
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Sous contrat CDD
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : Santé
-- etab : Université de Paris
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Bordeaux
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Responsable pédagogique
 
-ATER en ce moment, peu d’espoir sur la possibilité d’obtention d’un
-poste de MCF dans la ville de mon choix. Faire autant d’années d’études
-pour ne pas âtre assurée d’un poste et en plus ne pas choisir son lieu
-de vie (on prend le poste qui s’ouvre)… Et le salaire MISERABLE compte
-tenu des responsabilités, de la charge de travail, de la qualité
-exécrable de l’administration publique.
+Ambiance de travail déplorable en nette dégradation depuis des années
+qui pousse juste à la reconversion et à la fuite, en dépit d’années de
+travail acharné et d’investissement - jamais reconnu « par les pairs »
+ni personne d’autre - pour la communauté universitaire. J’espère juste
+réussir à trouver une porte de sortie, ce qui est loin d’être évident vu
+la réputation des enseignants (y compris du supérieur) dans la société.
+L’injustice est totale, tant à l’extérieur qu’à l’intérieur de
+l’institution.
 
 ### Témoignage 7
 
-- sexe : Féminin
-- age : De 55 à 64 ans
+- sexe : Masculin
+- age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : Non-applicable à votre métier
-- etab : Université de Paris
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paul-Valéry - Montpellier 3
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-Je ne peux répondre sur des questions relatives à l’enseignement et à la
-recherche, n’exerçant pas de fonction de cette nature.
+Mon université d’appartenance ne dispose pas des leviers nécessaires
+(notamment financiers, mais aussi d’action) pour agir de manière
+décisive sur ces crises : l’autonomie est en trompe-l’œil. Sa seule
+marge de manœuvre consiste à mettre en place une stratégie dans ses
+interactions avec son Ministère de tutelle afin de limiter les dégâts du
+désengagement financier de l’État.
 
 ### Témoignage 8
 
 - sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Jean Moulin - Lyon 3
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Je suis récemment passé de MCF à PU et d’une université dysfonctionnelle
-à un établissement qui tourne. Cela contribue sans doute à colorer
-positivement mes jugements.
+- age : De 55 à 64 ans
+
+- anciennete : De 30 à 39 ans
+
+- metier : Personnel de recherche
+
+- statut : Titulaire d’un poste de la fonction publique
+
+- categorie : PR, DR ou assimilé
+
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+
+- etab : IRD
+
+- etab.other :  
+
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+- Vous ne parlez pas de la crise de la biodiversité, qui peut également
+  interagir avec les travaux des chercheurs dans le domaine.
+
+- Mon institut, l’IRD, a fait du développement durable son objet de
+  recherche emblématique, mais les chercheurs continuent à sillonner la
+  planète en avion et à organiser des missions en bateau, comme si cela
+  était déconnecté. Cette schizophrénie au niveau de l’institut est
+  insupportable. Elle se manifeste également dans les liens d’intérêts
+  multiples qui amènent l’institut à persécuter les lanceurs d’alerte.
 
 ### Témoignage 9
 
-- sexe : Féminin
-- age : De 35 à 44 ans
+- sexe : Masculin
+- age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- etab : Université Paris Nanterre
+- etab : NA
 - etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
+- responsabilites : Responsable pédagogique
 
-La précarité des collègues sans poste est terrible, le sous encadrement,
-en plus de priver les étudiant.e.s de professeurs formés et
-enthousiastes, qui méritent un poste au lieu du chômage, épuise les
-titulaires. J’ai déjà été arrêtée 2 fois pour burn out, j’ai
-l’impression de mal faire mon métier en permanence, de devoir choisir
-entre bien enseigner ou faire de la recherche, je travaille soirs et
-week ends depuis….toujours. L’épuisement des collègues, administratifs
-et EC titulaires ou non-titulaires crée un climat d’aigreur, de
-rancoeurs, au détriment des échanges intellectuels et de l’intérêt pour
-les étudiant.e.s.
+Plutôt que “crise climatique”, notion très réductrice, il faut parler
+d’effondrement écologique, se déclinant par le “changement climatique”,
+l’effondrement de la biodiversité. L’effondrement écologique est le
+noeud des autres “crises” (par définition des “moments” allant de
+quelques mois à deux ou trois ans au plus). Le pic pétrolier étant
+passé, notre modèle social est entré en phase de récession énergétique ;
+la société se désagrège par le bas (classes populaires, services publics
+de base) alors que les riches conservent (et veulent conserver) leurs
+privilèges. L’Etat macroniste est le pantin de ces classes riches : il
+allège les impôts des plus riches et même des classes moyennes,
+affaiblit l’Etat qui ne remplit plus ses missions, donnant le prétexte à
+d’autres réformes visant la réduction des dépenses. L’université,
+héritière du productivisme, est une institution délaissée et ses membres
+préfèrent se bercer dans leurs illusions de carriérisme et de la
+recherche sur projet (je touche des centaines de milliers d’euros, je
+suis quelqu’un d’important / je dirige des programmes, je suis moi aussi
+un cadre du nouveau monde) plutôt qu’à se retrousser les manches pour
+construire un autre modèle d’université, fondée sur la coopération,
+l’esprit d’équipe et les objectifs collectifs. On peut se plaindre de
+multiples crises “x”, la médiocrité morale (cf. le carriérisme,
+l’égocentrisme sur-développé, le tout fondé sur un système de
+recrutement incohérent) d’une grande partie des enseignants-chercheurs
+conduit au lent effondrement de l’université.
 
 ### Témoignage 10
 
 - sexe : Masculin
 - age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
+- anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Autre
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lille
 - etab.other :  
-- responsabilites : NA
+- responsabilites : Responsable pédagogique
 
-Bravo : quel travail ! Merci de nous donner la parole… Bien à vous
+À la question sur la confiance ressentie vis à vis de mon ministère
+(ESR), quelle réponse choisir entre “pas du tout et”connais pas” ? Car
+quelle(s) action(s) favorable(s) a-t- il mené, par exemple depuis la LRU
+? Je suis incapable de citer une quelconque bonne action en ce qui
+concerne : rémunération, conditions de travail (enseignement, recherche,
+responsabilités), perspectives de carrière, reconnaissance, etc. etc.
+etc. :-{
 
 ### Témoignage 11
 
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Montpellier
+- sexe : NA
+- age : NA
+- anciennete : NA
+- metier : NA
+- statut : NA
+- categorie : NA
+- discipline : NA
+- etab : NA
 - etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
+- responsabilites : NA
 
-Ma situation concernant des projets de recherche financés c’est
-nettement améliorée en 2022 après 5 ans de vaches très maigre :
-peut-être est-ce dû à une légère amélioration des taux de succès à
-l’ANR, le Plan de relance etc. En revanche, je réalise maintenant que je
-perds de l’argent de mes budgets à cause de la charge et des
-disfonctionnement administratifs (remontés de crédits, chorus pro qui
-n’est pas compris par les fournisseurs pendant des mois…) : il est
-devenu difficile de travailler même lorsque l’on a obtenu des budgets.
+Il faut se battre pour faire appliquer les recommandations du rapport
+Jouzel, la tendance est à la réduction du nombre d’heure devant
+l’étudiant (Licence à 1500 h), avec de l’enseignement hybride si
+possible, l’approche par projet est complètement découragée sous
+prétexte de manque de moyens, de manque de locaux et de manques de
+personnels…
 
 ### Témoignage 12
 
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Strasbourg
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Autre
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-Il y a des limites au travail que l’on peut ajouter aux
-enseignants-chercheurs, notamment dans le but d’économiser des emplois
-administratifs. Deux burn-outs dans mon laboratoire sur les 3 dernières
-années, et probablement un 3e en cours…dans une université IDEX, et donc
-soi-disant privilégiée, cela fait un peu désordre. Il semblerait aussi
-que nous subissions les effets d’une certaine hiérarchie des
-disciplines. Chez nous, ce sont par exemple les enseignants-chercheurs
-qui élaborent les emplois du temps (depuis au moins une vingtaine
-d’années), ce n’est visiblement pas le cas dans les sciences dures.
-
-Pourquoi devons-nous composer nos propres emplois du temps, alors que ce
-service
+Je suis DRCE en fin de carrière et mes conditions de travail n’ont
+jamais été aussi déplorables en termes d’ambiance au labo, de
+contraintes administratives pour les achats, de lenteur dûe au manque de
+personnel. Le télétravail c’est sans doute pratique pour les jeunes qui
+ont des enfants mais c’est une catastrophe pour le travail en équipe.
 
 ### Témoignage 13
 
-- sexe : Masculin
-- age : Au moins 65 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Bretagne Sud
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Université Grenoble Alpes
 - etab.other :  
 - responsabilites : Aucune de ces responsabilités
 
-Placardisé.
+recherche en biologie : pour limiter les déchets (plastiques et autres)
+et la surconsommation il faut une autre organisation des
+approvisionnements avec plus de recyclable (investissements en laverie
+et les postes de personnels qui vont avec), une organisation collective
+des commandes, des tarifs négociés = réduits pour les achats
+académiques…..). Tout cela a un cout, nos financements récurrents sont
+largement insuffisants. On manque de techniciens et on passe une
+(grande) partie de notre temps de chercheur soit à compenser le manque
+de technicien, soit à faire des demandes de financement des projets dont
+un pourcentage très dérisoire aboutira… Nos locaux sont vétustes et les
+conditions de travail inadaptées (trop chaud l’été, trop froid l’hiver,
+par manque de financement global, des climatisations/chauffages
+s’installent dans les locaux pour protéger comme on peut le matériel et
+permettre de travailler, au détriment in fine de l’écologie et
+l’économie globale…). Pour les missions, il faut que toutes les tutelles
+puissent prendre en compte les modes de transports écologiques ( stop,
+covoiturages comme blablacar, etc, les logements hors hotel…) et avoir
+des vrais tarifs négociés pour les transports (on fait souvent le
+constat que c’est moins cher de prendre son billet de train ou bus soi
+meme que par le tarif négocié avec les tutelles…???).
 
 ### Témoignage 14
 
-- sexe : Masculin
-- age : De 45 à 54 ans
+- sexe : NA
+- age : De 55 à 64 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Muséum national d’histoire naturelle
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Rennes 1
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Aucune de ces responsabilités
 
-Peu d’espoir d’amélioration de la situation dans la recherche: on va
-attendre la retraite en se préservant (et cessant le portage de grands
-projets), même si la retraite s’éloigne quand on s’en rapproche…
+Les efforts de l’institution sont très contreproductives pour mes
+conditions de travail. On dirait que personne ne demande à ceux qui font
+les conséquences de choix ‘publicitaire’ (comme greenwashing, intérêt
+sociétal , etc…)
 
 ### Témoignage 15
 
 - sexe : Masculin
 - age : De 55 à 64 ans
-- anciennete : Au moins 40 ans
-- metier : Personnel de recherche
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Strasbourg
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Bourgogne
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Responsable pédagogique
 
-La dégradation de l’ESR n’est qu’un épiphénomène au vu de la catastrophe
-écologique en cours mais elle résulte du même aveuglement de nos
-gouvernants.
+Conditions de travail très dégradées. Injonctions administratives
+souvent ubuesques qui impactent les conditions de travail, et imposent
+toujours plus de tâches à coûts constants. Invasion de notre quotidien
+professionnel par une multitude des tâches administratives chronophages
+qui sont externalisées sur les enseignants-chercheurs, notamment à cause
+des plateformes numériques. Recherche par projets qui tue la réelle
+recherche et entraîne une course aux financements inepte. Atteinte
+progressive à la liberté pédagogique. On transforme l’université en
+super-lycée, et on nous pousse progressivement à faire des fiches
+pédagogiques supervisées par des conseillers pédagogiques ignares.
 
 ### Témoignage 16
 
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- sexe : NA
+- age : NA
+- anciennete : NA
+- metier : NA
+- statut : NA
+- categorie : NA
+- discipline : NA
 - etab : NA
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : NA
 
-L’université n’est plus cet espace de liberté que j’avais choisie.
-Administration tatillonne.
+Depuis 1945, jamais nous n’avons connu une telle situation, de telles
+situations de crises. Les métiers d’enseignant-chercheur et de chercher
+ne fait plus rêver personne. Nous sommes abrutis par des tâches
+administratives inutiles, chronophages et imbéciles pour lesquelles nous
+n’avons pas de compétence, ni d’appétence. La réunionnite nous a bouffé
+et nos tutelles q’ont aucune vision, juste des peurs. Pourvu que mes
+enfants fassent d’autres choix professionnels que l’enseignement
+supérieur !
 
 ### Témoignage 17
 
 - sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Strasbourg
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Cette détérioration observée depuis quinze ans est le fruit d’une
-politique de casse du système français de la recherche et enseignement
-supérieur tout simplement en la privant des moyens financiers et
-humains…simple comme bonjour !! Le système a tenu un certain temps sur
-la bonne volonté des personnels, mais ça craque de toute part…et ça va
-s’effondrer comme un château de cartes
-
-### Témoignage 18
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Paris-Est Créteil
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Merci !
-
-### Témoignage 19
-
-- sexe : Autre
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Sous contrat CDD
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Grenoble Alpes
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Je déplore le déficit chronique d’engagement des personnels de l’ESR
-dans les mouvements sociaux d’opposition aux réformes néolibérales.
-Parmi les causes, on peut selon moi identifier : (i) une forte adhésion
-à une norme individualiste compétitive, favorisant un comportement
-carriériste autocentré, (ii) une sensibilité politique centriste.
-
-### Témoignage 20
-
-- sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Claude Bernard - Lyon 1
+- etab : Université Paris-Cité
 - etab.other :  
 - responsabilites : Aucune de ces responsabilités
 
-Notre maison brûle et nous regardons ailleurs
+Il n’y a pas que la crise climatique : c’est une crise bien plus vaste,
+écologique. Comme je ne travaille plus que sur ça, ça impacte évidemment
+mon travail. Le pire est que l’institution est toujours en déni
+là-dessus (une question au même titre que d’autres questions à
+traiter…).
 
-### Témoignage 21
+### Témoignage 18
 
-- sexe : Féminin
+- sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- etab : Université de Paris
+- etab : Université de technologie de Compiègne
 - etab.other :  
 - responsabilites : Membre d’une direction de composante ou laboratoire
 
-Entrée depuis moins de 10 ans dans l’ESR, j’assiste à la rapide
-dégradation de notre travail. Je pense que parcoursup et cette année la
-plateforme trouve ton master y sont pour bcp (charge de travail
-écrasante - et idiote et que je juge difficile pour les jeunes
-étudiants - en fin d’année : le ministère nous fait gérer la pénurie !!
-Et les évaluations de procédures + évaluations individualisées de notre
-travail qui se multiplient nous mettent en concurrence entre collègues
-et cassent les collectifs. J’ai refusé d’évaluer un dossier d’avancement
-de carrière l’année dernière… Ces procédures organisées à un niveau
-national nous obligent à traiter des mails et des dossiers durant des
-périodes de vacances parfois. Pour ma vie en général, je travaille
-soirée et we compris. Je suis épuisée. Je ne pense pas pouvoir continuer
-ainsi longtemps sans tomber malade.
+L’IAg menace de crétiniser l’ensemble de la population étudiante :
+écrire, c’est se produire soi-même. Prolétariser l’écriture via des
+outils présentés comme l’avenir, c’est déposséder l’être humain de la
+production de lui-même : une catastrophe cognitive est en cours (et se
+transformera à terme en catastrophe psychosociale). Par ailleurs, le
+principal enjeu actuel est d’infléchir la trajectoire technoindustrielle
+des sociétés contemporaines, alors que tous les efforts présentés
+aujourd’hui comme du verdissement ne font qu’accélérer la dégradation
+des milieux physiques, psychiques et sociaux.
+
+### Témoignage 19
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Nantes Université
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Les mots manquent pour décrire le ressenti face aux mensonges
+institutionnalisés, la course effrénée, toujours dans le sens du court
+terme, du profit, de la recherche finalisée avec si possible la création
+d’entreprise, comme si cela constituait la raison d’être de
+l’Université. L’indifférence ambiante, comme si tout cela était normal
+est peut-être le pire… Heureusement, le lien avec les étudiants, entre
+(certains) collègues, le travail en équipe permet encore de tenir !  
+Merci pour l’organisation de ce baromètre
+
+### Témoignage 20
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Institut national d’enseignement supérieur pour l’agriculture,
+  l’alimentation et l’environnement
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Les ONR obéissent aux girouettes gouvernementales au lieu de s’en
+affranchir.
+
+### Témoignage 21
+
+- sexe : NA
+- age : NA
+- anciennete : NA
+- metier : NA
+- statut : NA
+- categorie : NA
+- discipline : NA
+- etab : NA
+- etab.other :  
+- responsabilites : NA
+
+Je pense que mon établissement et les autres tutelles de mon labo (y
+compris CNRS) n’ont pas vraiment de poids politique pour infléchir quoi
+que ce soit au niveau national.
 
 ### Témoignage 22
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Paris
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’ingénieurie
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Aix-Marseille Université
 - etab.other :  
-- responsabilites : Membre élu d’une instance nationale
+- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Concernant les conditions de travail et les relations avec les collègues
-: j’ai été volontairement discriminée sur un poste de professeur l’an
-dernier. Le président du COS a 1) modifié le profil du poste ; 2)
-dissimulé les conflits d’intérêts massifs qu’il avait avec le candidat
-classé premier ; 3) dissimulé un manquement à l’intégrité scientifique
-commis par un tiers (le candidat classé premier a été convaincu de
-manquement à l’intégrité scientifique dans un rapport de RIS). Grâce à
-mes démarches et d’autres (direction de l’UFR, collègues de l’UFR),
-l’élection a été invalidée par le CA. J’avais été classée deuxième (au
-grand dam du président du COS), mais le CA n’a pas le pouvoir de
-modifier le classement.
+Côté crise climatique, il y a des efforts sur les mobilités douces
+encouragées bien mais la vétusté de nos bâtiments, les mauvaises
+pratiques ancrées dans certains services et la gestion des déchets sont
+une catastrophe (en particulier les déchets de laboratoires). Côté crise
+économique, mon institution est victime par effet domino d’un manque
+d’investissement dans l’ESR au niveau de l’état. Ils font ce qu’ils
+peuvent avec un bon sens parfois discutable, mais l’effort est concret
+(en particulier grâce à une vraie structure d’aide sociale efficace et
+réactive). Côté crises diplomatiques et politiques, la frilosité voire
+la paranoïa de l’institution est très notable face à la demande de
+réunions pour des discussions ou de débats sur des sujets importants et
+parfois clivants. S’il y a bien un endroit où il faudrait ne pas avoir
+peur d’échanger sur ses opinions de manière pacifique sans voir
+débarquer les forces de l’ordre, c’est dans l’ESR. Je précise que je
+fais référence à un groupe de discussion installé sans déranger dans un
+lieu disponible et ayant exposé clairement le thème abordé et la méthode
+(ici le débat), et non à un blocage intempestif non justifié (qui lui,
+est contraire à la liberté d’autrui bien sûr et que je trouve
+personnellement intolérable).
 
 ### Témoignage 23
 
@@ -449,137 +524,145 @@ modifier le classement.
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Rennes 1
+- statut : Sous contrat CDI
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Rouen Normandie
 - etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
 
-Le financement de la recherche est totalement aberrant avec un
-asséchement des ressources propres et un financement délirantt sur des
-projets blingbling de “rupture” (cf PEPR) et un Credit impot recherche
-en roue libre. Payez moi (ça ça va) et donnez moi les moyens de faire
-mon boulot. Si J’aurai voulu passer mon temps à rechercher de l’argent
-j’aurai fait HEC (sic) et pas un doctorat en science.
+La situation de l’université ne fait que se dégrader depuis des
+décennies, les crises politiques et économiques s’accompagnent de
+stigmatisation du service public et de ses agents, les financements
+publics s’amenuisent et sont conditionnés par de soi-disants taux de
+résultats de la réussite des étudiants et des publications
+scientifiques… C’est le monde à l’envers: on nous financerait qu’à
+partir de bons résultats mais on ne nous finance pas pour pouvoir faire
+notre travail correctement. C’est du coup la dictature des chiffres, de
+la rentabilité, de l’affichage qui l’emporte, avec toutes les dérives
+que cela entraine sur la qualité du service public… la qualité on s’en
+fiche, il faut produire et se battre pour les maigres ressources
+disponibles. C’est tout à fait déprimant, révoltant.
 
 ### Témoignage 24
 
 - sexe : Féminin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Grenoble Alpes
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Université de Rennes 1
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Je suis syndiquée, pas très active cependant !
+Crise climatique & économique: beaucoup de brassage d’air, de com. et
+d’affichage mais nous continuons tout de même sur la même pente
+conduisant vers le précipice (allez, on y est presque, encore un petit
+effort!) Il faut que tout change pour que rien ne change…
 
 ### Témoignage 25
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Montpellier
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel technique
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie C ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Université de Strasbourg
 - etab.other :  
-- responsabilites : Membre d’une autre instance centrale d’établissement
+- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Je ne trouve plus la force de soutenir les jeunes qui sortent du
-doctorat dans leurs efforts pour parvenir à un emploi dans l’ESR
+Mon institution n’a pas les leviers (l’argent, le personnel, etc…) pour
+lesdits efforts
 
 ### Témoignage 26
 
 - sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’enseignement
-- statut : Vacataire ou précaire
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Strasbourg
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel technique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Toulouse - Jean Jaurès
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : NA
 
-Insuffisance des effectifs administratifs et enseignants
+L’avenir ne présage rien de bon. Je suis navré de faire ce constat -
+personnel mais de plus en partagé - au vu de l’évolution et les
+décisions, qu’elles soient politique, economique, financière,
+culturelle, …nous allons de décrépititute en déchéance, de déchéance en
+décadence, et inversement: on tourne en rond !
 
 ### Témoignage 27
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
+- age : Au moins 65 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Grenoble Alpes
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Autre
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Membre élu d’une instance nationale
 
-Créer des processus “qualité” qui sont supposés faciliter le travail des
-personnels en charge de l’administration de la recherche et qui au final
-permettent de “justifier” la suppression des postes de tels agents et à
-grever le temps de travail des enseignants-chercheurs est sur le long
-terme totalement contre-productif pour la recherche et l’enseignement en
-France. Il manque une réflexion globale sur les carrières
-d’enseignants-chercheurs. Les CRCT devraient être généralisés et de
-droit (1 an tous les 6 ans par exemple) comme ils le sont dans d’autres
-pays (sauf pour ceux ayant déjà racheté leurs services ou ceux n’ayant
-exercé aucune fonction de gestion de master, de filière ou de direction
-les années précédentes). Cela pourrait permettre une meilleure
-répartition des charges collectives.
+je travaille au Cirad (je n’ai pas répondu a certaines questions car je
+en suis pas enseignante et donc certaines questions ne sont pas
+pertinentes (et pas de réponses coté carrière car je serai bientôt a la
+retraite!) le travail est en partenariat avec les “pays du Sud” les
+conditions politiques et diplomatiques impactent beaucoup les conditions
+de travail (en plus statut EPIC)
 
 ### Témoignage 28
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : Moins de 5 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Poitiers
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Ce ressenti est sensiblement différent de ce que javais affirmé lors
-d’enquêtes antérieures. Il ne met pas en évidence autant qu’il le
-faudrait la difficulté des conditions de travail des personnels
-administratifs. Pour ma part, j’ai l’impression que nos métiers et nos
-institutions sont la cinquième roue du carrosse-ou du char de l’Etat-
-L’actuelle réforme des retraites est inadaptée à des professions comme
-les nôtres, où la part de travailleurs précaires est très importante.
-
-### Témoignage 29
-
-- sexe : NA
-- age : De 45 à 54 ans
+- age : De 55 à 64 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université d’Angers
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Claude Bernard - Lyon 1
 - etab.other :  
 - responsabilites : Membre d’une direction de composante ou laboratoire
 
-Pour la semestrialisation des emplois du temps.
+2)  Nous n’avons pas les moyens suffisants pour adresser la
+    paupérisation de la population étudiante, ou pour accueillir les
+    populations déplacées. La crise politique renvoie au 2nd plan les
+    enjeux de formation supérieure ; avec des préjugés et des pressions
+    du corps politique + une délégation de gestion aux corps
+    administratifs et financiers (toute la clique des ENArques, dont
+    Cour des Comptes) qui sont inacceptables au regard des standards
+    internationaux.
+3)  La prise en compte de la crise climatique par nos instances est à un
+    niveau indigne de la culture scientifique qui prévaut dans nos
+    milieux professionnels. Il me semble que les établissements ne sont
+    pas les bonnes échelles pour adresser ou contribuer à répondre aux
+    crises économique et diplomatique.
+
+### Témoignage 29
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel techno-scientifique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Vous auriez pu ajouter une question qualitative sur l’action de nos
+institutions, pour chaque item est qu’il s’agit d’une ‘vraie’ action ou
+d’une action qui relève de la communication ou de l’idéologie
+(greenwashing, wokisme …)
 
 ### Témoignage 30
 
@@ -588,1947 +671,2459 @@ Pour la semestrialisation des emplois du temps.
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Franche-Comté
+- etab : Université de Lille
 - etab.other :  
 - responsabilites : Membre d’une direction de composante ou laboratoire
 
-J’ai l’impression d’une très forte dégradation des conditions de travail
-liées aux aspects administratifs. Les procédures se complexifient, tant
-à cause de l’élargissement du mille feuille administratif, que par ce
-qui me semble une volonté de contrôle des services centraux (service
-qualité, service financier qui demande de se prendre en photo en
-conférence ou des extraits de compte,…). Exemple : on n’a plus le droit
-de s’inscrire à une conférence avec notre carte bancaire personnelle, il
-faut aller prendre rdv à la présidence (5km) et perdre 2-3h pour le
-faire. Ce genre d’exemples se multiplie, conduisant à un épuisement, un
-découragement, parfois pour certains collègues à un renoncement (plus
-personne ne souhaite poser de projets Interreg, tellement chronophage
-administrativement), voire à une démoralisation devant l’absurdité du
-travail quotidien.
-
-Les présidences d’université semblent gérer la pénurie avec pour
-objectif unique “de ne pas devenir une université sans recherche”, en se
-focalisant sur des actions de communication (ouvrir masters
-internationaux vide de sens par exemple) sans réelle solution pour
-améliorer l’université dans ses missions premières.
-
-L’ANR, qui aime les projets bien “marketés” plus que les projets
-scientifiques, finance essentiellement de l’innovation, faisant fi de la
-recherche de savoir.
-
-Mes plus grandes craintes sont d’observer des collègues plus jeunes,
-véritables VRP du projet de recherche, spécialiste des dossiers et
-indicateurs, optimisateurs de carrières, monter les échelons, prendre
-des responsabilités et promouvoir non pas une recherche du savoir, mais
-une recherche de bon bilans chiffrés.
+Concernant l’ensemble de ces crises, l’immensité des directoires sont
+incompétents et ne se préparent pas suffisement, sauf l’état qui semble
+avoir bien intégré les problématiques dans l’ensemble par des conseils
+avisés mais la stratégie n’est pas bien communiquée ou relayée par un
+manque de compétences/assurance dans le flux descendant liés à des
+idéologies trompeuses qui maintiennent de très nombreuses illusions afin
+d’assurer une forme de paix sociale dans cette idiocratie.
 
 ### Témoignage 31
 
 - sexe : Masculin
-- age : De 45 à 54 ans
+- age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université d’Artois
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Gustave Eiffel
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-Supprimons tout ce qui est nuisible : ANR, HCeRS, Idex, Chaires
-professeur je ne sais quoi, loi LRU et ce qui a suivi,…
+Je vis très mal la mise en œuvre par l’Etat et le CNRS d’une politique
+“darwinienne” de mise en compétition généralisée des chercheurs, des
+équipes, des générations, des labos, des universités. Paradoxalement,
+cet équivalent du libéralisme sauvage s’est traduit par plus de
+bureaucratie et moins de liberté. Après 35 ans de carrière, il ne reste
+pour me motiver que l’appétit d’apprendre des étudiants, le dévouement
+des équipes enseignantes et administratives pour leur offrir une
+formation, et les attentes des collectivités locales et des associations
+pour une connaissance qui ne soit pas orientée par la concurrence.
 
 ### Témoignage 32
 
 - sexe : Féminin
-- age : De 45 à 54 ans
+- age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Toulouse - Jean Jaurès
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CY Cergy Paris Université
 - etab.other :  
-- responsabilites : Membre d’une autre instance centrale d’établissement
+- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Une question pourrait être ajoutée : avez-vous déjà souffert de votre
-travail ? J’airai répondu oui Autre question potentielle : avez-vous
-fait un burnout diagnostiqué ou non comme tel : j’aurai répondu oui
-(diagnostiqué officiellement comme tel) et avez vous bénéficié d’un
-aménagement de poste en retour : j’aurai dit non Avez-vous des séquelles
-? J’aurai dit oui (perte cognitive)
+“Il faut être rentable. A défaut on ne sert a rien.” Voilà mon
+sentiment. Je ne veux pas “être rentable”, je veux être utile. Être
+conscient qu’on travaille mal, c’est difficile.
 
 ### Témoignage 33
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université d’Orléans
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
 - etab.other :  
 - responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Il me semble que la cause principale du déclin de la recherche et de
-l’enseignement supérieure réside dans le déséquilibre grandissant (et
-encouragé) entre la le coté compétitif et le coté collaboratif de nos
-pratiques.
+Je suis référent DDRS de mon labo. A ce titre, je travaille avec les
+autres référents DDRS de mon université. Nous devons travailler sans
+moyens spécifiques, et avec un budget qui se rétracte. Nous ne sommes
+guère écoutés par la présidence de notre université. De manière
+générale, j’estime que la crise climatique, et plus généralement la
+crise écologique au sens large, n’est pas suffisamment prise en compte,
+ni par mon université, ni par le MESR.
 
 ### Témoignage 34
 
 - sexe : Masculin
-- age : Au moins 65 ans
-- anciennete : Au moins 40 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Autre
+- etab : Université de Lille
 - etab.other :  
-- responsabilites : NA
+- responsabilites : Responsable pédagogique
 
-à noter que je suis professeur émérite, continuant à faire de la
-recherche, mais sans activité d’enseignement
+Il faut arrêter de se même de tout et n’importe quoi. L’Université est
+le lieu de la transmission et de la création des savoirs. La résolution
+des crises doit venir du pouvoir politique ; en quoi une Université
+devrait-elle s’occuper de politique étrangère ? Ca n’a aucun sens.
 
 ### Témoignage 35
 
-- sexe : Féminin
+- sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
+- metier : Personnel de bibliothéque
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Sorbonne Université
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Université de Strasbourg
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Aucune de ces responsabilités
 
-Les conditions de travail en général dépendent beaucoup des décisions
-d’organisation prises au niveau local (laboratoire, institut) et des
-interactions avec les autres membres du laboratoire (personnels de
-recherche ou administratifs). Il m’est plus difficile d’évaluer l’impact
-des lois et organismes plus distants.
+Je souhaite que mon institution fasse face à la réalité et inclue les
+étudiants dans des projets efficaces. Je souhaite que mon institution
+cesse de penser que faire de la comm suffit.
 
 ### Témoignage 36
 
 - sexe : Masculin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Grenoble Alpes
+- etab : Université de Strasbourg
 - etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
+- responsabilites : Membre élu d’une instance nationale
 
-N’hésitez pas à mettre votre “base 100” à différentes époques, notamment
-au début de carrière des retraités actuels pour montrer l’effet des
-politiques au cours du temps.
+Qu’ils aillent tous et toutes (soyons inclusifs) se faire enculer; ce
+tas de macroniste mérite d’être envoyé au front en Ukraine pour se
+prendre le résultat de 15 années de neolibéralisme en 1 seconde dans
+leurs gueules de lèche-culs.
 
 ### Témoignage 37
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Université de Strasbourg
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-bravo et merci
-
-### Témoignage 38
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de technologie de Troyes
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-la catégorie des itarf comporte désormais des administratifs ingénieur
-des bap F. Cela introduit un biais massif dans les recrutements puisque
-l’état croit recruter ou promouvoir des techniques et ne fait en réalité
-que gonfler l’administration au détriment des métiers technique en cruel
-manque dans les établissement et qui par ailleurs sentent un appel d’air
-puissant venant du privé. Le bias devrait aussi impacter ce sondage
-puisque ces personnels vont répondre en tant qu’ingénieurs.
-
-### Témoignage 39
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Paris-Saclay
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Si les instances proches (opérationnelles) sont tout à fait
-constructives et cherchent à faire fonctionner la machine du mieux
-possible, dès qu’on passe à un niveau organisationnel plus élevé
-(ministère, grandes organisations …) la conduite des opérations
-(transformations ou pas) sert des objectifs qui ne sont pas ceux qui
-sont affichés (peut-on vraiment dire que l’efficacité de la recherche ou
-de l’enseignement a été améliorée par les diverses réformes effectuées
-?). D’autre part, cette conduite est foncièrement maltraitante vis à vis
-de ses personnels. Toute ressemblance avec l’histoire de France Télécom
-ne saurait être purement accidentelle.
-
-### Témoignage 40
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Autre
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Sclérose et lourdeur des appareils d’administration de la recherche que
-les réformes successives de l’ESR ont induites depuis la LOLF ont eu
-pour conséquence 1) une perte de confiance entre les acteurs
-institutionnels, 2) une défiance systématique à l’égard des
-individus/structures utilisant des financements publics pour leur
-recherche qui a conduit à un contrôle excessif et des procédures de
-gestion trop lourdes. La conséquence est une lente mais apparemment
-inexorable érosion des capacités de réactivité de la recherche
-française, un découragement des acteurs et in fine un décrochage
-généralisé sur le plan international.
-
-### Témoignage 41
-
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Aix-Marseille Université
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-La multiplication des appels d’offre de toutes natures pour l’obtention
-de moyens financiers entraine mécaniquement une dispersion des énergies
-et s’accompagne d’un reporting administratif incessant extrêmement
-chronophage qui nous détourne de plus en plus de nos missions
-essentielles, recherche et enseignement.
-
-### Témoignage 42
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Lille
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Je dirige un parcours en sous effectif titulaire : encadrement à 88
-étudiants (L+M) par enseignants chercheurs. Situation qui multiplie les
-tâches administratives et pédagogiques chronophages et épuisantes,
-réparties sur un trop petit nombre. Situation qui entraine une grande
-difficulté à progresser dans les recherches de fond. Nos formations
-fonctionnent grâce au sacrifice de quelques-uns : les perspectives de
-progression (HDR ?) s’éloignent chaque année. Incitation de plus en plus
-forte au distanciel ou à l’hybride, pour économies de fonctionnement.
-Incitation de plus en plus forte au transversal tout azimut, qui
-entraine des difficultés d’organisation (emplois-du-temps, enseignement
-multi-cite, etc), mais qui trouble également la visibilité des objectifs
-et contenus du cœur de la formation. Les étudiants ne s’y retrouvent
-pas. L’économie de fonctionnement parait être devenu la seule ligne
-directrice, devant la clarté des formations, la pédagogie et la
-recherche fondamentale.
-
-### Témoignage 43
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Institut national universitaire Jean-François Champollion
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Je trouve que ce baromètre ne fait pas apparaître l’accroissement des
-tâches administratives aussi bien dans l’enseignement que dans la
-recherche et la fragilisation des équipes liée à l’emploi de plus en
-plus important de vacataires. Je regrette également qu’on ne puisse
-donner son avis sur l’organisation de la recherche par projet, sur le
-recours abusif au distanciel ou sur la fermeture des sites et l’abandon
-de l’université pendant le Covid dans l’indifférence générale. On
-pourrait aussi indiquer le regard de la société sur nos emplois d’EC qui
-s’est fortement dégradé (wokisme etc.), surtout quand on compare au
-statut des EC dans d’autres pays.
-
-### Témoignage 44
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de technologie de Belfort-Montbéliard
-- etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
-
-Les multiples changements de règles du jeu au cours des 15 dernières
-années dans l’ESR (qui oblige à changer de cadre en permanence, avec des
-temps d’adaptation et de flottement), ainsi que l’augmentation de la
-charge administrative (notamment par le recours au numérique et la
-multiplication des procédures d’évaluation à de multiples niveaux, sous
-des formats différents et sans coordination) ont transformé les
-conditions d’exercice des métiers de l’enseignement supérieur et de la
-recherche pour les EC : notamment, la lourdeur du travail administratif
-empêche de réaliser correctement les missions de recherche et parfois
-d’enseignement.
-
-### Témoignage 45
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : La Rochelle Université
-- etab.other :  
-- responsabilites : Membre élu d’une instance nationale
-
-La dégradation me semble incompatible avec nos missions de service
-public de formation des jeunes et de recherche
-
-### Témoignage 46
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Côte d’Azur
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-J’espère simplement que ce baromètre pourra apporter qqs pistes et/ou
-solutions à l’état actuel de l’ESR…
-
-### Témoignage 47
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Lumière - Lyon 2
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Inquiétude devant la multiplication des problèmes de santé mentale liés
-aux conditions de travail et devant l’implosion des équipes face à la
-surcharge administrative d’une part (impossibilité de trouver des
-candidats pour les responsabilités même les plus légères) et face à la
-logique individualiste centrifuge des appels à projet, chaires junior,
-etc. de l’autre. Sentiment de m’être engagée dans la fonction publique
-pour servir les étudiants, faire progresser le savoir, mais d’être
-aujourd’hui intellectuellement stérilisée par la multiplicité des
-charges, et lâchée ou empêchée dans les tâches essentielles
-(dévalorisation de l’enseignement en présentiel, absurdités
-bureaucratiques, par exemple)
-
-### Témoignage 48
-
-- sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Jean Moulin - Lyon 3
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Je viens d’avoir un poste, je pense que cela fausse en partie les
-résultats. Sinon j’aurais été beaucoup plus pessimiste.
-
-### Témoignage 49
-
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Institut national des sciences appliquées de Rennes
-- etab.other :  
-- responsabilites : Membre d’une autre instance centrale d’établissement
-
-Très pessimiste sur l’évolution générale future de l’ensemble de la
-société et de l’enseignement supérieur car pas du tout encourager et
-soutenu le personnel compétent, bien au contraire (inversion de
-l’échelle des valeurs).
-
-### Témoignage 50
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Strasbourg
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Qui utilisera le 49.3 pour embaucher les 11000 EC manquant à la France ?
-
-### Témoignage 51
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Lille
-- etab.other :  
-- responsabilites : Membre d’une autre instance centrale d’établissement
-
-Je suis épuisée. Autour de moi, mes collègues sont épuisés. Chaque
-année, on se dit que la surcharge administrative est due à une
-réorganisation passagère, que ça ira mieux l’an prochain, puisque nous
-sommes dans un processus d’amélioration continue (sans rire c’est le
-terme utilisé à l’université). C’est bien évidemment faux, chaque année
-est plus absurde que la précédente. Vivement la retraite … euh non en
-fait, de ce côté là aussi ça empire :-(((
-
-### Témoignage 52
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : Santé
-- etab : Université de Rennes 1
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Je suis catastrophé par le manque de moyens accordés à la recherche,
-secteur pourtant essentiel à notre pays et aux enjeux actuels
-(réchauffement, évolution de la société, …) et la conséquence : chute de
-la motivation des personnels en place (désabusés devant l’indigence de
-la gouvernance de l’ESR en France) et diminution drastique, très
-inquiétante des inscriptions en doctorat …. Avenir de l’ESR dans le
-futur ?
-
-### Témoignage 53
-
-- sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Sous contrat CDD
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Paris-Est Créteil
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Si j’ai précisé que la LPR avait eu un effet plutôt positif, c’est
-uniquement vu de ma fenêtre, car un CPJ se dessine pour moi. En
-revanche, je me suis mobilisé contre cette loi en 2020 et j’ai déjà
-refusé un premier CPJ l’année dernière. Aujourd’hui, il se trouve que je
-n’ai plus le choix. L’autre point que je voudrais préciser, c’est la
-lourdeur de la bureaucratie. On a véritablement des envies de tout
-cramer. On avance des centaines d’euros et c’est la croix et la bannière
-pour se faire rembourser. Les crédits liés aux contrats de recherche
-sont (mal)gérés en-dehors des labos dans des instances dédiées
-complètement inefficaces et qui rajoutent un échelon au mille feuille
-administratif. Nous voulons une autonomie de gestion de ces crédits que
-ce soit pour les commandes, les prestations ou les remboursements et un
-contrôle a posteriori comme les médecins avec la sécu! Comme ça, qu’il y
-ait du personnel ou pas pour vérifier les comptes, ce n’est pas notre
-problème. Alors qu’aujourd’hui, les choses ne sont pas vallidées et se
-perdent dans les lymbes administratives. Il faut dépenser beaucoup
-d’énergie pour débloquer des situations ubuesques créées de toute pièce
-par des procédures inadaptées. C’est les 12 travaux d’Asterix en
-permanence. On fonctionnerait mieux sans ces “services” administratifs…
-
-### Témoignage 54
-
-- sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Paris-Saclay
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-gros gros problème de mutation qui est devenu aujourd’hui impossible
-dans les faits (malgré ce que pense les instances), tout est bloquant,
-cela renforce un sentiment d’impossibilité d’évolution.
-
-### Témoignage 55
-
-- sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : La Rochelle Université
-- etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
-
-La mise en place du BUT en contexte COVID a considérablement épuisé les
-troupes en IUT. Les différences entres les statuts pour un même travail
-accentue les tensions entre personnel… Dramatique. J’ai vu des gens
-autrefois soudés et soucieux des autres complètements autocentré pour
-tout simplement survivre…
-
-### Témoignage 56
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Montpellier
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-non
-
-### Témoignage 57
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Paris-Saclay
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Le temps passé à gérer de l’administratif parce que notre employeur ne
-nous fait pas confiance et cherche à surveiller toute dépense, à
-organiser la recherche au sein de mon laboratoire dans un climat
-délétère de destruction des services publics, à remplir des dossiers
-pour rien, en urgence, sans délai de réflexion et à postuler à des
-demandes de financements qui n’aboutissent pas et font perdre 30% des
-budgets de la recherche en administration inutile, à travailler sur la
-création de nouvelles institutions dont même les demandeurs ne
-connaissent pas les contours et qui ne servent finalement à rien voire
-disparaissent, à répondre à des demandes de constructions de structures
-vide qu’on nous demande de remplir pour justifier les emplois de ceux
-qui gèrent ces structures, les PEPR sont la dernière invention de
-détournement de fonds au profit des structures en charge de la mise en
-place de ces projets. Et tout ça en continuant à demander à l’ESR d’être
-performant, compétitif, innovant, formateur, structurant,
-pluridisciplinaire et européen ou international ! Arrêtez ce train… Il
-n’y a qu’un mur pour terminus…
-
-### Témoignage 58
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Paris
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Réticence à remplir le questionnaire par détestation acquise de la
-pratique de l’autoévaluation
-
-### Témoignage 59
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Pau et des Pays de l’Adour
-- etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
-
-Je voudrais insister sur un point non abordé : l’impact de l’évolution
-actuelle de l’ESR sur le bien-être au travail. Je ne suis entouré que de
-très nombreux collègues qui sont en souffrance psychologique face aux
-difficultés croissantes et l’absence totale de perspectives
-d’améliorations de leurs conditions de travail face à une planification
-de réformes dont ils ne voient pas le bout.
-
-### Témoignage 60
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Bordeaux Montaigne
-- etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
-
-Il manque les conditions matérielles de travail : exemple dans mon
-université : nous n’avons plus de restaurant universitaire du personnel,
-pratiquement pas de moyen de nous restaurer sur place (la majorité des
-personnels ainsi que des étudiant.e.s apportent à manger de chez eux),
-nous n’avons pas une seule machine à café dans l’UFR ni lieu de
-convivialité pour enseignants, nous n’avons pas de médecine de travail
-sur place et le contrat avec l’hôpital a été dénoncé dont nous n’avons
-plus aucune médecine du travail, ni psychologue du travail, etc.
-
-### Témoignage 61
-
-- sexe : Autre
 - age : De 55 à 64 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Paris 8 - Vincennes - Saint-Denis
-- etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
-
-Les ministres que nous avons eu ont été un vrai carnaval de nullités!
-Mention spéciale à Pécresse pour son intransigeance et à Vidal pour son
-incompétence absolue et ses magouilles à l’université de Nice
-
-### Témoignage 62
-
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Autre
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-La “dissolution” programmée des instituts de recherche dans l’Université
-est un désastre pour la science (si je corrige des copies, je ne fais
-pas de science: chacun son métier…). Les chercheurs sont devenus les
-supplétifs de l’Université, histoire de faire monter le score des
-établissements français dans les classements internationaux. “En
-échange”, les étudiants, sans compétences, changeants touts les 6 mois
-mais quasiment gratuits, sont censés remplacer dans les instituts les
-techniciens et les ingénieurs expérimentés, non remplacés depuis des
-décennies. On ne répond pas aux besoins de connaissances de notre temps
-par ces politiques d’agents comptables.
-
-### Témoignage 63
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Pau et des Pays de l’Adour
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Mon domaine de spécialité a été décapité en 2005. Je suis spécialisée
-sur la linguistique formelle de la langue bretonne. Les équipes
-universitaires de formation en breton ont perdu la reconnaissance en
-UMR. Je suis rattachée à une unité mixte Pau/Bayonne/Bordeaux, ce qui
-fait que je ne peux pas postuler aux appels à projets de la Région
-Bretagne, seule entité intéressable aux outils sur la langue bretonne.
-Je suis une chercheuse fantôme, sur une spécialité dont les données sont
-produites par des citoyen.ne.s de France, mais qui ne provoque l’intérêt
-qu’à l’international. Mon labo n’a pas même d’ingénieur informatique, et
-à peine un site web. J’ai l’impression d’être dans un placard où la
-seule actu c’est si quelqu’un va éteindre la lumière.
-
-### Témoignage 64
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Autre
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Évoquons peut être l article 18 de la présente contre réforme des
-retraites qui détruit le régime de pension des fonctionnaires.
-
-### Témoignage 65
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Université de Strasbourg
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-où est le baromètre sur la transmission du savoir, sur le rapport et le
-contant avec les étudiants, la perte de l’esprit de communauté
-universitaire
-
-### Témoignage 66
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel administratif
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Paris
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Le management a considérablement changé ces dernières années avec une
-perte du sens de son travail, une diminution des responsabilités au
-profit de strats supplémentaires de hiérarchie qui engendrent souffrance
-au travail et perte de confiance.
-
-### Témoignage 67
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Sorbonne Université
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Presque tous les changements que j’ai vus et subis depuis le début de ma
-thèse il y a près de 20 ans vont dans le sens de plus de technocratie,
-plus d’administratif, moins de recherche. Je ne peux qu’adhérer à
-l’adage qui dit qu’il y a eu une inversion des priorités, et que les EC
-sont devenus au service de l’administration, plutôt que l’inverse. Je ne
-peux dorénavant que penser que celles et ceux qui dirigent l’ESR et qui
-ont imposé ces changements n’ont pas pour objectif d’optimiser la
-production des connaissances et leur transmission (qui sont pourtant nos
-deux missions principales), mais des objectifs idéologiques de (1)
-piloter la recherche d’en haut, (2) transformer les universités et les
-EPST sur le modèle de l’entreprise, avec un chef d’entreprise qui
-décide, (3) bureaucratiser nos métiers en multipliant le reporting, les
-formulaires, le contrôle a priori (donc perte de confiance envers les EC
-et dilution de leur temps de travail), (4) s’inspirer du sommer de
-l’iceberg du système anglo-saxon (en fermant les yeux sur l’iceberg
-lui-même) pour essayer de monter dans le classement de Shanghaï, en ne
-se rendant pas compte qu’on importe le pire du système nord-américain
-qu’on combine avec le pire de la bureaucratie française, (5)
-flexibiliser les EC en les forçant à s’adapter sans cesse à de nouvelles
-règles, de nouveaux outils, et en faisant une re-ventilation rapide des
-crédits tous les ans (durée des projets) via les agences de moyens comme
-l’ANR, (6) concentrer les moyens sur un tout petit pourcentage d’EC
-jugés “excellents”, quitte à assécher les autres et à leur faire perdre
-encore plus de temps avec la bureaucratie pour justifier a posteriori
-qu’ils/elles n’étaient effectivement pas “excellents”, (6) dans
-l’ensemble, dégrader le service public de l’ESR pour “montrer” que ça ne
-fonctionne pas, et ainsi ouvrir la voie vers la privatisation et encore
-plus de concentration des moyens vers un tout petit nombre. C’est
-désespérant ! Alors qu’on leur a déjà écrit noir sur blanc ce qu’on
-pensait qu’il fallait changer pour améliorer les choses, à tellement
-d’occasions différentes, dont la principale à laquelle j’ai participé :
-les Etats Généraux de l’ESR en 2004, après 6 mois de travail
-interdisciplinaire et intercatégoriel dans 42 comités dans toute la
-France, synthétisé en un texte certes imparfait et dilué, mais honnête
-et constructif. Rien que le comité Paris-Centre fédérait les réflexions
-de 750 personnes ! Environ 1500 personnes impliquées au total ! Tout ça
-a fini à la poubelle.
-
-### Témoignage 68
-
-- sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - etab : Université de Tours
 - etab.other :  
 - responsabilites : Membre d’une autre instance centrale d’établissement
 
-PRCE, je suis également chercheuse. Il est de plus en plus difficile de
-lier les deux statuts. Mon doctorat n’est en aucun cas valorisé dans mon
-évolution de carrière.
+Les trois dernières crises me semblent totalement échapper au périmètre
+d’action de mon université.
 
-### Témoignage 69
+### Témoignage 38
 
-- sexe : Féminin
-
-- age : De 35 à 44 ans
-
-- anciennete : Moins de 5 ans
-
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
-
 - statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
 
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+Les directions d’instances ONR ou autres agences sont devenues des
+relais verticaux des injonctions ministérielles vers le bas. C’est comme
+un rouleau compresseur qui roule sur les personnels alors qu’avant les
+années 2000 les directions allaient défendre au ministère leur vision et
+leurs personnels. Nous nous sentons clairement lâchés d’autant que le
+pouvoir jupitérien de notre président donne à toute la chaîne
+hiérarchique que celui qui détient le pouvoir peut tout se permettre ce
+qui se ressent jusqu’au relation entre DU et personnels des unités…
+Cette situation inédite, alliée à une baisse sans précédent des crédits
+et des postes pérennes fait craindre le pire pour l’avenir. En fait il
+semble clair que l’état a décidé de tuer les ONR et que pour cela il
+pratique une asphyxie lente et implacable tant qu’un gouvernement qui
+travaillera à l’opposé ne sera pas mis en place.
 
+### Témoignage 39
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-
-- etab : Sorbonne Université
-
+- etab : Université de Reims Champagne-Ardenne
 - etab.other :  
-
 - responsabilites : Aucune de ces responsabilités
 
-- Service de scolarité totalement sinistré, postes vacants non pourvus,
-  turn-over important.
+crise climatique : les locaux ne sont pas adaptés, même les bâtiments
+les plus récents (étuves en été, frigo en hiver), on est mal sur notre
+lieu de travail, pour faire cours et pour les permanences
+administratives
 
-- Course permanente après des réformes : évaluation par compétences pour
-  faire plaisir au ministère sans penser au contenu.
+### Témoignage 40
 
-- Dans le domaine de la formation des enseignants (INSPE), conséquences
-  très néfastes du recul des concours en fin de M2 : 2 années de stress
-  et de bachotage pour les étudiants, avec beaucoup de précarité
-  (jusqu’en 2022 les M2 lauréats du concours étaient fonctionnaires
-  stagiaires, salariés donc). Grande précarité des étudiants obligés de
-  cumuler emploi et études - un comble dans une formation qui se dit
-  professionnelle !!
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-### Témoignage 70
+J’ai choisi majoritairement “sans réponse” car une institution locale me
+semble n’avoir aucun pouvoir pour lutter seule contre les crises
+mentionnées. Il faut une lutte systémique.
+
+### Témoignage 41
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Savoie Mont Blanc
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Crise climatique : pas assez, aucune adaptation au CC Crise politique :
+entre la montée du fascisme et la baisse des financements, peu de
+politisation de l’ESR…
+
+### Témoignage 42
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Nous vivons une période très inquiétante de privatisation galopante de
+l’enseignement supérieur, et également de la recherche (avec une
+enveloppe financière très importante attribuée par l’Etat lui-même), au
+détriment de ses services publics. Hors la stabilité et la force des
+services publics, au service de tous, est certainement un ingrédient clé
+pour retrouver une société plus équitable, stable et apaisée. On ne
+voit, pour le moment, aucune inflexion vers une tendance différente.
+
+### Témoignage 43
+
+- sexe : NA
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel technique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Bretagne Occidentale
+- etab.other :  
+- responsabilites : NA
+
+Je suis désabusé et très déçu.
+
+### Témoignage 44
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : La Rochelle Université
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+La place est au copinage. Rien n’est transparent. Sentiment d’injustice
+et impression d’être méprisé. Les plus investis baissent les bras ou se
+font broyer…pendant que d’autres se gavent. Ce n’est pas la fonction
+publique pour laquelle j’ai signée. Le paraître est le plus important et
+c’est ce qui est valorisé. Navrant…
+
+### Témoignage 45
 
 - sexe : Masculin
 - age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- etab : Université de Rennes 1
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Bordeaux
 - etab.other :  
-- responsabilites : Membre d’un conseil de composante ou laboratoire
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-RAS
+difficile de répondre à la question sur les efforts des institutions
+(locales) face à ces crises… la question n’a pas vraiment de sens
 
-### Témoignage 71
+### Témoignage 46
 
 - sexe : Féminin
 - age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Aix-Marseille Université
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Je suis actuellement dans une laboratoire dont la gestion non
-démocratique a été soulignée par un rapport HCERES très récent, mais
-ayant une équipe dirigeante soutenue par le Président de l’université.
-
-### Témoignage 72
-
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - etab : Autre
 - etab.other :  
 - responsabilites : Membre élu d’un conseil central d’établissement (CA,
   CR, CFVU…)
 
-Il manque 11.000 EC dans les universités, c’est exactement le nombre de
-chercheurs.ses au CNRS… Le basculement leur pend au nez. Pourtant même
-en Allemagne et aux USA il y a des chercheurs.ses à plein temps! Avec la
-dégradation lente de nos financements et le temps passé, souvent en
-vain, à obtenir ces financements, la recherche fondamentale est de moins
-en moins attractive.
+Président d’université de droite, un prof de droit RN qui organise des
+meetings ; pas suffisamment d’aides pour les étudiant/es.
 
-### Témoignage 73
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Sorbonne Université
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Un sentiment d’énorme gâchis face au temps perdu dans les activités
-ajoutées pour déposer, évaluer, saucissonner les projets de recherche.
-
-### Témoignage 74
+### Témoignage 47
 
 - sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Lumière - Lyon 2
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+crise climatique (et biodiversité) impacte la recherche (déplacements)
+et les cours (formation transition), la crise politique influence le
+travail car il ya souvent des blocages, délétères. la présidence fait
+des choses pour le pouvoir d’achat des agents
+
+### Témoignage 48
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Rennes 1
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+En tant que doctorante, je subis des pressions de la part de ma
+direction, et je n’ai aucun soutien des instances supposées m’en
+apporter, qu’il s’agisse de la direction du laboratoire et de l’école
+doctorale. Des mécanismes répartissent les rôles en cas de conflit, mais
+la réalité est que les titulaires ne se brouilleraient pour rien au
+monde avec d’autres titulaire, peut importe qu’en pâtisse la qualité de
+l’accompagnement d’une recherche doctorale et la santé mentale du
+doctorant. Je suis choquée de la pure façade des mécanismes de soutien.
+
+### Témoignage 49
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Prise en compte des précaires de l’ESR (doctorant sans financement,
+docteur.e.s sans poste, vacataires…) ?
+
+### Témoignage 50
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : École des hautes études en sciences sociales
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Dans mon cas personnel, avec un laboratoire qui marche bien et qui est
+convivial, la difficulté à faire mon métier ne tient pas aux conditions
+matérielles ou relationnelles, mais à l’augmentation effroyable des
+tâches administratives, d’évaluation et d’encadrement qui ne cessent de
+grignoter notre temps de travail de recherche, de réflexion et
+d’approfondissement des dossiers en cours. Le mitage des emplois du
+temps et la charge que représentent toutes les activités annexes de
+l’enseignement et la recherche rendent difficile les enquêtes de longue
+haleine et le renouvellement des questionnements scientifiques. Le
+principal problème est donc pour moi, qui n’ai pas besoin de beaucoup de
+financements, le temps qu’il est possible de consacrer à la réflexion
+intellectuelle.
+
+### Témoignage 51
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’ingénieurie
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Ined
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+J’ai le sentiment qu’un gros travail est fait localement pour compenser
+les manquements au plus haut niveau
+
+### Témoignage 52
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université de Bourgogne
+- etab : Autre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je ne pense pas que ça relève de mon institut de s’occuper des dernières
+trois crises.
+
+### Témoignage 53
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Cirad
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je ne pense pas que chaque répondant entende la même chose par “crise
+politique”.
+
+### Témoignage 54
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Panthéon-Assas
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Englober des instances aussi diverses, parfois en conflits, que sont les
+universités, les conseils d’établissement et les laboratoires derrière
+une seule et même question sur l’effort réalisé/ressenti par rapport aux
+crises actuelles ne peut donner lieu qu’à des réponses confuses. Par
+ailleurs, derrière le terme de “crise”, également sujet à des
+interprétations diverses, voire antagonistes, on ne sait point à quelles
+situations et à quelles controverses les auteur.ices de cette enquête
+font référence.
+
+### Témoignage 55
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+L’institution n’a pas à se mêler de politique.
+
+### Témoignage 56
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Cirad
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+La prise en compte de l’empreinte carbone n’est faite que sous la
+contrainte de diminution de moyens et de manière purement incitative
+faisant reposer le fardeau sur les agents les plus sensibles et les
+moins carriéristes. L’ambiance productiviste et la pression pour
+toujours obtenir des moyens pour simplement faire le travail pour lequel
+nous sommes embauchés fait disparaitre le sens même de notre métier.
+Pendant ce temps les institutions sont dirigées par des technocrates
+sans vision et sans aucune réflexion sur le rôle de la science dans la
+société, vantant une neutralité rêvée de la science et continuant à
+creuser le fossé entre science et société.
+
+### Témoignage 57
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Jean Monnet
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Difficile de répondre à ces questions par des notes de 1 à 10 sans trop
+savoir de quoi on parle. Pour moi la crise est avant tout politique, au
+sens où la responsabilité de la situation et des choix (en matière de
+climat, d’économie, de diplomatie) est bien une responsabilité politique
+et cette responsabilité est majeure dans les apories actuelles et la
+destruction de l’ESR
+
+### Témoignage 58
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : École nationale des travaux publics de l’État
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Je ne vois pas comme mon institut peut s’impliquer aux trois derniers
+points abordés.
+
+### Témoignage 59
+
+- sexe : Masculin
+
+- age : De 25 à 34 ans
+
+- anciennete : De 5 à 9 ans
+
+- metier : Personnel d’enseignement et de recherche
+
+- statut : Titulaire d’un poste de la fonction publique
+
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+
+- discipline : DEG - Droit, Economie, Gestion
+
+- etab : Nantes Université
+
+- etab.other :  
+
+- responsabilites : Responsable pédagogique
+
+- Ce n’est pas la crise climatique qui affecte mes conditions de
+  travail, mais la politique de mon établissement qui limite désormais
+  les déplacements en avion. ça coûte plus cher (billet, hébergement
+  additionnel, temps passé en train), mais l’établissement n’augmente
+  pas les dotations du labo. Conséquences \> moins de déplacements ou
+  déplacements avec budget plus serré.
+
+- Je ne souhaite pas que mon établissement ou le ministère agisse de
+  quelque manière que ce soit pour traiter la “crise économique”, la
+  “crise climatique” ou la “crise politique”.
+
+### Témoignage 60
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Ifremer
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Membre d’un EPIC (Ifremer), notre modèle économique est directement
+impacté par les crises et on nous annonce une cessation de paiement.
+S’il est hautement improbable que l’institut mette la clé sous la porte,
+vu les missions de service qu’il remplit, les problèmes économiques vont
+amener à un recentrement des travaux aux détriments de la recherche
+(trop couteuse) et à une recherche de financements privés, au risque de
+conflits d’intérêt, car les résultats économiques des financeurs sont
+directement liés aux avis de l’Ifremer (quotas de pêche ou évaluation
+des risques liés à l’extraction de ressources minières profondes par
+exemple)
+
+### Témoignage 61
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Gustave Eiffel
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+si par crise diplomatique vous parlez de la réaction aux attentats du 7
+octobre et à la guerre menée par Israël à Gaza, il est clair que les
+universités sont très loin d’avoir eu une réponse à la hauteur du drame
+humain, il n’y a que les communautés étudiantes qui se sont vraiment
+mobilisées à ce sujet. Les directions d’établissements et le ministère
+sont restés au mieux silencieux, au pire se sont exprimés contre ou ont
+agi pour censurer les étudiant·e·s. Pour le reste, la réponse des
+universités à la crise politique (menace de l’extrême droite et blocage
+démocratique orchestré par le pouvoir) et à la crise climatique est
+également insuffisante, avec beaucoup de passivité et d’attentisme. Il y
+a des progrès dans la prise en compte des enjeux environnementaux dans
+les formations des étudiants, mais les universités et les établissements
+de recherche devraient changer radicalement leur manière de faire pour
+s’adapter à la crise climatique et atténuer leurs émissions, on est loin
+du compte à l’heure actuelle. De même côté économique, il y a eu peu
+d’action pour aider les personnels à faire face à l’inflation, ce qui se
+comprend vu la faible marge de manoeuvre budgétaire des établissements…
+qui ne s’arrange pas les coupes du plan d’économies de l’État.
+
+### Témoignage 62
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Autre
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Je suis dans une institution dans laquelle le.directeur est nommé par le
+président de la république, et ça se sent !
+
+### Témoignage 63
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’ingénieurie
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Université d’Angers
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Nous : “On va droit dans le mur, à tous les niveaux, il faut changer les
+choses en profondeur et MAINTENANT” Nos institutions : “This is fine”
+
+### Témoignage 64
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’ingénieurie
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La crise climatique va avoir un impact sur nos vies au sens large, donc
+forcément aussi sur nos missions. La crise économique permet de
+justifier des coupes budgétaires dans la fonction publique ce qui impact
+fortement nos missions et la qualité des services publics de manière
+générale. La crise diplomatique n’a pas nécessairement d’impact pour mes
+missions, mais la situation n’en est pas moins inquiétante. La crise
+politique est majeure, avec une extrême droite très proche de prendre le
+pouvoir aux prochaines élections et un pouvoir actuel qui préfère
+favoriser cette extrême droite plutôt que de remettre en question ces
+dogmes. C’est très inquiétant et d’ailleurs, nous n’avons pas besoin
+d’avoir l’extrême droite au pouvoir pour déjà observer une réduction des
+libertés académiques, pourtant garantes de la qualité de nos missions.
+
+### Témoignage 65
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+J’ai personnellement été assez choqué de voir que, concernant la crise
+diplomatique et notamment le conflit au moyen orient, notre université
+sanctionne des collègues appelant au débat et à la prise de conscience
+de la situation des civils de la bande de Gaza. Cette attitude n’est en
+rien de l’antisémitisme : au sein de la communauté juive, de nombreux
+intellectuels appellent à la condamnation de la politique menée par le
+gouvernement israélien.
+
+### Témoignage 66
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La crise politique est réelle, patente mais ne me semble pas avoir le
+moindre impact sur mon vécu à l’ESR : quels que soit les gouvernants, la
+même politique délétère est appliquée avec rage !
+
+### Témoignage 67
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : Santé
+- etab : Inserm
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+crise climatique = développement politique DDRSE et soutien(s) à la
+recherche crise économique = peu d’actions, beaucoup de conséquences
+subies en terme de réduction de moyens crise politique = rien de spécial
+= aucune décision particulière
+
+### Témoignage 68
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Institut Mines-Télécom, au périmètre des écoles IMT Atlantique,
+  Lille Douai, Albi, Alès, Mines Saint-Étienne et Institut Mines-Télécom
+  Business school
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Mon établissement dépend du MINEFI pour lequel les établissements
+d’enseignement supérieur sont une peu comme une “danseuse” on aime les
+exhiber mais on les trouve bien trop coûteuses (ce qui se traduit par
+une baisse des dotations et une injonction à vivre sur fonds propres,
+d’où une orientation des recherches vers les contrats rémunérateurs plus
+que vers la science, des formations pensées pour être monnayées plus que
+pour former et émanciper… Il y a une négation de ce qui fait le service
+public, cela créé des dissonances cognitives et beaucoup de mal-être que
+l’on soit assistant·e pédagogique ou enseignant·e chercheur·euse.
+
+### Témoignage 69
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : NA
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Je ne comprends pas “tous les efforts”, ceux de l’état compris ?
+
+### Témoignage 70
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Nantes Université
+- etab.other :  
+- responsabilites : Membre d’une présidence ou d’une direction
+  d’établissement
+
+A la question sur le soutien des instances, il est dommage de na pas
+avoir distinguer le rectorat du ministère car on peut apporter une
+réponse très différente sur ces deux instances
+
+### Témoignage 71
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : NA
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La politique de mon établissement se calque sur la politique du
+gouvernement. En 4 ans nous avons lancé et abandonné un nombre
+incalculable de projets établissements pour coller au plus prés de la
+lubie du moment, décourageant et fatiguant les personnels dans une
+course sans récompense ni fin. Nous jetons l’argent par les fenêtres en
+faisant appel à des cabinets conseils alors même que certains de nos
+étudiants vont au secours populaire.
+
+### Témoignage 72
+
+- sexe : NA
+- age : NA
+- anciennete : NA
+- metier : NA
+- statut : NA
+- categorie : NA
+- discipline : NA
+- etab : NA
+- etab.other :  
+- responsabilites : NA
+
+Es dievinu piena pulveri
+
+### Témoignage 73
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : École des hautes études en sciences sociales
 - etab.other :  
 - responsabilites : Membre élu d’une instance nationale
 
-De nombreux postes de fonctionnaire ont été gelés (non remis au concours
-et aucune personne sur le support) ou des CDD ont remplacé les
-personnels titulaires sur ces supports dans les 5-10 dernières années, à
-bas bruit car chaque université a dû faire ses propres choix sans
-nécessairement savoir la situation des autres universités. Ces non
-renouvellements de fonctionnaire viennent essentiellement du passage à
-l’autonomie des universités (LRU) qui leur a confié la masse salariale
-des personnels, ajouté à la décision de l’Etat de ne pas compenser le
-Glissement Vieillesse Technicité (GVT) depuis 2019. Pour mon
-établissement, ce GVT (qui est la masse salariale correspondant à
-l’augmentation des salaires des fonctionnaires au cours de leur
-évolution normale de carrière) s’élève à 1,5 à 2 millions d’euros par
-an, qui se cumule chaque année sur les dépenses de masse salariale (donc
-depuis 2019 environ 8 millions d’euros), tandis que la subvention pour
-charge de service public (SCSP) versée par l’état n’augmente pas (enfin,
-elle augmente, mais pour accompagner en partie les dépenses liées aux
-réformes imposées, elle n’augmente pas pour inclure les dépenses liées
-au GVT). Ainsi de nombreux établissements, pour boucler leur budget, ont
-du geler des postes de fonctionnaire pour réduire les dépenses de masse
-salariale qui augmentent du fait du seul GVT. L’augmentation des
-ressources propres ne permet pas de compenser, car la masse salariale de
-fonctionnaires, pérennes, ne peut être gagée sur des ressources non
-pérennes. Dans mon établissement, cela s’est traduit par une soixantaine
-de postes gelés depuis 2016, et de nombreux autres supports de
-fonctionnaires sont occupés par des personnels en CDD, ce qui permet de
-réduire la masse salariale tout en conservant des personnels sur les
-postes. Il serait intéressant de faire le compte de la situation dans
-toutes les universités, de l’évolution de la partie masse salariale
-soclée de la SCSP au cours du temps en parallèle de l’évolution du GVT
-et des dépenses totales de masse salariale, et de faire le compte des
-postes gelés ou remplacés par des CDD au niveau national. Je pense que
-l’on doit largement atteindre le non renouvellement de un fonctionnaire
-sur deux partant en retraite, et qui s’est fait sans injonction de
-l’Etat, simplement par un devoir de boucler son budget tout en ne
-donnant pas les ressources nécessaires (aucun établissement n’ayant de
-maîtrise sur son GVT qui ne dépend que de la pyramide des âges).
+Je suis inquiète de la précarisation des chercheurs, et de la
+concurrence accrue qui en résulte. Cela fausse complètement les
+relations de travail. Cela pervertit complètement le fonctionnement
+mertonien des communautés académiques, notamment les principales de
+communalisme et de désintéressement au coeur de l’ethos de la recherche.
+Les jeunes chercheurs passés par des années de post-doctorat sont
+devenus experts en personal branding. Cette évolution se fait au
+détriment de la qualité de la recherche, du respect des collègues, de
+l’originalité des objets de recherche. Tout cela est le résultat de
+politiques de recherche délétères ; tout cela affecte notre capacité
+collective à répondre aux enjeux contemporains, notamment les crises
+climatique et politique.
+
+### Témoignage 74
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Mon institution de peut pas faire grand chose face aux crises politiques
+et diplomatiques
 
 ### Témoignage 75
 
 - sexe : Masculin
 - age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Grenoble Alpes
-- etab.other :  
-- responsabilites : Aucune de ces responsabilités
-
-Une des causes de lente dégradation est le morcellement des
-enseignements et la perte de temps causée par la prolifération des
-courriels et procédures pour demander des financements, proposer des
-cours, des stages…
-
-### Témoignage 76
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- etab : Université de Paris
+- etab : CNRS
 - etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-La destruction du système universitaire et de recherche publiques est
-possible par ce que des collègues y participent activement (souvent de
-manière à peine consciente, il me semble). Des stratégies fines,
-sophistiquée et efficaces sont appliquées pour les y mener. Les
-stratèges maîtrisent et contrôlent, en particulier, les mécanismes de
-groupe (par une connaissance peut être plus empirique que théorique).
-Démontrer l’existence de cette machinerie qui les manipule à nos
-collègues qui y sont ouvriers, peut les amener à revoir leur position.
-La contre-stratégie consisterait à rendre visibles et explicites les
-rouages-mêmes de la manipulation. S’en voir l’objet ne peut être
-ressenti que comme une humiliation.
+L’institution est “dans la ligne” du pouvoir et les responsables sont de
+facto nommés par l’exécutif (ANR, CNRS…). Les candidatures non
+souhaitées sont écartées pour vice de forme ou autre prétexte.
+L’institution étant à un niveau “n - p”, n moins p, au-dessous d’un
+ministère qui lui-même dépend d’un gouvernement centralisé, ne formule
+pas d’orientations propres s’agissant d’économie, de diplomatie, de
+politique… et se contente de répercuter les consignes : assurer la
+communication de l’industrie nucléaire, etc.
 
-### Témoignage 77
+### Témoignage 76
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Autre
+- etab : Muséum national d’histoire naturelle
 - etab.other :  
-- responsabilites : Membre élu d’un conseil central d’établissement (CA,
-  CR, CFVU…)
+- responsabilites : Aucune de ces responsabilités
 
-Différentes directions et commissions le plus souvent entérinant les
-décisions du gouvernement, et au pire zélées dans leur applications: co
-ditions d’accueil et d’accompagnement des étudiants devenues
-dramatiques, prise de pouvoir par l’administratif pour de
-l’administratif, par le gestionnariat et management pour le
-gestionnariat et le management, par l’évaluation pour l’évaluation,
-l’activité de recherche et de transmission des savoir-faire et
-savoir-faire étant exclus dans ce système. Personnellement, très
-mauvaise expérience de mobbing
+Le principal impact n’est pas la crise politique ou économique, mais
+plutôt les choix politiques et économiques qui sont faits depuis au
+moins 30 ans.
+
+### Témoignage 77
+
+- sexe : NA
+- age : NA
+- anciennete : NA
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : NA
+
+Etant donné que les décisions sont pris sans prendre en compte les
+travailleurs, cela ne peut pas répondre au fait de la vie de ces
+travailleurs.
 
 ### Témoignage 78
 
 - sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : École des hautes études en sciences sociales
-- etab.other :  
-- responsabilites : Membre d’une direction de composante ou laboratoire
-
-Pour les lois, j’en connaissais, mais je ne sais pas exactement ce
-qu’elles ont changé et comment ces changements ont pu affecté mon
-travail actuel.
-
-### Témoignage 79
-
-- sexe : Masculin
-- age : De 55 à 64 ans
+- age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Rouen Normandie
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de La Réunion
 - etab.other :  
-- responsabilites : Membre élu d’une instance nationale
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-Détail, mais qui s’est répandu dans les dernières années, j’ai obtenu la
-condamnation, par le tribunal administratif, de mon président
-d’université pour abus de pouvoir. La recension de ce type de procédures
-serait parlant sur l’état de notre ESR.
+dans un contexte d’université en outremer
+
+### Témoignage 79
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : École normale supérieure de Lyon
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Cette question a peu de sens car une réponse adéquate à ses crises se
+ferait à l’échelle systémique.
 
 ### Témoignage 80
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Paris-Saclay
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Limoges
 - etab.other :  
-- responsabilites : Membre élu d’une instance nationale
+- responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Actuellement nos salaires de CR ne nous permettent plus de vivre
-dignement en région parisienne. Je suis chercheure avec 3 enfants et
-tous les mois sont en négatifs. Soit je trouve un second job
-alimentaire, soit je change de boulot. Les évolutions de carrières au
-CNRS sont inaccessibles ….
+Une indication parmi tant d’autre de l’insiffusance des efforts de
+l’ESR: la notion de “crise” pour évoquer le dérèglement climatique qui
+est un état irrévocable; le déni de la crise écologique dans son
+ensemble et en particulier la crise de la biodiversité dans ce
+questionnaire pourtant déjà un bel effort…
 
 ### Témoignage 81
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : BIATSS catégorie A ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Aix-Marseille Université
+- etab : CNRS
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Responsable pédagogique
 
-Sentiment d’impuissance, d’isolement vis à vis des réformes imposées,
-aucune consultation des enseignants, une liberté pédagogique qui
-n’existe plus, un mépris fortement ressenti et une ambiance de travail
-totalement dégradée. Le niveau des étudiants est catastrophique et cela
-est dû aux multiples ‘’réformes’’ à tous les niveaux. La communication
-entre ‘’collègues’’ est réduite à néant, des petits chefs à tous les
-niveaux qui organisent leur carrière, aucune solidarité, aucune
-communication, une hypocrisie générale, des pressions sur l’évaluation,
-des pressions pour hybrider les enseignements et rentrer dans le cadre
-des soi-disant ‘’pédagogies innovantes’’, des tâches administratives et
-une très mauvaise relation avec l’administration qui méprise les
-enseignants.
+La crise “économique” n’est pas une crise, mais une convergence
+douloureuse et inégalitaire vers un état où la pression anthropique sur
+le milieu planétaire deviendra soutenable. Une crise est un état dont on
+peut espérer une fin prochaine. Ce que nous vivons est l’inadéquation de
+nos attentes et désirs de consommateurs avec les capacités de
+régénération du milieu naturel. Le remède existe : une décroissance
+rapide, mais à plus de 70 ans des premières alertes, l’humanité riche
+(20% environ des effectifs humains) est incapable de se priver de son,
+sacro-saint “way of life”, “quoi qu’il en coûte aux pauvres, aux autres
+espèces, aux générations futures”. Seule une ultra minorité (1% ?) de la
+poputation “riche” a tiré des conséquences de l’état des réserves, du
+milieu et de la biodiversité, et a modifié significativement ses
+pratiques et son mode de consommation. Les pauvres eux subissent de
+plein fouet les changements, ils en meurent ou survivent dans des
+conditions “inhumaines”. Ça semble sans espoir…
 
 ### Témoignage 82
 
 - sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Concernant la crise climatique, il est toujours plus cher et plus
+compliqué de réserver des trains pour aller à l’étranger. Il faut
+souvent avancer les frais ou prendre l’avion, même pour des pays
+frontaliers…
+
+### Témoignage 83
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université de Strasbourg
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de technologie de Compiègne
 - etab.other :  
 - responsabilites : Membre élu d’un conseil central d’établissement (CA,
   CR, CFVU…)
 
-Merci de laisser une place pour s’exprimer ! Le problème majeur, à mon
-sens (à mon niveau), c’est le non renouvellement des postes d’EC : 4
-postes manquent dans notre département (postes gelées). Les conditions
-de travail se sont surtout dégradées au plan administratif, chacun
-d’entre nous cumulant de nombreuses tâches (responsabilité de master,
-direction de département, etc), qui ne sont aucunement secondées par du
-personnel administratif (là aussi, il y a beaucoup de manque).
+L’institution locale n’a pas vraiment de pouvoir face aux pressions
+nationales et aux divers manques. Ils font avec le peu qu’ils ont.
 
-### Témoignage 83
+### Témoignage 84
 
 - sexe : Masculin
+- age : NA
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La crise climatique affecte mes activité de recherche sur plusieurs
+fronts : il faut limiter les émissions de gaz à effet de serre, ce qui
+demande de limiter les déplacements grande distance (avion, en l’absence
+d’alternatives à faible impact) à un minimum, ainsi que l’usage de
+transports utilisant des combustibles fossiles (voiture thermique). Les
+canicules diminuent mon efficacité au travail, et cette crise risque
+d’impacter ma santé lorsque je serai plus âgé. C’est également une crise
+anxiogène. La crise économique a de nombreux impacts. Les plus criants
+sont le manque d’embauches de doctorants, et les fonds de
+fonctionnements pour l’entretient du matériel et des collections
+patrimoniales insuffisants. Les crises diplomatiques n’ont pas touché ma
+recherche à ce jour (pas de coopération actuelle ou prévue à court terme
+avec des scientifiques ou institutions de russes par exemple). La crise
+politique a un impact certain sur les financements. Elle est également
+une menace potentielle pour la pérennité de certaines activités de
+recherche, même si ma recherche n’est actuellement pas menacée
+directement.
+
+### Témoignage 85
+
+- sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- etab : Université Lumière - Lyon 2
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : École nationale supérieure d’architecture de Toulouse
 - etab.other :  
 - responsabilites : Membre d’un conseil de composante ou laboratoire
 
-Il me semble qu’il faudrait inclure dans les dernières questions les
-responsabilités pédagogiques. Coordonner une formation, notamment quand
-il s’agit de master, est une charge très importante, où on est confronté
-de plein fouet aux lacunes et à la dégradation de l’environnement de
-travail. A mon sens c’est infiniment plus consommateur de temps que
-certaines charge électives, même dans les conseils centraux, et c’est
-évidemment une responsabilité considérable dans le monde académique,
-est-il besoin de le dire. C’est démultiplié quand les formations sont
-co-habilitées par plusieurs établissements car on fait alors
-l’expérience (amère…) de tous les avatars (stricto sensu) sous lesquels
-se présente la panne du système (chaque établissement ayant sa recette
-particulière de cocktail paralysant).
+Mon enseignement (architecture) doit faire avec, et enseigner, avec un
+futur très incertain et très impacté par le changement climatique, les
+crises économiques et politiques… CE ne sont pas que les conditions de
+travail qui sont incertaines (et pas optimistes), mais aussi le contenu
+de l’enseignement et de la recherche.
 
-### Témoignage 84
+### Témoignage 86
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris Nanterre
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Concernant la crise économique: je suis d’avis quelle résulte de la
+fiction (ce qui n’est pas le contraire de “réalité”), c’est-à-dire
+qu’elle est largement fabriquée à dessein, et en tout cas brandie
+(depuis des décennies) comme justification, comme prétexte, à des fins
+politiques. Financièrement parlant, il n’y a pas de crise économique,
+les finances se portent on ne peut mieux, les profits sont énormes, la
+crise est politique, et l’économie, une certaine économie, tournée et
+présentée d’une certaine façon, sert de paravent. J’ai donc failli
+répondre “Pas de crise économique”, mais, à la question suivante, ça ne
+marchait pas, car cette “fausse” crise économique a bel et bien de
+lourdes répercussions sur les financements de l’enseignement public,
+universitaire et autre. Disons même qu’une des raisons de cette fiction
+de la crise économique est de justifier le désengagement financier de
+l’Etat des divers services publics.
+
+### Témoignage 87
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Les mesures prises (en particulier face au défi climatique) ne sont pas
+à la hauteur des enjeux.
+
+### Témoignage 88
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paul-Valéry - Montpellier 3
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Conditions de travail : pas de bureau dans l’établissement. Un
+professeur en sciences humaines a besoin de place… c’est donc le
+domicile privé qui sert de bureau. Un vrai problème économique pour l’EC
+et une cause du manque de convivialité entre collègues. La recherche sur
+projet est un désastre : elle nous condamne à chercher… des moyens qui,
+le plus souvent, n’existent pas et lorsque l’on remporte la timbale, on
+doit dépenser, dépenser tout et à toute vitesse. La recherche dans mon
+domaine fonctionne avec du gaspillage et, très souvent, du report dans
+le temps ou vers d’autres taches et projets.
+
+### Témoignage 89
+
+- sexe : Masculin
+- age : Moins de 25 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je pense que mon institution ne peut pas faire grand chose sur les
+crises. Même si elles mettent en place des actions, c’est à plus grande
+échelle que ces problèmes vont se régler.
+
+### Témoignage 90
+
+- sexe : NA
+- age : De 55 à 64 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : MNHN
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+une chose qui me tracasse beaucoup est l’évolution des Sciences Humaines
+et Sociales vers une sorte de relativisme justifié par un engagement en
+faveur de l’environnement qui, de mon point de vue, déstabilise la
+rigueur de notre travail (je suis chercheur en SHS) et lui fait perdre
+son sens.
+
+### Témoignage 91
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Grenoble Alpes
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+La destruction de la recherche en France est très inquiétant. On peut
+qu’espérer un changement mais ça semble très lointain.
+
+### Témoignage 92
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Bordeaux
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Même si elles en avaient l’intention (réelle et pas uniquement de la
+com), les institutions n’ont pas les moyens de faire face à ces crises.
+
+### Témoignage 93
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Nantes Université
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Difficile, l’université peut peu de chose à ce niveau hormis les
+éternels “campus verts”…
+
+### Témoignage 94
 
 - sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Sorbonne Nouvelle - Paris 3
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Mon institution ne répond que ponctuellement à ces crises, en tant
+qu’institution. Les progrès ou les réponses, quand il y en a, sont le
+fruit de mobilisations personnelles et/ou militantes de collègues ou
+d’étudiants.
+
+### Témoignage 95
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- etab : Université Côte d’Azur
+- etab : Sorbonne Université
 - etab.other :  
-- responsabilites : Aucune de ces responsabilités
+- responsabilites : Membre d’une direction de composante ou laboratoire
 
-Je me sens complètement abandonnée par le système actuel de recherche et
-ne sais pas comment me sortir de cette situation.
+Nos instances ont peu de levier sur la crise économique ou diplomatique.
+Je ne m’attends pas que l’État français, et encore moins le ministère de
+la recherche, règle le problème de l’Ukraine ou de la palestine. De
+plus, les problèmes économiques sont globaux et la France suit, de façon
+attenuée en raison de ses filets sociaux, les cycles mondiaux. Les
+français, dans le contexte de l’OCDE, font clairement leur part pour la
+crise climatique par rapport à d’autres pays (5 tonnes CO2 par français
+vs 14 tonnes CO2 par américain). Alors l’État français et ses
+institutions ne règlera pas ça non plus puisque le problème est
+planétaire. Par contre, je m’attends à ce que les institutions
+investissent pour réduire leur facture d’énergie tout en améliorant
+notre impact carbone. Là-dessus, c’est calamiteux et très dépendant de
+la structure administrative. Il faut que l’état investisse, par exemple,
+pour changer les fenêtres de ses bâtiments, améliorer l’isolation,
+mettre en place des pompes à chaleur. Ces investissements sont souvent
+oubliés en raison du fractionnement administratif. Par exemple, je
+travaille dans un bâtiment historique possédé par la ville, mais géré
+par l’université. Nous dépensons des fortunes à chauffer,
+inefficacement, nos espaces. Personne n’a pris l’initiative de changer
+les fenêtres parce que les entités qui investissent sont différentes que
+celles qui sont propriétaires. Il faut se concentrer sur ce qui a du
+sens économiquement à long terme et écologiquement. Il y a déjà beaucoup
+de boulot à ce niveau.
 
-## Propositions pour le baromètre
-
-### Témoignage 1
+### Témoignage 96
 
 - sexe : Masculin
 - age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Ca n’est pas du ressort de l’institution locale de gérer ces crises
+
+### Témoignage 97
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CEA
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je n’attends pas de mon institution quoi que ce soit sur les crises
+“diplomatique” et “politique” qui sont hors de son champ d’activité.
+
+### Témoignage 98
+
+- sexe : Masculin
+- age : Au moins 65 ans
+- anciennete : Au moins 40 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : Santé
+- etab : Inserm
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Crise diplomatique impacte sur les collaborations internationales et
+échanges de personnels; impact sur la continuité des travaux ou accueil
+de collègues/étudiants étrangers.
+
+### Témoignage 99
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Merci pour le travail!
+- etab : Université Jean Moulin - Lyon 3
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Quelles que soient les circonstances au cours des 30 dernières années,
+les conditions d’exercice et de rémunération n’ont cessé de se dégrader.
+Le service public dans sa globalité est fragilisé et mis en péril,
+quelles que soient les contextes politique, économique …
+
+### Témoignage 100
+
+- sexe : Autre
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+la crise climatique est utilisé pour faire des économies et nous
+empêcher de plus en plus de travailler à l’international c’est
+contre-productif et usant
+
+### Témoignage 101
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Université Paris-Saclay
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Sur la crise climatique, trop peu de prise de conscience des directions
+et des personnels. Offre de transport, consommation des bâtiments,
+consommation numérique, rien n’avance.
+
+### Témoignage 102
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Franche-Comté
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+En très peu de temps (quelques années), les tâches administratives ont
+explosé en nombre et en complexité. Nous sommes amenés à connaître et
+suivre un nombre incalculable de procédures administratives et de
+connaissances de référentiels RH et comptables (CSI, paiement,
+déversement des heures, recrutement de personnels contractuels et
+permanents, etc.). Le coeur de notre métier c’est la veille
+technologique, ces interruptions nous polluent l’esprit et le temps et
+nous empêchent de nous y consacrer de manière suffisante. À ce jour,
+j’ai accumulé tellement de retard technologique, la tâche consistant à
+me remettre à niveau est tellement immense que je n’ai même plus la
+volonté de m’y consacrer.
+
+### Témoignage 103
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CEA
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Le monde de la recherche est trop souvent négligé et ignoré, car les
+décideurs savent que nous ne paralyserons pas le pays, comme ont pu le
+faire les Gilets jaunes ou les syndicats des secteurs stratégiques tels
+que les transporteurs d’essence. En somme, ils se moquent ouvertement de
+la recherche. Cette attitude, qu’elle découle d’une incapacité à
+négocier ou d’un manque de volonté politique, est profondément
+inadmissible. Il est incompréhensible qu’un secteur aussi crucial pour
+l’avenir de notre société et notre compétitivité mondiale soit traité
+avec un tel mépris par les autorités.
+
+## Avez-vous des choses à ajouter ?
+
+### Témoignage 1
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris-Est Créteil
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Difficultés de paiement de salaires et de vacations dus : 2019, cinq
+mois sans salaire/revenus pré et post congé maternité ; 2021, 30h de
+vacations impayées à ce jour; 2023, erreur de mise en paiement des
+vacations et demande de remboursement l’année fiscale suivante, sans
+dédommagement pour l’imposition supplémentaire engendrée; 2024, 42h de
+vacations de l’année précédentes toujours impayees. Pas d’accès à
+certaines de mes fiches de paie (absente de ensap, pas reçues par
+courrier) Critères d’évaluation du concours inserm peu explicites; pas
+d’accompagnement pour la préparation des concours
 
 ### Témoignage 2
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  On ne voit plus le bandeau des choix quand le tablea est trop long. V
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La réduction des heures d’enseignement et des postes de titulaire sont
+préjudiciables aux étudiants et aux enseignants, y compris titulaires,
+dont les conditions de travail se dégradent, tandis que le nombre de
+précaires à recruter est très important. Je n’ai ni ordinateur ni
+imprimante en état de fonctionner dans mon bureau depuis plusieurs
+années. On parle de “crise climatique” mais aucune mutation n’est
+possible pour limiter les temps de transport. La situation sociale des
+étudiants et de tous les travailleurs de l’ESR doit être améliorée.
+L’argent ne doit pas aller aux soi-disants investissements
+“d’excellence” ni aux partenariats avec le privé, mais les frais
+d’inscription doivent rester très limités, des bourses conséquentes
+octroyées aux étudiants (des systèmes de pré-recrutement dans la
+fonction publique pourraient aussi être (re)créés), le nombre d’heures
+d’enseignements et le nombre de titulaires à tous les niveaux devraient
+être fortement augmentés dans l’intérêt de l’ESR mais aussi de toute la
+société. La revalorisation de l’enseignement primaire, secondaire et
+universitaire et de la recherche publique y compris non immédiatement
+rentable sont urgentes.
 
 ### Témoignage 3
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Un grand merci de mener cette étude.
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Le problème de l’ESR aujourd’hui est la maltraitance que subissent les
+précaires avec un manque parfois de solidarité. Ces maltraitances sont
+particulièrement exacerbées lorsque ces précaires sont issus des
+minorités ou ont des trajectoires atypiques. La précarité détruit des
+vies, brise des espoirs et lamine toute perspective de construire du
+commun au sein de l’ESR… Des solutions existent pourtant, elles passent
+par la lutte pour arrêter la machine… Mais les divergences des intérêts,
+la croyance qui consiste à penser que c’est moins pire qu’ailleurs, et
+la résignation générale qui structure le milieu en constituent un frein…
 
 ### Témoignage 4
 
 - sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
 - statut : Sous contrat CDD
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- responsabilite :  
-  .
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Inrae
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+au chômage depuis quasi un an, bilan de compétence en cours,
+reconversion pro à définir; gros ras-le-bol du monde de la recherche (en
+écologie/génétique des populations), de son fonctionnement boiteux, des
+projets ANR sur 5ans, des CDD… un contexte qui ne satisfait pas grand
+monde en interne, mais tout le monde joue le jeu, et tente de se
+déculpabiliser de participer à cet élan d’autodestruction en signant une
+tribune ou autre lettre ouverte ds le monde ou Libé… En théorie des
+jeux, il semble que ce soit une stratégie perdante.
 
 ### Témoignage 5
 
-- sexe : Masculin
+- sexe : Féminin
 - age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
-- metier : Personnel d’ingénieurie
-- statut : Sous contrat CDI
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- responsabilite :  
-  La question sur les lois est un peu “courte” : il faudrait distinguer
-  la loi de la manière dont elle a été mise en oeuvre. C’est typiquement
-  le cas avec l’autonomie des universités, utilisée par Bercy pour faire
-  assumer des économies aux universités alors que ce n’était l’esprit ni
-  du législateur ni de l’exécutif de l’époque. Autre exemple avec la
-  LPR, si on prend l’exemple de la qualif : entre ce que la loi rend
-  possible et ce qui est fait réellement, il y a deux choses
-  différentes. N’entrer que par les seules lois, c’est négliger le rôle
-  des acteurs dans leur mise en oeuvre que ce soit au niveau local ou au
-  niveau national : les responsabilités de chacun devraient pouvoir être
-  différenciées … et être assumées en conséquence.
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Sorbonne Paris Nord
+- etab.other :  
+- responsabilites : NA
+
+Ce qui me semble le plus grave pour l’ESR (sans ordre hiérarchique) :
+-le cassage du statut de fonctionnaire par la multiplication des types
+de contrats - l’injonction de trouver des financements - la baisse des
+budgets pérennes en recherche et l’injonction à travailler sur projet
+(ANR…) - l’HCERES est une monstrueuse usine à gaz qui génère à lui seul
+un nb que j’estime, selon mon expérience personnelle, très haut de
+burn-out (une enquête à mener sur ce point ?), d’aigreur, de sentiment
+de déconsidération de notre travail et de découragement. Les bilan de
+l’HCERES on peut les écrire soi-même à l’avance et suivent l’adage “qui
+veut abattre son chien l’accuse d’avoir la rage”. On nous empêche de
+fonctionner et ensuite on nous reproche de dysfonctionner - le manque de
+possibilité de recrutement de titulaires nous transforme en gestionnaire
+DRH, le nb d’heures passées à recruter des collègues non tit pour
+quelques heures ou une année est dément, tout cela au détriment des
+étudiants - les collègues non tit sont de plus en plus en situation de
+précarité alors qu’ils assurent de plus en plus d’heures et de charges -
+la précarité croissante des étudiants rend difficile leurs études et
+cela s’aggrave, les “jobs” étudiants se transforment en plein temps…
 
 ### Témoignage 6
 
 - sexe : Féminin
 - age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : Non-applicable à votre métier
-- responsabilite :  
-  RAS.
-
-### Témoignage 7
-
-- sexe : Masculin
-- age : De 45 à 54 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- responsabilite :  
-  “Sans réponse” est… une réponse. Merci de modifier votre message svp.
-  Attention svp à l’anonymat (1 femme, entre 40 et 50 ans avec 20
-  d’expérience et ayant été au CA de telle université : 1 ou 2 individus
-  peut-être). Récemment, dans le cadre d’une enquête égalité
-  homme-femme, j’ai été très facilement identifié : les secrétaires
-  m’ont demandé au matin de leur offrir le café (avec ce que je gagne).
-  Certains DGS ont des rémunération de plus de 10 KEUR par mois.
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Responsable pédagogique
 
-\[Pour information une autre anecdote à ce propos : jeune employé d’une
-grande banque étrangère en France (directeur d’un service) en début de
-carrière (avant de rejoindre l’université, en transition) le DRH nous
-convoquent en assemblée pour répondre à un sondage sur la nouvelle haute
-direction et ses méthodes (violentes et inadaptées aux métiers,
-pensions-nous quasiment tous). Résultat du sondage : une honte pour la
-nouvelle direction. Le lendemain, nouvelle convocation du DRH : ” vous
-n’avez pas compris l’exercice : il s’agit de rassurer nos actionnaires
-alors vous recommencez immédiatement de votre poste de travail et nous
-aurons les noms de récalcitrants” (sic). Le lendemain, tout allait bien
-et les actionnaires rassurés. CQFD. J’espère vous avoir fait sourire ;-)
+J’ai été antérieurement (il y a plus de 5 ans) membre d’une équipe de
+direction d’une université.
 
-Merci encore pour votre travail (très professionnel et vraiment
-informatif, même si déprimant sur le fond). Bien le bonjour à Camille et
-à Albert Camus. Bien à vous.
+### Témoignage 7
 
-### Témoignage 8
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Il pourrait être intéressant d’inclure une question sur la perception
-  de l’évolution récente du taux de succès aux appels d’offre de type
-  ANR? Au risque de déplaire, je trouve qu’un avantage certain d’un
-  système de financement sur projet (type ANR) avec une compétition de
-  niveau international est d’empêcher les problèmes de mandarinat et de
-  compétitions locale ou entre équipes de recherche de différentes
-  villes, comme en avait beaucoup dans les années 90. MAIS il faut alors
-  des taux de succès suffisant et une grosse part d’appel blanc. Le
-  système canadien du NSERC/CRSNG me semble exemplaire pour prendre en
-  compte les différentes facette des activités de la recherche: chaque
-  chercheur/enseignant-chercheur dépose son projet tous les 5 ans et il
-  est financé pour 5 ans en fonction d’une note de son projet qui dépend
-  de ce qu’il a fait/produit les 5 dernières années, la qualité des
-  personnels qu’il a formées, et le projet qu’il envisage pour les 5
-  prochaines années.
-
-### Témoignage 9
-
-- sexe : Masculin
+- sexe : Féminin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Le Mans Université
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Il est grand temps de redonner du sens aux mots “service public” et
+“fonctionnaire d’Etat” et d’arrêter de privilégier des critères
+uniquement financiers dans le financement du MESR. Il faudrait surtout
+baisser la part de la recherche sur projets et d’arrêter de vouloir
+piloter la créativité scientifique en privilégiant certaines thématiques
+sociales ou politiques privilégiées au détriment de pans entiers de la
+recherche. Et encore plus, arrêter de complexifier le millefeuille
+administratif… Quant à la numérisation… quasi autant de logiciels de
+missions que d’universités ou d’organismes de recherche, que de dépôts
+de dossiers de candidatures à divers guichets de financements… C’est
+chronophage, fatiguant, demandant une adaptabilité permanente aux EC et
+c’est bien sûr au détriment du temps consacré à la recherche.
+
+### Témoignage 8
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris 8 - Vincennes - Saint-Denis
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La précarisation des “jeunes chercheurs/chercheuses” conduit à un
+appauvrissement croissant des connaissances au seins des universités,
+seuls établissements capable d’assurer une démocratisation du savoir.
+Les conditions salariales et professionnelles de contrat comme ATER ou
+post-doc sont juste scandaleuses (salaire à 1600€ pour une charge de
+travail équivalente à un MCF qui n’hésite pas d’ailleurs à en demander
+toujours plus ; 2000€ opiour un personnel formé à bac+8, c’est juste
+minable et insultant). Le manque total de respect des titulaires en
+général (en dehors de beau discours en société pour se donner une fibre
+un peu sociale), l’absence totale de considération de l’administration
+et l’absence totale de justice et de reconnaissance de la part du
+ministère est une insulte à l’humanisme censé être portée par les
+institutions de l’ESR et un danger pour la vie des jeunes chercheurs et
+jeunes chercheuses.
+
+### Témoignage 9
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Bravo pour cette initiative
+- etab : Université d’Angers
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+L’Université publique est très dégradée et n’est pas aidée à la hauteur
+des enjeux du pays. Particulièrement l’Université est sous dotée depuis
+des décennies sans aucune raison !! C’est un scandale. Je crois en mon
+métier mais n’ai plus aucune illusion sur la volonté de l’ERtat de de
+France Université : dérégulation, privatisation. Nous sommes utiles dans
+les IUT pour réindustrialiser la France et rien est fait pour valoriser
+notre travail : professionnalisation, alternance, adpatation au marché
+du travail, anticipation des besoins de la transition…
 
 ### Témoignage 10
 
 - sexe : Masculin
 - age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  J’ai l’impression d’attribuer une « note » sur une partie seulement de
-  l’ensemble des appréciations possibles, la plus négative (difficile de
-  faire une moyenne).
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : IRD
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Je suis écoeuré par la direction de mon institut, au point que je ne
+supporte plus de voir son logo affiché çà et là. Je suis écoeuré par le
+double discours, le copinage entre chefs, la prédation des idées
+originales par cette mafia et les ententes en coulisses sur le dos des
+principaux intéressés. Je déconseille à mes filles de se lancer dans une
+thèse. Elles ont senti, des années avant cela, qu’une carrière de
+chercheuse n’était pas une chose enviable du point de vue des relations
+socio-professionnelles, de celui de l’intérêt pour la planète et de
+celui du revenu. Tout cela pour une quantité de travail et une prégnance
+des soucis, qui ne permettent pas de se consacrer à sa vie de famille de
+façon suffisante. Toutefois, la dégradation catastrophique des
+conditions de travail est une chose relativement récente : progressive
+ces vingt dernières années, elle s’est accélérée au fur et à mesure de
+la différenciation entre unités, entre équipes au sein des unités et
+entre chercheurs au sein des équipes. Le maître-mot est désormais
+l’individualisme et la capacité à nouer des associations de
+circonstance, le temps d’un ou deux papiers pour lesquels on doit
+chercher un impact maximum en les publiant dans une revue prestigieuse.
+Capaciter à nouer des partenariats éphémères rime avec aptitude à lâcher
+ses anciens partenaires la fois suivante, si les circonstances le
+demandent.
 
 ### Témoignage 11
 
 - sexe : Masculin
-- age : Au moins 65 ans
+- age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Vous ne parlez pas de harcèlement morale et l’impunité de la direction
-  et le mépris de la justice
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Le tout est d’apprendre à ne pas désespérer de la bêtise
 
 ### Témoignage 12
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Super initiative !
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Toulouse III - Paul Sabatier
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Embauché en 1990, une seule progression de carrière en 34 ans (sur
+concours externe), bloqué au dernier échelon, boulot de merde, dans un
+labo de merde, aucune reconnaissance, on nous presse comme des citrons …
+Bref, les dernières années vont être difficiles à vivre et à supporter
+!!!
 
 ### Témoignage 13
 
-- sexe : Féminin
+- sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Je comprends bien l’intention du questionnaire, mais il me manque une
-  question sur ce que je pense de l’avenir pour les autres… et notamment
-  tous ces jeunes et moins jeunes qui ne trouvent pas de poste ou
-  embauchent sur des postes hyper précaires (CDD, multiplication des
-  post-doc, etc.)
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Recrué il y a précisément 25 ans. Depuis : sentiment d’une dégradation
+des conditions d’exercice du métier d’enseignant-chercheur, sentiment
+renouvelé chaque année. En partie lié à la surcharge administrative et
+au développement non réfléchi, non concerté, du tout numérique.
+Sentiment d’avoir perdu (entre autres choses) ma liberté : plus assez de
+temps de préparer correctement ou faire évoluer un cours, plus le temps
+ni de moyens de mener des recherches, toujours devoir (ré)agir dans
+l’urgence, les idées/projets (recherche, actions de médiation auprès du
+secondaire…) ne manquent pas mais on est toujours confronté à des
+blocages administratifs. Administration qui pilote son personnel dans
+une pure logique financière.
 
 ### Témoignage 14
 
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Le baromètre interroge sur les impressions, le ressenti. Pas sur le
-  pourquoi de ce ressenti.
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+J’ai fait un burn out l’an passé et je cherche à me reconvertir dans un
+autre secteur.
 
 ### Témoignage 15
 
 - sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Non mais une question sur le rapport sur l’entrée dans la carrière
-  très intéressant, mais j’ai eu l’impression qu’il calculait des taux
-  d’encadrement sans prendre en compte les prags ? Pouvez vous préciser
-  ce point dans votre méthodo ?
+- etab : Université de Picardie Jules-Verne
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+On ne voit pas comment les conditions de travail pourraient s’améliorer
+puisque les instances (locales et nationales) participent à les dégrader
+toujours un peu plus. Par exemple : évaluation HCERES utile et
+chronophage, transformation de la maquette en compétences…
 
 ### Témoignage 16
 
-- sexe : Masculin
-- age : De 35 à 44 ans
+- sexe : Féminin
+- age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Rédigé par des enseignants-chercheurs et ça se voit ;)
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Université Grenoble Alpes
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Persuadée que la recherche fondamentale est essentielle pour la société
+(au delà de la santé publique), on est souvent dans l’incompréhension
+face aux difficultés rencontrées pour mener à bien les projets : manque
+de financements récurrents et postes permettant une avancée sereine des
+projets, environnement de travail vieillissant, prise en compte
+collective de la crise écologique trop lente et pas assez structurée
+(financée) à l’échelle nationale.
 
 ### Témoignage 17
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Les premières questions sont difficiles à répondre. Il faudrait entrer
-  un peu plus qualitativement dans les thèmes. Mais MERCI !
+- etab : Université Paris-Cité
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Victime de discrimination sexiste
 
 ### Témoignage 18
 
 - sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Il arrive vraiment à un moment particulier dans ma carrière, un moment
-  où je perds de mon optimisme béat et où je sens un épuisement chez
-  l’ensemble des collègues car il n’y a plus de relève pour dynamiser
-  nos enseignements et notre foi en l’avenir.
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris 8 - Vincennes - Saint-Denis
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+non
 
 ### Témoignage 19
 
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel administratif
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Bonne initiative. Longue vie, mais comme la planète est fichue, je
-  dois avouer que même en ayant répondu à ce questionnaire, le sort de
-  l’ESR n’est plus du tout ma priorité.
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Université de Lorraine
+- etab.other :  
+- responsabilites : NA
+
+Pas assez payés. Perte d’intérêt et de sens dans le travail. Aucune
+prise en compte des problèmes rencontrés par les personnels d’appui par
+la direction de leur structure, les services RH et surtout la présidence
+de l’université qui nous parle de qualité de vie au travail , LGBT+…
 
 ### Témoignage 20
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Masculin
+- age : Au moins 65 ans
+- anciennete : NA
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Je pense que pour être efficace, il devrait être simplifié, que l’on
-  puisse le remplir tous les 6 mois facilement, par exemple. Mais en
-  l’état c’est déjà une très bonne initiative, merci !
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+No Future.
 
 ### Témoignage 21
 
-- sexe : Féminin
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Institut national universitaire Jean-François Champollion
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Ce qui tue notre métier actuellement est la paperasse qui prend toujours
+plus de temps au détriment de la recherche principalement, la
+bureaucratie est trop lourde et les enseignants-chercheurs apparaissent
+systématiquement comme la variable d’ajustement, aussi bien budgétaire
+que pour la répartition des tâches. Des financements pérennes, davantage
+de confiance dans le travail des ER pour réduire le temps consacré à
+remplir des tableurs et à répondre à des mails. Un soutien du ministère
+plutôt que des accusations de wokisme serait bienvenu également. Enfin,
+le respect du temps et de la concertation ferait du bien aux personnels,
+car par exemple faire croire jusqu’à mi-juillet qu’il faudrait peut-être
+appliquer la réforme du CAPES pour la rentrée 6 semaines plus tard était
+honteux.
+
+### Témoignage 22
+
+- sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Il manque les relations pro avec les pairs, qui aident quand même
-  vraiment au quotidien
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Paris-Cité
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
 
-### Témoignage 22
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Il me semble que mieux mettre en évidence la part de plus en plus
-  lourde de l’administration de la recherche et de l’enseignement dans
-  le temps de travail des enseignants-chercheurs serait utile, en posant
-  des questions très pratiques (temps de travail par semaine ou par
-  mois).
+Le rouleau néolibéral a bien œuvré, l’ESR est en déliquescence. Nos
+espaces de liberté se restreignent comme peau de chagrin. La question
+est : peut-on encore sauver ce qui reste, pour vivoter dans un truc
+bancal, ou bien doit-on précipiter l’effondrement pour mieux
+reconstruire sur les ruines ? Et la question subsidiaire, personnelle :
+faut-il continuer d’œuvrer pour une utopie ou bien sauver sa peau et
+aller faire autre chose ?
 
 ### Témoignage 23
 
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : Moins de 5 ans
-- metier : Personnel de recherche
+- sexe : Féminin
+- age : Au moins 65 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  J’y ai répondu-sincèrement, je crois. Je ne sais pas très bien ce que
-  je vais apporter, parce que mon vécu est assez particulier. Je verrais
-  une amélioration: ne pas forcément interroger sur l’enseignement,
-  parce que tout le monde n’a pas de service d’enseignement. Je suis
-  chargé de recherche au CNRS, et je ne fais d’enseignement que très
-  occasionnellement.
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+métier passionnant malgré des conditions de travail pas toujours faciles
+et une rémunération complètement obsolète
 
 ### Témoignage 24
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Difficile de répondre aux premières questions
-
-### Témoignage 25
-
-- sexe : Féminin
-- age : De 45 à 54 ans
+- age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Bravo bravo bravo pour cette formidable initiative que je salue (et
-  diffuse)
-
-### Témoignage 26
-
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Peut-être manque-t-il des champs commentaires aux questions pour
-  pouvoir expliciter certaines réponses. La réponse “ni positif, ni
-  négatif” correspond bien à une absence d’évolution ressentie mais
-  est-ce que cela inclut aussi l’impression d’évolutions positives ET
-  négatives (pourrait être une possibilité de réponse supplémentaire ?)
-
-### Témoignage 27
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Il me parait difficile de mettre dans la même catégorie les
-  enseignants prag et les EC. Comme vous devez le savoir plusieurs
-  coordinations locales ou nationales de Prag prce ont été mises sur
-  pied ces 2 dernières années et ciblent leurs actions sur des
-  revendications salariales et le décrochage salarial abyssal des
-  enseignants de statut second degré a la fois par rapport aux
-  enseignants du secondaire et aux EC. Par contre la question du
-  recrutement d Esas docteurs qualifiés n est pas porté par ces
-  coordinations car il ne concerne qu une minorité de Prag. Dans un
-  certain nbd universités de province la qst ne pose pas pb
-  contrairement a certaines gdes universités comme Paris Panthéon
-  Sorbonne où certains Prag font une recherche de haut niveau et qui
-  sont maintenus dans leur statut d esas. Cela pose un reel problème d
-  équité a l échelle nationale mais aussi au sein de gdes universités.
-  En l absence de reflexion sur cette qst on en vient a recruter de tres
-  rares prag sur des postes d Ec de manière arbitraire sans respect de l
-  équité et de la parité ni de prise en compte de critères scientifiques
-  ce qui porte prejudice aux carrières des prag bloqués dans leur
-  carrière…et également prejudice a l université quand un prag est
-  obligé de refuser de porter un projet international de recherche pour
+- etab : Muséum national d’histoire naturelle
+- etab.other :  
+- responsabilites : NA
 
-### Témoignage 28
+Je pense que l’écart se creuse entre une ESR directement branchée sur le
+grand capital (biomédical, économie, droit, marketing…) et une science
+plus indépendante (SHS, écologie, maths, paléontologie…) qu’on laisse
+mourir au titre que les autres sont “autonomes”, c’est-à-dire récupérés
+par les lobbies industriels ou politiques.
+
+### Témoignage 25
 
 - sexe : Masculin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Merci, votre travail permet de bien caractériser la tendance ressentie
-  au quotidien. Il est très important de rendre publique cette
-  d’information !
+- etab : Université Claude Bernard - Lyon 1
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+En tant que Professeur, ma rémunération est plus que satisfaisante, mais
+les conditions de travail en recherche et en enseignement ne cessent de
+se dégrader. Les modalités de contrôle des connaissances et des
+compétences ont été sérieusement modifiées le 13 juillet pour une
+implémentation en septembre, compliquant sérieusement l’organisation des
+examens et exigeant un surcroît de travail. La réforme du CAPES conduite
+également à une perte significative de mes heures d’enseignement,
+conduisant à un stress non négligeable pour trouver un service complet
+alors que le nombre global d’étudiant diminue. Je n’arrive plus à
+trouver de financement de recherche et j’ai le sentiment que mon domaine
+de recherche (la paléontologie) est totalement dévalorisé. J’ai
+également tendance à partir en mission sans ordre de mission car le
+système est devenu cauchemardesque et me fait perdre beaucoup de temps….
+
+### Témoignage 26
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Caen Normandie
+- etab.other :  
+- responsabilites : NA
+
+Tous les gouvernements depuis 20 ans n’ont de cesse que de sacrifier
+notre système ESR, pourtant extrêmement résilient et efficace (la preuve
+il n’est pas encore mort). Il est grand temps de supprimer les
+technocrates des bureaux ministériels qui ne connaissent rien du
+système, de supprimer toutes les tâches administratives des EC, de
+supprimer la valeur de la science sur projets, si nous voulons de
+nouveau rejoindre un système innovant et faisant prospérer l’industrie
+française. Tellement d’autres choses à dire.
+
+### Témoignage 27
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Caen Normandie
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Je ressens une évolution désastreuse de l’université : précarisation du
+personnel, bureaucratisation, rentabilisation, marchandisation et
+contrôle du savoir, privatisation, mise en compétition, paye à la prime,
+financements par projets, pilotage de la recherche, ANRisations,
+labexisations, pôles d’excellentisation, shangaïtisation. Tout ce qui
+tend à nous faire oublier que l’université devrait avant tout être un
+lieu de partage, de transmission, de critique, de création,
+d’émancipation et d’autogestion, au service du bien commun. Université
+comme universel.
+
+### Témoignage 28
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris 1 - Panthéon Sorbonne
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+la question “faites vous confiance aux gens que vous ne connaissez pas”
+me semble assez inappropriée, on ne peut pas répondre de manière stable,
+tout dépend du feeling qu’on aura avec la personne.
 
 ### Témoignage 29
 
 - sexe : Masculin
 - age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  le baromètre est une bonne idée. les directions d’établissement vont
-  être très intéressées, puisqu’il va fournir un véritable et sincère
-  retour terrain.
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+En tant que 384h, notre exclusion du RIPEC (ou non mise en place d’un
+dispositif analogue) à été délétère. Le peu de soutien de notre
+Université n’a fait que rajouter à notre volonté de désengagament
+massif.
 
 ### Témoignage 30
 
-- sexe : Féminin
+- sexe : Masculin
 - age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’ingénieurie
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Merci de l’initiative.
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Oui, les relations entre enseignants chercheurs et chercheurs-ingénieurs
+se dégradent. Ces derniers ont du mal à intégrer qu’une UMR a plusieurs
+employeurs et métiers et que nous ne sommes pas là pour régler les
+problèmes RH des universités et soulager les MCF de leurs charges de
+cours. Le moral des MCF est très bas et cela crée des tensions et
+jalousies, ces derniers pensent être les seuls à travailler car ils
+donnent des cours et font de l’administratif (ils ignorent volontiers
+que beaucoup d’autres travailleurs le font ou ont des taches
+chronophages similaires). Je comprends cela mais les tensions montent.
+Certainement alimentées par les lobbies pro-université qui rêvent de
+régner seuls aux commandes de l’ESR. Ce n’est pas un parti pris
+politique, c’est un ressenti de terrain qui monte et fait l’unanimité
+dans mes relations.
 
 ### Témoignage 31
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Merci de prendre l’avis du “terrain” Quand aurons nous les retours?
+- etab : Université de Pau et des Pays de l’Adour
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+J’ai atteint le stade ou mon laboratoire m’interdis de faire de la
+recherche y compris à mes propre frais.
 
 ### Témoignage 32
 
 - sexe : Masculin
 - age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Sous contrat CDI
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Toujours difficile de cocher des cases sur des sentiments qualitatifs
-  complexes
+- etab : École supérieure d’ingénieurs des travaux de la construction de
+  Caen
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Le niveau d’enseignement des mathématiques en école d’ingénieur est en
+complète dégringolade. Le sens de ce que l’on fait n’est plus enseigné
+faute de temps et massacre des programmes. On en est réduit à enseigner
+benoitement des calculs qui ne font aucun sens, ni pour les étudiants,
+ni pour les enseignant. L’accès aux postes universitaire pour les PRAG
+est complètement verrouillé. Impossible d’accéder à un poste sans avoir
+de relations. Les années d’expériences d’enseignements et les
+engagements ne comptent pour rien…
 
 ### Témoignage 33
 
 - sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Trop simpliste et risque de fausser les résultats et l’analyse car
-  beaucoup des collègues ont peur de s’exprimer en tout véracité car
-  peur des répercussions locales qui ont déjà eu lieu à certains niveaux
-  (comme par exemple lors de la prise des parole et signalement des
-  faits abusifs ou des dysfonctionnement de leur laboratoire de
-  recherche ou unité d’enseignement devant les membres HCERES lors des
-  évaluations).
+- etab : Université de Lorraine
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+En tant que PRAG après 20 ans, ma carrière est maintenant face à un mur.
+Je n’évoluerai plus professionnellement, sauf à quitter ce statut.
+
+Je n’ai qu’à m’engager dans un doctorat me dira-t-on : certes, mais les
+PRAG devraient avoir toute leur place dans l’enseignement supérieur, en
+particulier dans les formations scientifiques et technologiques où leur
+apport est complémentaire et essentiel. Qu’on distingue les périmètres
+de compétences des PRAG et des EC, c’est une évidence. Mais le
+corporatisme si puissant dans l’ESR génère un énorme gâchis de
+compétences muselées. (et je ne parle pas des méthodes de management
+technocratiques qui impactent aveuglément tous les statuts).
 
 ### Témoignage 34
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : Santé
-- responsabilite :  
-  difficile à voir ce que cela peut apporter
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’ingénieurie
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Bien que très heureux de mes actions d’appui à la recherche et de mes
+relations avec mes collègues de toutes catégories, je relève une forte
+dégradation des conditions de travail de divers services de
+fonctionnements sous-équipés en moyens humains surtout. Même si l’argent
+public peut être capté ponctuellement pour du matériel, on fonctionne
+sur du très court terme en majorité, du trop court terme. La recherche
+reste vaillante par la flamme de mes collègues chercheuses et chercheurs
+passionné.e.s, parce que nous même personnels d’appui sommes passionnés.
+Mais l’explosions de certains coûts dont le coût de la vie, le poids des
+procédures et surtout un manque très importants de perspectives de
+créations de postes viennent ternir un bilan pourtant très prometteur.
+La recherche ne peut rester compétitive et intéressante si on lui laisse
+peu de moyens, et voir régulièrement des personnes brillantes être
+promenées de CDD en CDD me désole (je ne parle pas de mon cas un peu
+moins épineux car personnel d’appui et non recherche). Si le but est de
+transformer la recherche en groupes de CDD et de prestations assistés
+par des plates-formes de gestion, la passion disparaîtra car depuis
+l’antiquité la science naît et grandit dans les échanges humains ce qui
+n’empêche pas d’être compétitif.
 
 ### Témoignage 35
 
-- sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Sous contrat CDD
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Donner a possibilité au début de répondre “non concerné”
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris 1 - Panthéon Sorbonne
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+La situation des femmes est particulièrement preoccupante Je suis dans
+une Umr d histoire où sur 17 membres de rang B il y a 3 femmes. Je suis
+prag dans une Ufr d histoite avec un dossier recherche qui aurai dû
+permettre mon recrutement comme mcf depuis longtemps Je suis la seule
+femme de statut second degré de mon ufr avec 5 collègues masculins dont
+les dossiers sont tres loin d egaler le mien mais dont la carrière est
+encouragée par la direction de l ufr et mes collègues masculins
 
 ### Témoignage 36
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel de recherche
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel techno-scientifique
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : BIATSS catégorie A ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Dans votre liste d’établissements, vous auriez pu indiquer l’INRAE,
-  qui est un EPST de taille significative.
+- etab : Sorbonne Université
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+globalement, les collègues font tout leur possible pour accomplir leurs
+missions. Les problèmes sont dans l’organisation du système lui même,
+son inertie, ses difficultés de financement, son manque d’intérêt pour
+la santé des personnels, son manque d’attractivité qui engendre des sous
+effectifs graves et chroniques
 
 ### Témoignage 37
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
+- age : Au moins 65 ans
+- anciennete : Au moins 40 ans
 - metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Très bonne initiative
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+je suis dans un case non prévue récemment retraité, en éméritat et
+actif - je me suis aussi senti concerné par ce questionnaire
 
 ### Témoignage 38
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  la catégorie “ni bonne ni mauvaise” n’a pas grand sens pour moi. “sans
-  opinion” m’aurait semblé plus juste pour certaines réponses
-
-### Témoignage 39
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  j’ai accédé à ce baromètre via des listes de diffusion qui discutent
-  des problèmes actuels de l’ESR. Si c’est le cas de tous ceux qui
-  répondent, il y aura forcément un biais.
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+J’aurai un espoir pour l’évolution de notre métier quand je constaterai
+une reconnaissance du fond : la recherche et l’enseignement. Et j’ai
+l’impression que ce n’est pas de sitôt, à part pour les quelques
+lauréats de prix prestigieux de recherche. Les nouvelles évaluations
+pour les RIPEC (anciennes PEDR) sont très représentatives : au lieu de
+situer un “enseignant-chercheur” dans son enseignement ET sa recherche,
+on isole les secteurs d’activité. Une évaluation très positive pour
+l’enseignement signifie essentiellement faire de la “pédagogie
+disruptive”, ce qui n’existe pas à mon sens. Une évaluation très
+positive pour la recherche signifie souvent délaisser l’enseignement. Et
+finalement la moitié des primes sont attribuées pour des
+“responsabilités”, qui ne sont pas le fond de notre métier et ne
+devraient pas l’être de mon point de vue.
+
+### Témoignage 39
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Université de Rennes 1
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+A quand la révolution?!
 
 ### Témoignage 40
 
 - sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel de recherche
-- statut : Sous contrat CDD
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Les non réponses = non concernée
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : IRD
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Je suis membre d’une UMR AMU-IRD, personnel IRD, Chargée des
+financements externes du laboratoire Concernant les aspects
+enseignements, bien que je ne sois pas directement impliquée, je ne peux
+que constater la souffrance de mes collègues, implication croissante,
+moyens décroissant, une proportion non négligeable en burn-out ou tout
+au bord. Le désengagement de l’état dans l’enseignement supérieur au
+travers des réformes de la recherche et encore plus de l’université,
+conduit à une dégradation des conditions de recherche et surtout des
+enseignements que mes collègues essaient désespérément de pallier par
+leur propres forces… mission de titan ou plutôt de don-quichotte. La
+baisse considérable de engagement de l’état dans le service public et
+l’enseignement plus particulièrement participe , avec la numérisation de
+masse non maitrisée (pas d’enseignement numérique digne de ce nom à
+l’école ) et l’ultra matérialisme portée par notre société capitaliste à
+une dramatique tiers-mondisation de notre société. Notre jeunesse est
+abandonnée à l’état bestial.
 
 ### Témoignage 41
 
-- sexe : Autre
+- sexe : Masculin
 - age : De 55 à 64 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- metier : Personnel technique
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  un léger manque de nuance, on ne peut pas vraiment expliquer quels
-  sont les sources des difficultés rencontrées. mais il a le mérite
-  ’exister, merci!è Et les questions sur à qui nous faisons confiance ou
-  non pour améliorer les choses, est très pertinente, sauf qu’il manque
-  les organisations syndicales et autres organisations de la
-  professions, il me semble…
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : NA
 
-Merci!
+La vie est de plus en plus triste, notamment professionnelle
 
 ### Témoignage 42
 
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel administratif
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- responsabilite :  
-  Très bonne initiative
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Après presque 30 années au CNRS, je suis découragée, mais pas
+désespérée. J’ai beaucoup de chance d’évoluer dans ce domaine
+professionnel et intellectuel. Mais sa dégradation me remplit de
+tristesse, de honte, de colère et je ne me reconnais plus dans cet
+environnement.
 
 ### Témoignage 43
 
 - sexe : Masculin
-- age : De 45 à 54 ans
+- age : De 55 à 64 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Il aurait été une bonne idée de poser la question de l’irruption d’une
-  idéologie dogmatique et lobotomisante dans l’ESR, type approche par
-  compétence et de l’intrusion et la multiplication des appels à des
-  cabinets de conseils ou de l’émergence de soit disant “think tank”,
-  pour lesquels je ne suis pas sur qu’ils aient bien compris la
-  signification de think en anglais malgré la promotion unilatérale d’un
-  modèle anglo-saxon au service d’une finance débridée et d’un déni du
-  génie français et de sa seule richesse. De même on aurait pu poser la
-  question sur les conséquences de la casse de l’enseignement primaire
-  et secondaire et de la création des IUFM, maintenant INSPe et des
-  sciences de l’éducation qui visiblement sont sous influence
-  (probablement du fait que les revues internationales “réputées” sont
-  également dans le giron anglo-saxon et que la bibliométrie comptable
-  utilisée pour les promotion a fait le reste) Enfin le retour en force
-  du mandarinat, n’a pas été évoqué.
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Il faut arreter la marche vers la privatisation de l’Université et de la
+recherche
 
 ### Témoignage 44
 
@@ -2537,111 +3132,1954 @@ Merci!
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : DEG - Droit, Economie, Gestion
-- responsabilite :  
-  pas un seul mot sur les étudiants, désolant
+- categorie : PR, DR ou assimilé
+- discipline : Santé
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Face aux crises, notamment climatiques, l’Université et l’ensemble des
+personnels sont prêts à s’investir pour améliorer les batiments
+(rénovation, récupération des eaux etc.) . Ils sont prêts à partager
+leurs expertises. Mais ni l’Etat ni les régions ne souhaitent investir
+l’argent nécessaire. Autres points, il faudrait réglementer l’ESR privé
+qui propose de faux diplômes et arnaque les familles et les jeunes et
+revoir l’apprentissage et l’alternance pour qu’ils bénéficient aux
+jeunes qui en ont vraiment besoin.
 
 ### Témoignage 45
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel techno-scientifique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+La complexité bureaucratique, nourrie par une défiance à priori envers
+les agents de l´etat, rend de plus en plus impossible l’exercice de nos
+missions de service public. Les outils informatiques qui en théorie
+devraient prendre en charge cette complexité, sont en pratique
+totalement déficients. Simplification et confiance aux agents du service
+public !
+
+### Témoignage 46
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Sorbonne Université
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Je suis au placard depuis plusieurs années maintenant et je le vis très
+mal. J’ai la sensation de ne servir à rien et d’être payé à rien faire.
+Il n’y a rien de plus dévalorisant.
+
+### Témoignage 47
+
+- sexe : Féminin
+- age : Au moins 65 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Autre
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+étant en fin de carrière je n’ai rien indiqué coté perspectives de
+carrière!
+
+### Témoignage 48
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : NA
+- categorie : NA
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : NA
+- etab.other :  
+- responsabilites : NA
+
+plus aucun débouché pour les Maitres de Conférences en mathématiques,
+les collèges PR discriminent les MCF lors des recrutements PR: aucune
+promotion locale; cela oblige les MCF à déménager pour poursuivre leur
+carrière et devenir PR. inadmissible et illégal
+
+### Témoignage 49
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Ifremer
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+lorsque je ne savais pas, j’ai choisi la modalité “sans réponse” (si pas
+de modalité “je ne connais pas”)
+
+### Témoignage 50
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Claude Bernard - Lyon 1
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Le paysage de la recherche, devenu compétitif et individualiste, et la
+réduction constante des moyens humains, matériels et financiers ne
+laissent pas augurer d’amélioration sensible dans l’évolution de
+carrière, l’attractivité des métiers, les progrès et le partage de la
+connaissance.
+
+### Témoignage 51
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- etab : Autre
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Une lourdeur administrative de plus en plus impactante pour notre
+travail et notre actvité
+
+### Témoignage 52
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Claude Bernard - Lyon 1
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Les évolutions du métier d’EC ont un point commun : toujours plus
+d’intrusions ; du financier, de l’administratif, de dispositifs
+sélectifs et d’objectifs (changeants) à très court terme. On travaille
+donc avec un sentiment de défiance sur nos activités, en consacrant
+toujours plus de temps en indicateurs et reportings pour qu’ils soient
+systématiquement évalués “à charge” (“évaluations” avec du cherry piking
+pour justifier des décisions de “gestion de pénurie”). Il est impossible
+de faire honnêtement son métier sans avoir en permanence des retours
+négatifs ou recevoir des conseils de sur-performance contradictoires
+entre eux. On souffre du discours de nos leaders politiques qui n’ont
+(collectivement) aucune expérience de l’Université et de la Recherche
+(tout en étant persuadés de tout savoir après une école de “chef de
+rayon” -Commerce- ou de “technicien de l’administration” -ENA-) : ces
+discours et injonctions dévalorisent l’image de l’ESR dans la
+population. On souffre aussi des automatismes de nos évaluateurs
+(vénération du chiffre puis politiques du chiffre ; primauté du
+financier ; périmètres réduits/découpés d’analyse …) et de nos chaines
+de décision (confusion en transposant tout objectif global directement
+en objectif chiffré pour chacun des personnels ; caricature de
+volontarisme ; management sous pression …). On souffre également du
+processus d’atrophie des services dont nous avons besoin pour assurer
+notre coeur de métier : faute de “service effectif” dans des services
+sur-centralisés, chaque EC effectue obligatoirement de plus en plus de
+tâches relevant d’autres compétences/expertises (RH, scolarité, gestion
+documentaire, conception graphique, sécurité, handicap, IT…) qui
+détournent les ressources qui devraient être affectées à la formation
+continue en compétences métier. C’est la conséquence du détournement des
+moyens de l’ESR au profit d’une centralisation (Ministère et agences
+nationales, puis méga universités, puis structures internes) au
+détriment des moyens mis EFFECTIVEMENT en bout de chaîne POUR ASSURER
+LES MISSIONS de nos établissement (produire et diffuser de la
+connaissance) et mis au service des usagèr-e-s (étudiant-e-s et
+communautés scientifiques).
+
+### Témoignage 53
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Grenoble Alpes
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+La pire dégradation, dans mon cas, relève du management autoritaire et
+brutal mis en place par la direction de mon établissement, en atteinte
+directe des libertés académiques et syndicales.
+
+### Témoignage 54
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lorraine
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+dans toutes les réformes, quel que soit le niveau (national,
+établissement, composante/labo), il n’y a plus aucune considération
+humaine
+
+### Témoignage 55
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Nous sommes dans une période de changement profonde à laquelle le peuple
+n’est pas préparé et l’ESR doit préparer au mieux des étudiants qui ont
+été abandonnés au profit d’une population à la retraite que l’on a
+maintenue dans l’illusion la plus parfaite. L’avenir ne sera pas rose,
+aucune prévision (par le calcul) ne l’est climat/économie/politique
+(nationale et internationale). La priorité est la transition énergétique
+avec de moins en moins de ressources disponibles compte tenu des enjeux
+gigantesques. Ceci est au coeur de tous ces problèmes à venir et qui
+constitue le socle de référence à la fois de notre future société et
+d’un éventuel avenir durable. Le problème repose essentiellement sur des
+idéologies populistes (idiocratie) qui nuisent aux décisions matures.
+
+### Témoignage 56
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : Au moins 40 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une présidence ou d’une direction
+  d’établissement
+
+Plutôt pessimiste sur les possibilités de recrutement de nos jeunes
+collègues dans les années à venir. Pas d’anticipation des départs en
+retraite ni des évolutions des métiers…
+
+### Témoignage 57
+
+- sexe : NA
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Deux choses me viennent à l’esprit qui font évoluer très négativement
+nos conditions de travail. - Le financement par projet de la recherche
+(beaucoup de temps perdu à écrire des dossiers d’un côté, à les évaluer
+de l’autre, pour simplement redistribuer les subsides de manière
+essentiellement aléatoire). - Les réformes absurdes imposées par le haut
+dans l’enseignement (en dépit d’une prétendue autonomie). Exemple criant
+: les Blocs de Connaissance et de Compétence.
+
+### Témoignage 58
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Franche-Comté
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+non
+
+### Témoignage 59
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Toulouse INP
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Outre le contexte national très complexe, et la perte de considération
+totale que nous subissons de la part de notre ministère, notre
+établissement (Toulouse INP) vient de traverser une grave crise qui a
+devasté le peu de cohésion qui demeurait dans l’établissement et a
+exacerbé l’épuisement des personnels. La A titre personnel, je ne
+parviens plus à supporter les conditions dans lesquelles nous
+travaillons dans l’ESR. La maman de 2 jeunes enfants susceptibles de
+poursuivre des études supérieures est donc très inquiète de voir à
+quelle vitesse les conditions se dégradent. Même les personnels
+passionnés (dont je pense faire partie), commence à envisager de
+démissionner.
+
+### Témoignage 60
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Nantes Université
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Je serais parfaitement épanoui dans mon métier d’enseignant-chercheur si
+au lieu de faire 50% d’enseignement, 40% de bureaucratie et 10% de
+recherche je pouvais faire 40% de recherche et 10% de bureaucratie.
+L’inflation bureaucratique me met, ainsi que bon nombre de collègues, en
+permanence à la limite du burn-out.
+
+### Témoignage 61
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Toulouse III - Paul Sabatier
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Le pompon a été la lise en place de Goelet Étamine et Nautilus par le
+CNRS. La bureaucratie pour les commandes s’est encore complexifiée avec
+des débilités toujours plus pénibles.
+
+### Témoignage 62
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Bordeaux Montaigne
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Le fonctionnement de l’institution universitaire est médiocre, mais à
+l’échelle individuelle (donc dérisoire) je développe des initiatives
+passionnantes. De là vient l’écart entre certaines réponses qui mettent
+en évidence une perception négative, voire très négative, et un
+sentiment parfois positif, en raison des stratégies personnelles. Mais
+globalement, le constat est celui d’une situation très dégradée,
+correspondant non pas à une crise (ce terme supposant de pouvoir en
+sortir), mais à un bouleversement profond et durable de nos sociétés.
+
+### Témoignage 63
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Franche-Comté
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+D’abord mes remerciements pour ce baromètre! Sinon, RAS
+
+### Témoignage 64
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+Les Universités sont paralysées par le manque de moyens. Il faudra avoir
+le courage d’instaurer des mesures de diminution des effectifs dans
+certaines filières (en particulier SHS) et augmenter ceux en sciences
+dures. Sans cela, l’effort de réindustrialisation est condamné à
+l’échec, le pays ne tiendra pas ses engagements climatiques et sera voué
+à la tiers-mondisation et à la tutelle du FMI. A plus dans le bus.
+
+### Témoignage 65
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : IRD
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Désespérance, manque de considération (reconnaissance du métier, du
+diplôme, salariale…), conditions de travail qui se dégradent au fur et à
+mesure (pression administrative, perte de sens à faire des tâches
+inintéressantes et chronophages, manque de moyens humains, non respect
+des règles H&S,…), manque d’égalité pro F/M, totale incapacité de ceux
+qui nous gouvernent (quelque soit le niveau) à gérer les RPS dont les
+AVDHAS qui sont galopantes (scandale absolu avec souffrance et
+incompréhension totales chez les personnels; double peine pour les
+victimes), précarité absolue surtout avec le déploiement des VSC qui ont
+très peu de droit et sont extrêmement mal payés (des proies faciles aux
+harceleurs/harceleuses) alors qu’ils exercent des fonctions CDD ou
+postes pérennes, financement sur appels d’offre à n’en plus finir et
+très chronophages alors que le gouvernement augmente le CIR (qui ne va
+pas à la recherche!)….. Cela démotive, dégoûte (injustice) et donne
+envie d’aller vers d’autres horizons avant la fin de carrière.
+
+### Témoignage 66
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de bibliothéque
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : Non-applicable à votre métier
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je n’ai pas confiance en votre capacité à trouver des solutions à la
+situation actuelle.
+
+### Témoignage 67
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Cirad
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Merci pour ce que vous faites ;)
+
+### Témoignage 68
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Oui, je souhaite un cancer foudroyant et incurable à tout ceux et toutes
+celles qui ont promus, aidé, porté et défendu ces réformes néolibérales
+de l’ESR, qu’il les emporte dans le néant de l’enfer et qu’on les oublie
+vite ces résidus de couche sale qui nous ont pourri l’existence et ont
+détruit des carrières et des vies. Je leur chie à la gueule.
+
+### Témoignage 69
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Rennes 1
+- etab.other :  
+- responsabilites : Responsable pédagogique
+
+le travail administratif croissant gache le plaisir de l’enseignement de
+plus en plus
+
+### Témoignage 70
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Tours
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Je suis désespérée par l’avancée de l’idéologie néolibérale à
+l’université, qui se traduit entre autres par une dégradation lente mais
+profonde du métier d’enseignant-chercheur, par la destruction du dernier
+système utopique, lequel (bon an, mal an) fonctionnait assez bien et par
+l’omniprésence de la bureaucratie, au sens de paperasserie lourde,
+grotesque, autotélique. Je suis plus qu’inquiète que seul 1 parti
+politique français propose l’abrogation de la LRU (et de l’empilement
+législatif subséquent) dans son programme électoral. Localement, une
+équipe présidentielle très progressiste tente de nous protéger des
+effets les plus délétères des mesures actuelles et passées, mais lorsque
+je vois ce qui se passe au niveau national, je ne peux être contente ou
+rassurée.
+
+### Témoignage 71
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Le système de financement de la recherche actuel favorise les gens qui
+ont été capables au début de la mise en place des financements sur
+contrat de recherche d’obtenir des fonds d’amorçage qui leur ont permis
+d’occuper le paysage tant en terme de communication que de collusion. La
+baisse continuelle des crédits engendre une lutte qui vient en rupture
+du contrat social car ceux qui ont obtenus des financements ne jouent
+plus qu’un jeu de partage d’intérêts afin de préserver leurs
+prérogatives. Le sentiment d’appartenance a une “communauté”
+scientifique a laissé la place à une sentiment de lutte inégale entre
+ceux bien armés et ceux qui n’obtiennent que des miettes alors que leur
+science n’est pas forcément moins bonne mais simplement parce qu’ils
+sont peut-être moins bons pour répondre efficacement aux appels d’offre
+ou qu’ils ont des réseaux de collaborations moins performants. Le
+paysage de la recherche est donc en train de laisser le buzz occuper la
+place au détriments des sciences et des projets qui demandent un temps
+long d’investigation. A la toute fin on nous sortira le vieil adage
+populaire “quand on veut tuer ton chien, on dit qu’il a la rage”.
+
+### Témoignage 72
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Reims Champagne-Ardenne
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+les années se sont rallongées (on finit mi juillet on commence début
+septembre, on court avec les préparations de cours et la recherche passe
+en dernier j’ai l’impression que je suis payé à remplir des tableau
+excel et à écrire des mails, Parcoursup alourdit le travail (si on veut
+évaluer les dossiers avec sérieux) sans qu’on ait de formation
+supplémentaire pour optimiser son utilisation ou de décharge horaire.
+j’ai l’impression qu’on attend de moi un travail de secrétariat et
+d’enseignant du secondaire qui doit gérer l’arrivée en L1 d’étudiants
+qui ne voulaient pas être présents mais refusés ailleurs (parcoursup),
+tout en subissant des injonctions à la recherche et à la productivité,
+et des participations à différentes commissions et expertises. Il y a
+trop de choses à faire, j’ai l’impression de bâcler toutes mes missions.
+
+### Témoignage 73
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Savoie Mont Blanc
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Je suis pessimiste quand à mon avenir pro (ouverture de postes, CDI
+comme CDD) et la capacité de l’ESR à mener une réponse politique quand à
+la crise climatique et politique (fascisme notamment). Peu veulent
+sortir de leur tour d’ivoire, et c’est aux plus précaires de prendre des
+coups. J’adore la recherche, mais de moins en moins le milieu.
+
+### Témoignage 74
+
+- sexe : NA
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel technique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université de Bretagne Occidentale
+- etab.other :  
+- responsabilites : NA
+
+C’est pour quoi faire votre sondage… Encore une montagne qui va accouché
+d’une souris?
+
+### Témoignage 75
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris Nanterre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Il faut se réveiller !
+
+### Témoignage 76
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Des questions ciblant plus précisément l’évaluation des situations de
+conflits interprofessionnel.les seraient utiles, notamment sous l’axe du
+genre.
+
+### Témoignage 77
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : La Rochelle Université
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Je pense que si ma vie personnelle n’était pas épanouie, je serais en
+vrai burn out. Un arrêt de travail long m’a été proposé à plusieurs
+reprise … je le refuse pour ne pas faire reposer mon travail sur les
+collègues qui sont eux aussi au bout mais j’avoue ne pas savoir si ce
+sera faisable encore longtemps. La situation est de pire en pire.
+
+### Témoignage 78
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’ingénieurie
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Travaillant dans une UMR au sein d’un campus universitaire, les
+relations avec le CNRS sont très (trop) distantes. Jamais aucune
+information de la part de la DRH lors de changements
+réglementaires/statutaires par ex. Heureusement que les syndicats
+diffusent les infos et merci à eux !
+
+### Témoignage 79
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Je pense que les jeunes chercheur.euse.s sont dans une précarité
+incroyable et que beaucoup abandonnent ce métier pour cette raison. En
+règle générale, l’ESR est proche de l’effondrement au vu de ses
+missions.
+
+### Témoignage 80
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+La LPR a globalement aggravé pas mal de soucis de l’ESR (notamment la
+précarisation longue durée). L’absence de remise en cause du modèle
+d’Appels à projets (AAP) et du temps et de l’argent englouti pour faire
+fonctionner ce système est effarante.
+
+### Témoignage 81
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Globalement ça va, mais deux points dégradent la vie professionnelle:
+Premièrement, les outils administratifs (missions, organisation de
+colloques etc…) qui au lieu d’aider les utilisateurs, les enferment dans
+un carcan rigide. Il faut être spécialiste pour les utiliser et en
+connaître les astuces, mais les différents acteurs n’ont pas la main sur
+ces outils pour aider à débloquer. Deuxièmement, le manque de
+perspective de carrière et d’augmentation de salaire. On parle encore de
+geler pour faire des économies comblant les énormes déficits.
+
+### Témoignage 82
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Sciences Po
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+La difficulté de se projeter dans l’avenir lorsqu’on est en post
+doctorat pèse beaucoup sur la qualité de vie quotidienne. Il est
+impossible de se fixer sur un territoire, difficile de se projeter dans
+une vie de famille alors même qu’à notre âge (34 ans) la plupart de nos
+ami.e.s commencent à s’installer. Il est nécessaire de créer plus de
+poste de titulaires au lieu de s’appuyer sur des précaires dans
+l’enseignement comme dans la recherche. Cela éviterait de la souffrance
+au travail.
+
+### Témoignage 83
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+C’est assez défouloir d’y répondre.
+
+### Témoignage 84
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat de mission scientifique
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Sciences Po
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Quelques précisions pour éclairer le pessimisme de mes réponses : ai
+soutenu une thèse de sociologie en 2018, ai travaillé non-stop depuis,
+allant de post-docs en post-docs (et/ou vacations, contrats avec des
+associations, etc. pour compléter les revenus et combler les mois de
+“trous”) au moyen de CDD “missions de recherche” (sans les “avantages”
+du CDD - le vrai), ai participé à 5 reprises à la campagne de
+recrutement de MCF - sans avoir été auditionné ne serait-ce qu’une seule
+fois, ai publié et communiqué chaque année (d’ailleurs mon CV aurait été
+qualifié, dans un COS de cette année de “CV de professionnelle de la
+recherche”…)
+
+Je suis sollicitée sans arrêt pour des vacations ou du travail de
+recherche gratuit (comité de lecture de revues, co-écritures de papiers,
+communication, etc.)
+
+J’aime mon métier (12 ans, maintenant…), les retours de mes collègues me
+laissent penser que j’y suis à ma place, le monde académique a
+apparemment besoin de mes compétences et de mon temps pour fonctionner…
+SUIS-JE DANS L’ILLUSION TOTALE, SI JE CROIS ENCORE A LA POSSIBILITE DE
+BENEFICIER D’UN POSTE STABLE ET D’ETRE PAYEE POUR MON TRAVAIL?
+
+### Témoignage 85
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Strasbourg
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Actuellement sous statut “demandeur d’emploi” j’ai enchaîné les postes
+contractuels: post doctorat, ATER, enseignant-chercheur contractuel
+(entre autres). J’ai soutenu ma thèse il y a 8 ans et je suis qualifié
+en 3 sections CNU. J’ai répondu aux questions en tenant compte des
+conditions de travail au cours de mon dernier contrat (2023-2024).
+
+### Témoignage 86
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Picardie Jules-Verne
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Il faut des financements pérennes pour la recherche (pas sur appel à
+projet !), créer des postes d’enseignant.es-chercheur.ses que de BIATSS
+tant à l’université qu’au CNRS ! Que l’on produise encore de la
+recherche de grande qualité en France, notamment dans mon domaine en
+sciences sociales, relève du miracle, ou plutôt du travail gratuit et du
+dévouement de centaines de précaires et titulaires ! À 30 ans et après
+plus de 10 ans d’études, je suis payée à peine au-dessus du SMIC, je ne
+trouve que des CDD, je ne peux pas me stabiliser comme mes ami.es qui
+sont souvent moins qualifié.es que moi. Et encore, je préfère les
+post-docs à mes expériences d’enseignement à l’Université, un enfer sur
+terre ! Ne vous étonnez pas si on déserte l’ESR au bout d’un moment pour
+d’autres métiers, même si c’est à contrecoeur, ou si l’on part dans
+l’ESR à l’étranger…
+
+### Témoignage 87
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Les reations avec mes collègues recherche de l’ESR sont très bonnes ;
+les relations avec les collègues enseignement sont compliquées car en
+IUT les MCF sont minoritaires et il y a une multiplication des statuts
+dans l’équipe pédagogique : PRAG, PCRE, ATER, CDD 4 ans max, vacataires
+professionnels, vacataires étudiants et CDI.
+
+### Témoignage 88
 
 - sexe : Féminin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
+- etab : Aix-Marseille Université
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+J’ai indiqué un meilleur équilibre entre vie pro et perso, ayant décidé
+depuis 6 mois de ralentir et d’alléger ma charge de travail, pour éviter
+les burn outs qui ont touché la plupart de mes collègues… et pouvoir
+ainsi pouvoir tenir bon pour faire tourner le labo. J’essaie juste
+d’éviter de tomber malade !
+
+### Témoignage 89
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Questions un peu trop globales.
+- etab : Université de Rennes 1
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
 
-### Témoignage 46
+Je trouve compliqués les rapports de pouvoir qui s’exercent sans le
+dire. Subissant des pressions en tant que doctorante, on (ATER, jeunes
+docteurs, titulaires) m’invite à éluder, faire comme si de rien n’était,
+composer avec, faire malgré, à taire en somme, en tous cas à ne surtout
+pas faire de vagues. Je suis une doctorante qui a commencé sa thèse à 37
+ans. J’ai travaillé avant dans la fonction publique, et les rapports de
+pouvoir étaient présents, mais moins forts. Sans être totalement
+candide, je ne m’attendais pas à trouver ça dans cette dimension dans
+l’ESR.
+
+### Témoignage 90
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Autre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Questionner les modes de recrutement, de publications, de distributions
+des financements, etc., bref une vraie sociologie du champ de l’ESR
+lui-même.
+
+### Témoignage 91
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : NA
+- etab : Sorbonne Université
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Sensation que notre métier dans l’ESR n’a plus de sens, d’ailleurs que
+ni la recherche, ni l’enseignement, ni même l’université n’ont de sens.
+
+### Témoignage 92
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Santé
+- etab : Université de Lorraine
+- etab.other :  
+- responsabilites : Membre d’un conseil de composante ou laboratoire
+
+Malgré un discours très lissé en faveur du bien-être au travail, il
+n’existe pas à l’Université de Lorraine de processus pour accompagner
+les agents pour une mobilité entre laboratoires/composantes.
+
+### Témoignage 93
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Je pense que les questions tendent à sous évaluer l’importance des
-  tâches administratives et d’enseignement a profit de la recherche…
-  comme toujours dans l’ESR.
+- etab : Université Toulouse - Jean Jaurès
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
 
-### Témoignage 47
+J’ai bien conscience de l’écart entre mon sentiment d’être “bien
+installé” dans mon métier et le “pessimisme” de mes réponses. C’est que
+je constate un écart entre ma trajectoire personnelle, qui s’est
+améliorée grâce à la reconnaissance de mon travail, et en même temps le
+sentiment d’une dégradation par grignotage des différents aspects du
+métier.
+
+### Témoignage 94
 
 - sexe : Féminin
 - age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel administratif
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Claude Bernard - Lyon 1
+- etab.other :  
+- responsabilites : Responsable pédagogique
 
-### Témoignage 48
+Non
+
+### Témoignage 95
 
 - sexe : Féminin
 - age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Sorbonne Nouvelle - Paris 3
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Non, bon courage et merci pour votre travail.
+
+### Témoignage 96
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université Paris 1 - Panthéon Sorbonne
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Objectif : mon métier rend service à la collectivité mais il est
+pénible, peu épanouissant et ne correspond pas à ce que j’aurais
+souhaité faire initialement.
+
+### Témoignage 97
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : CNRS
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Au sujet de la question sur l’équilibre des temps de vie: je regrette
+l’hypocrisie qui consiste à promouvoir cet équilibre tout en le
+reprochant aux agents qui arrivent à l’avoir. Demander de ne pas avoir
+de réunion après 16h ou le mercredi est considéré comme un caprice. La
+déconnexion pendant les week ends et les congés est aussi mail vue pour
+les postes à responsabilités. Idem pour le temps partiel pour les postes
+à responsabilités, même si l’agent a prouvé qu’il sait s’organiser et
+travailler rapidement avec efficacité. Bref, l’équilibre vie perso/vie
+pro est en fait, un bras de fer pour l’agent qui doit combattre les
+préjugés.
+
+### Témoignage 98
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : École des hautes études en sciences sociales
+- etab.other :  
+- responsabilites : Membre d’une autre instance centrale d’établissement
+
+Voir les remarques en pages précédentes
+
+### Témoignage 99
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Université de Lille
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Les réformes m’épuisent.
+
+### Témoignage 100
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
-- responsabilite :  
-  Parmi les réformes, vous auriez pu ajouter celle des IUT en BUT. Cette
-  réforme a eu de douloureuses conséquences sur les équipes et le sens
-  du métier. Merci pour l’existence de ce baromètre.
+- etab : Autre
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
 
-### Témoignage 49
+Je suis actuellement en post-doctorat en Belgique, où les conditions de
+travail et de rémunération sont bien plus satisfaisantes, ce qui
+explique mes réponses plutôt positives, et le regard plus serein que je
+porte sur mon métier et ses perspectives.
+
+### Témoignage 101
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Paris-Cité
+- etab.other :  
+- responsabilites : Membre élu d’une instance nationale
+
+Les conditions de travail se délitent aussi bien en recherche qu’en
+enseignement. Tout est fait pour atomiser les personnels et réduire à
+néant leurs contestations. La souffrance au travail est visible dans
+tous les services à tous les échelons;
+
+### Témoignage 102
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Université Le Havre Normandie
+- etab.other :  
+- responsabilites : Membre élu d’un conseil central d’établissement (CA,
+  CR, CFVU…)
+
+Oui, la gestion en autonomie des universités est une catastrophe: le
+manque de moyens humains aujourd’hui, et fonctionnels aujourd’hui et
+demain (autonomie du patrimoine bâti) conduit à des arbitrages et à des
+services inopérants. Par exemple, une climatisation qui reste en panne
+pendant plus d’une année car le sous-traitant ne fait pas son travail
+peut arrêter une partie des activités d’un laboratoire, et pénaliser
+doctorants, chercheurs et le laboratoire dans son entièreté. Il faut des
+moyen pour fonctionner autres que des moyens permettant d’acheter des
+gros équipements: il faut du personnel et un environnement stable.
+
+### Témoignage 103
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- etab : Cirad
+- etab.other :  
+- responsabilites : Aucune de ces responsabilités
+
+Difficultés pour la recherche : fonctionnement par appels à projets qui
+cassent la continuité et la cumulativité de la recherche, fait perdre du
+temps sur le montage du projet, oblige à s’aligner sur les objectifs de
+l’APP qui n’ont pas toujours beaucoup de sens et standardisent la
+recherche d’où moins de sens au travail, moindres performances sur les
+aspects scientifiques (qui sont quand même au cœur de notre métier !),
+déception des personnes enquêtées qui ne voient plus les chercheurs du
+jour au lendemain ce qui rend plus difficile un futur accès au terrain…
+un meilleur financement de la recherche et un marginalisation du système
+des APP permettrait d’éviter ces effets pervers.
+
+## Propositions pour le baromètre
+
+### Témoignage 1
 
 - sexe : Féminin
 - age : De 35 à 44 ans
 - anciennete : Moins de 5 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Un peu trop général, il serait intéressant que les questions soient
-  plus systématiquement ouvertes (sur quoi porterait la confiance en
-  telle instance par ex…).
+  Merci pour ce baromètre, les questions sont pertinentes !
 
-### Témoignage 50
+### Témoignage 2
 
 - sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  quand l’université de l’exercice professionnel est connu, il me semble
+  que le croisement entre l’age, le sexe, le domaine de recherche et les
+  responsabilités déjà exercées, ceux travaillant dans cet établissement
+  peuvent retrouver la personne ou un groupe très restreint de personnes
+
+### Témoignage 3
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Les questions sur les différentes “crises” sont trop vagues et
+  inconsistantes.
+
+### Témoignage 4
+
+- sexe : Féminin
 - age : De 35 à 44 ans
 - anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : DEG - Droit, Economie, Gestion
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  RAS
+  non
 
-### Témoignage 51
+### Témoignage 5
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  C’est difficile de répondre au questionnaire si tôt dans l’année
+  universitaire. Peut être que cela aurait été mieux un peu plus tard.
+
+### Témoignage 6
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Pour les deux derniers blocs de questions, les modalités de réponse
+  sont moins adaptées par rapport à la formulation de certaines
+  questions. Merci pour cette possibilité de pouvoir donner notre
+  perception des conditions actuelles et pour les résultats à venir.
+
+### Témoignage 7
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  J’ose espérer qu’on en tirera les enseignements qui s’imposent…
+
+### Témoignage 8
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Personne ne prend ses responsabilités. Personne n’a d’ambition. L’ESR
+  est en train de mourir et vous faites des questionnaires.
+
+### Témoignage 9
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  esperons qu’il sera utilisé, en France les gens qui décident ne sont
+  jamais ceux qui font !!
+
+### Témoignage 10
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : PR, DR ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Certaines modalités demandent à être explicitées à mon avis : les
-  relations avec les collègues par exemple ne sont pas si simples à
-  évaluer !
+  Il eût été opportun de poser des questions plus précises sur
+  l’évolution du financement de la recherche, sur l’évolution des
+  recrutements et sur la charge administrative croissante des ER.
+
+### Témoignage 11
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  C’est un QCM. J’ai peur que les résultats ne soient ni fins, ni
+  explicatifs.
+
+### Témoignage 12
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  La notion de “crise climatique” n’a pas de sens : 1 la crise implique
+  une courte durée (quelque mois à 2 ou 3 ans) ; le climat est en train
+  de changer et ce n’est pas une crise, mais une transformation, engagée
+  pour plusieurs siècles ; ce n’est donc pas une crise 2 il faut parler
+  d’effondrement écologique
+
+### Témoignage 13
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  RAS
+
+### Témoignage 14
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Je n’ai pas compris les questions sur les relations avec les personnes
+  hos ESR (dans le cadre professionnel) ? Aucune question sur les
+  questions de vss ??
+
+### Témoignage 15
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Merci pour ce questionnaire, et bon courage pour le décorticage des
+  réponses !
+
+### Témoignage 16
+
+- sexe : Autre
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Sentiment de remplir un truc qui ne sert à rien
+
+### Témoignage 17
+
+- sexe : NA
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  il faut laisser une case ” sans opinion” ou “je ne sais pas” qui est
+  différent de la case “sans réponse”
+
+### Témoignage 18
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Puisse ce baromètre avoir quelque utilité et contribuer à tirer des
+  sonnettes d’alarme. Mais je n’y crois guère dans le monde tel qu’il
+  est aujourd’hui.
+
+### Témoignage 19
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Il y a quelques erreurs (de second ordre) de formulation dans le
+  questionnaire. Par exemple, une UMR n’est pas un établissement…
+
+### Témoignage 20
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- responsabilite :  
+  S’il pouvait faire changer les choses…
+
+### Témoignage 21
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  A posteriori, je me demande si j’ai bien fait d’y consacrer 5
+  minutes…on consacre un temps de plus en plus importante à ce genre d
+  ‘enquete de satisfaction’
+
+### Témoignage 22
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  L’ESR n’est pas que dans le MESRI, des établissements publics sont
+  dans d’autres ministères, également adossés au code de l’éducation
+  (Cf M. Agriculture, Culture,…)
+
+### Témoignage 23
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Je le trouve très bien foutu et je suis curieux d’en voir le résultat
+  !
+
+### Témoignage 24
+
+- sexe : NA
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  merci pour cette initiative
+
+### Témoignage 25
+
+- sexe : Féminin
+- age : Au moins 65 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Ce baromètre rappelle la dose d’optimisme réellement importante qu’il
+  faut conserver pour exercer le métier d’enseignant-chercheur…
+
+### Témoignage 26
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  L’anonymat est une mauvaise chose. <daniel.chteigner@ensicaen.fr>
+
+### Témoignage 27
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’ingénieurie
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  JE PENSE QU’IL MANQUE UNE PARTIE SUR LE SENS DE MON TRAVAIL ET SURTOUT
+  SUR LA MANIÈRE DONT IL EST PRESCRIT ET PERÇU PAR MA DIRECTION ET LES
+  COLLÈGUES AVEC QUI JE TRAVAILLE
+
+### Témoignage 28
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’ingénieurie
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  j’ai apprécié répondre à ce sondage
+
+### Témoignage 29
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  En faisant le bilan objectif sur l’état de mon travail je me rend
+  compte que cet état est encore pire que ce que je croyais. Cela me
+  déprime un peu.
+
+### Témoignage 30
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’ingénieurie
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Merci pour votre travail et bonne rentrée à toutes et tous !
+
+### Témoignage 31
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Il est contestable de mettre dans le meme item les prag et mcf qui n
+  ont pas du tout les memes conditions de travail ni le même salaire les
+  prag se contentant d une pes alors que le Ripec pour les mcf est
+  beaucoup plus élevé . Pour un enseignement de 384 heures d un côté et
+  192 de l autre et un travail de recherche analogue l ecart annuel se
+  mesure en plusieurs milliers d euros. En ce qui concerne la recherche
+  les prag ne bénéficient pas des crct, des delegations Cnrs …
+
+### Témoignage 32
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  J’aurais bien aimé répondre à une question du type “vous sentez vous
+  obligé d’assumer des tâches qui ne font pas partie de votre poste pour
+  que votre établissement continue à fonctionner et à représenter vos
+  valeurs (secrétariat, protection de l’environnement etc” et aussi sur
+  le sentiment de justice dans les possibilités d’évolution de carrière
+  (sentiment que les enseignants-chercheurs valorisés sont ceux qui
+  délaissent le plus leur enseignement et les tâches collectives
+  ingrates mais indispensables).
+
+### Témoignage 33
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Difficile d’évaluer le sentiment de se sentir heureux dans la vie
+  comparativement au reste de la population. A part cela, merci de poser
+  toutes ces questions !
+
+### Témoignage 34
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel technique
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie C ou assimilé
+- discipline : Non-applicable à votre métier
+- responsabilite :  
+  Pensez aux BIATSS et Vacataires dans la conception de votre
+  questionnaire, il y a des choses à y creuser.
+
+### Témoignage 35
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel technique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  va-t-il changer les choses ?
+
+### Témoignage 36
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel techno-scientifique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Meriterait d’etre plus largement connu et diffusé.
+
+### Témoignage 37
+
+- sexe : Féminin
+- age : Au moins 65 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  prendre en compte les non enseignant plus explicitement des le début
+  (il me semble aussi que pour les personnels techniques et/ou
+  administratif certaines questions ne sont pas adaptées (voir leurs
+  retours!) comme je l’ai indiquée peut être pas a la bonne place il y a
+  des questions qui ne me semblent pas pertinentes dans certains métiers
+
+### Témoignage 38
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Dans toutes les questions, il y a une confusion entre le métier et
+  l’activité : les engagements hors du métier et de l’établissement
+  peuvent biaiser les questions de comparaison avec le population.
+  Certaines questions sont trop générales pour être pertinente : la
+  relation aux personnels du même corps peut être très différente
+  suivant que c’est en enseignement, en recherche ou vis à vis de la
+  gouvernance.
+
+### Témoignage 39
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel techno-scientifique
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Ce qui pourrait être intéressant c’est aussi de croiser avec d’autres
+  paramètres, par exemple :
+- si la personne est socialement active au sens large : syndicat,
+  participation à des actions, associations …
+- si la personne compense le manque de sens de sa vie professionnelle
+  par une action: activité, artistique, associative … car la réponse au
+  sens de sa vie, dépends aussi de son implication individuelle ou
+  collective a en faire autre chose au delà de la sphère
+  professionnelle.
+
+### Témoignage 40
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Questions pertinentes
+
+### Témoignage 41
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat de mission scientifique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Peut-être poser une question sur la perception des modalités de
+  financement de la recherche ?
+
+### Témoignage 42
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Merci.
+
+### Témoignage 43
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  non
+
+### Témoignage 44
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Merci de nous donner l’opportunité de nous exprimer au travers de ce
+  baromètre.
+
+### Témoignage 45
+
+- sexe : NA
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel de recherche
+- statut : NA
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  C’est pour faire quoi ?
+
+### Témoignage 46
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Il y a des questions auxquelles j’ai répondu un peu “au pif” comme mon
+  sentiment de bonheur comparé à celui des autres. Il manque des
+  questions pour relativiser la centralité du travail dans la vie et la
+  comparer à d’autres polarités: engagements politiques ou associatifs,
+  activisme, entraide, loisirs etc.
+
+### Témoignage 47
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Plutôt bien conçu, à part la question “faites-vous confiance aux gens
+  que vous ne connaissez-pas”, qui me paraît hors-sujet, voire
+  infantilisante.
+
+### Témoignage 48
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : Santé
+- responsabilite :  
+  je le trouve bien fait, je suis éminemment intéressée par les
+  résultats généraux
+
+### Témoignage 49
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Aurez-vous le courage de publier certains propos qui ne vont pas dans
+  le sens de la doxa wokiste bien-pensante ? Toutes les formations ne se
+  valent pas, quoiqu’on veuille nous faire croire.
+
+### Témoignage 50
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel de bibliothéque
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : Non-applicable à votre métier
+- responsabilite :  
+  Non.
+
+### Témoignage 51
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Il pourrait prendre en compte plus d’éléments de contexte
+  socio-économique et géographique (famille, DOM ou expatriation, etc).
 
 ### Témoignage 52
 
@@ -2650,504 +5088,489 @@ Merci!
 - anciennete : De 30 à 39 ans
 - metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : PR, DR ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Dans le début du questionnaire, vous n’avez pas prévu que les gens
-  puissent ne pas faire d’enseignement ou de recherche et n’aient donc
-  rien à dire sur l’un ou l’autre.
+  Bon défouloir, en attendant la révolution où les têtes des macronistes
+  et des nazis devront rouler sur le bvd St Germain dans une joyeuse et
+  immense balle au prisonnier.
 
 ### Témoignage 53
-
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Merci pour cette enquête.
-
-### Témoignage 54
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Le barème aurait pu aussi poser la question de la confiance vis à vis
-  des syndicats. Je pense que ces derniers se battent trop souvent sur
-  tout, sans tri entre ce qui est grave ou ne l’est pas. À l’inverse,
-  les conditions d’enseignement, notamment le morcellement et l’anonymat
-  et le désinvestissement (des enseignants et des étudiants) qui en
-  découlent sont un point important oublié, y compris par ce baromètre.
-
-### Témoignage 55
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
 - metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- statut : Sous contrat CDI
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Merci de faire remonter notre quotidien par ce biais
+  top :-)
+
+### Témoignage 54
+
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Merci d’avoir construit et envoyé ce “baromètre”.
+
+### Témoignage 55
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Il serait intéressant dans le baromètre de pas mettre que la plus
+  haute responsabilité mais faire figurer toutes les responsabilités
+  puisque c’est souvent celles-là qui impliquent des charges
+  supplémentaires
 
 ### Témoignage 56
 
 - sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
+- age : De 45 à 54 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Deux autres détails : la raréfaction des candidats aux
-  responsabilités.
-
-1.  Pour la troisième fois, nous avons eu un seul candidat pour la
-    présidence de l’université (dont un sans thèse ni hdr).
-2.  Nous sommes restés plusieurs mois sans doyen avant qu’une collègue
-    se dévoue. Ce paramètre pourrait être inclus
+  Merci de faire ce baromètre. Si seulement il pouvait donner un éclair
+  de conscience à ceux qui nous gouvernent…
 
 ### Témoignage 57
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  non
+  Vous pourriez améliorer ce questionnaire en ajoutant des indicateurs
+  objectifs - et pas seulement des questions subjectives - permettant
+  d’évaluer objectivement certaines des transformations du travail dans
+  l’ESR (ex. nombre d’heures de cours données, nombre d’étudiants
+  encadrés, temps de travail, existence de conflits, etc.). Et dans les
+  questions actuelles, qui ne mesurent donc que des aspects subjectifs,
+  vous pourriez préciser les catégories - ici c’est tellement large que
+  je ne vois pas ce que les réponses peuvent produire à part des
+  artefacts - et facilement préciser une borne chronologique (par ex.
+  “au cours des 12 derniers mois” ou “pendant l’année universitaire
+  2023-2024”). Sinon, il y a un gros problème de commensurabilité des
+  réponses. Plus généralement, il y a de nombreuses ressources produites
+  par des praticien.ne.s de l’ESR (je pense notamment aux sociologues)
+  pour élaborer un bon questionnaire sur le travail et le rapport au
+  travail !
 
 ### Témoignage 58
 
-- sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Il est plutôt bien fait, mais il ne permet peut-être pas de préciser
-  les changements pratiques (alourdissant la charge de travail) vécus
-  par nombre d’entre nous (écrire des rapports HCERES inutiles, rédiger
-  des réponses à des appels à projet, monter des dossiers divers,
-  pallier soi-même, quand on est EC, le déficit de personnels
-  administratifs, gérer des candidatures multiples à ParcoursSup,
-  MonMaster, etc.). J’aurais ajouté une entrée sur le sentiment envers
-  la bureaucratisation numérique (de plus en plus de tâches numériques
-  nous sont demandées ; on a un alourdissement du travail et non un
-  allègement). Les enquêtes sont multiples (et sans effet) : je réponds
-  à la vôtre par conviction, mais depuis longtemps, je ne réponds plus à
-  aucune enquête venue des instances centrales de mon université.
+  Tres bien
 
 ### Témoignage 59
 
-- sexe : Masculin
+- sexe : NA
 - age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
+- anciennete : De 20 à 29 ans
+- metier : Personnel technique
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Excellente initiative !
-
-Juste une coquille à “régionale” dans un questionnaire (un seul “N”) !
+  A quoi bon? De toutes les manières on ne nous entend pas. Il faut
+  trouver des moyens d’actions plus coercitifs…
 
 ### Témoignage 60
 
-- sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  C’est une bonne idée mais qui va répondre ? Peut-être des personnes
-  majoritairement hostiles au gouvernement actuel, des personnes en
-  colère, et donc cela pourrait fausser le sens des résultats observés.
+  Merci de l’avoir mis en place
 
 ### Témoignage 61
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Bravo pour cette initiative
+  non
 
 ### Témoignage 62
 
 - sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : Moins de 5 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : BIATSS catégorie A ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Merci!
+  Rien à dire de particulier, mais c’est agréable d’avoir l’occasion de
+  s’exprimer
 
 ### Témoignage 63
 
-- sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
 - metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Je perçois en lisant les questions sur le baromètre à quel point je
-  maitrise mal toutes les réformes de l’ESR qui ont été évoquées. Et je
-  le regrette.
+  Au delà des potes à responsabilités (membre d’un comité de direction
+  etc…), il serait peut-être bon de poser la question des
+  responsabilités pédagogiques (directeur de thèse, directeur de
+  mémoire, organisation des examens, tuteur de stage…) afin de voir
+  l’impact de ces rôles, centraux et pourtant très peu valorisés dans
+  l’ESR, sur le bien être au travail.
 
 ### Témoignage 64
 
-- sexe : NA
-- age : De 55 à 64 ans
-- anciennete : De 30 à 39 ans
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
 - metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  ras le bol
+  Très intéressant de mesurer l’état d’esprit des personnes travaillant
+  ou gravitant dans l’ESR. Merci beaucoup pour cette étude ! Hate de
+  lire les résultats!
 
 ### Témoignage 65
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  La question des appartenances institutionnelles n’est pas adaptée aux
+  statuts des précaires, qui sont souvent à cheval entre plusieurs
+  institutions et/ou avec des ratachements institutionnels instables.
+
+### Témoignage 66
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Je voudrais juste dire qu’il n’y a pas de “crise économique” pour moi,
+  seulement des choix politiques d’austérité totalement conscients qui
+  détruisent l’enseignement et la recherche en France.
+
+### Témoignage 67
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Que vient faire ici la question « avez vous confiance dans des gens
+  que vous ne connaissez pas? » ???????
+
+### Témoignage 68
 
 - sexe : Féminin
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
-- responsabilite :  
-  Non
-
-### Témoignage 66
-
-- sexe : Masculin
-- age : De 55 à 64 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : DEG - Droit, Economie, Gestion
 - responsabilite :  
-  C’est très bien
-
-### Témoignage 67
-
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : Santé
-- responsabilite :  
-- 
-
-### Témoignage 68
-
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’ingénieurie
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
-- responsabilite :  
-  Vous commettez une grave erreur sur le niveau d’emploi : mettre
-  ensemble PU/DR d’une part et BIATSS catégorie A d’autre part, ne
-  relève d’aucune réalité : les grilles de salaires ne sont pas
-  comparables et les niveaux de responsabilités des ingénieurs est
-  clairement inférieur à celui des MdC/CR (sauf peut-être pour certains
-  ingénieurs de recherche ?). Il en est de même pour les MdC/CR d’une
-  part et les BIATSS catégorie B d’autre part : l’écart en matière de
-  salaire, de responsabilités, de… de tout est abyssal. Il serait
-  infiniment plus cohérent de faire les classes suivantes : 1)PU/DR,
-  2)MdC/CR, 3)BIATSS A, 4)BIATSS B, 5)BIATSS C. Au pire, si trop de
-  classes vous gène, réunir BIATSS B & C.
+  les questions me semblent un peu orientées vers ce qui ne va pas…
 
 ### Témoignage 69
 
 - sexe : Féminin
-- age : De 55 à 64 ans
+- age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
 - responsabilite :  
-  Concernant les personnels second degré dans l’enseignement supérieur
-  placés dans la même catégorie que les EC dans le questionnaire, il y a
-  plusieurs problèmes car leur situation n’est en aucun cas comparable à
-  celle des EC : elle est beaucoup plus dégradée
-- décrochage salarial par rapport aux enseignants en poste dans le
-  secondaire ( gagnant beaucoup plus) et par rapport aux EC ( problème
-  de la question de la prime statutaire ex Pes par rapport ex Pres
-  désormais Ripec 1 : différence de 14 000 euros entre 2020 et 2027 pour
-  deux fois plus d’heures avec une obligation de 384 heures contre 192
-  heures.
-- blocage des carrières de Prag docteurs qualifiés et continuant la
-  recherche dans certaines universités comme Paris 1 Panthéon Sorbonne ,
-  qui pose un problème d’équité au niveau national car dans les Inspe et
-  les universités de province les Prag docteurs et qualifiés sont
-  recrutés sur des postes d’EC ( avec des profils recherche qui n’ont
-  parfois rien de comparables à ceux des Prag qui sont dans certaines
-  universités parisiennes). Dans ces universités parisiennes les rares
-  recrutement se font de manière arbitraire sans prendre en compte ni la
-  parité, ni l’équité , ni les critères scientifiques. Le principe du
-  repyramidage MCF/ PU ne pose aucun problème à personne ( la question
-  des problèmes nombreux qu’il pose n’est pas ici abordée) mais celui
-  d’un passage Prag/MCF ne l’est pas du tout
+  Etranges questions sur le niveau d’optimisme en général…
 
 ### Témoignage 70
 
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement et de recherche
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel administratif
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
-  Sociales
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : NA
 - responsabilite :  
-  Merci pour celui-ci, il est bienvenu et permettra peut-être de
-  relancer un collectif autour de l’ESR.
+  La question sur la confiance envers les autres semble étonnante par
+  rapport aux autres.
 
 ### Témoignage 71
 
 - sexe : Féminin
-- age : De 55 à 64 ans
-- anciennete : NA
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- statut : Sous contrat CDD
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  bonne initiative
+  Il ne sonde qu’imparfaitement le vecu des vacataires (majoritaires
+  dans l’ESR) et de l’épreuve inepte (souvent sujette au mandarinat et
+  autres tractations) que constitue les recrutements dans l’ESR. Nous
+  sommes une armée d’exploitées pourtant multiqualifiés et annuellement
+  classés.
 
 ### Témoignage 72
 
-- sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’ingénieurie
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  Ce baromètre me parait une bonne chose si il n’est pas détourné pour
-  se retourner contre nous les agents et citoyens
+- la question sur le travail que l’on souhaite ou non continuer à faire
+  concerne-t-elle le choix de ce métier (ce que j’ai fini par
+  considérer) ou ce métier dans les conditions actuelles (dont mes
+  réponses préalables ont montré qu’il me paraît de plus en plus
+  difficile, impossible, de pouvoir souhaiter le faire – a fortiori avec
+  une perspective de retraite qui s’éloigne !)
 
 ### Témoignage 73
 
 - sexe : Féminin
-- age : De 25 à 34 ans
+- age : De 55 à 64 ans
 - anciennete : De 5 à 9 ans
-- metier : Personnel de recherche
-- statut : Vacataire ou précaire
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- metier : Personnel d’enseignement
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  Bon questionnaire. Mais peut être rajoute la possibilité de répondre
-- public
-- prive
-- mixte
+  Non, à part les nombreuses fautes d’orthographe dans les questions …
+  :-)
 
 ### Témoignage 74
 
 - sexe : Féminin
-- age : De 25 à 34 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel de recherche
-- statut : Vacataire ou précaire
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Bon courage!
+  J’avais déjà répondu à un questionnaire de ce type (sur les conditions
+  de travail dans l’ESR), élaboré par Claire Bonnard et Amélie Duguet
+  dans le cadre d’un projet de recherche mené à l’Institut de Recherche
+  sur l’Education (IREDU, université de Bourgogne). Leurs travaux
+  peuvent vous intéresser (mais vous devez sans doute les connaître).
 
 ### Témoignage 75
 
 - sexe : Masculin
-- age : Au moins 65 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel administratif
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- categorie : BIATSS catégorie B ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-- 
+  Questions peut-être un peu trop générales avec l’avantage pour le
+  questionnaire d’être complété rapidement mais sans doute au détriment
+  des nuances.
 
 ### Témoignage 76
 
-- sexe : Masculin
-- age : De 25 à 34 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel de recherche
+- sexe : Féminin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  Les EPST n’apparaissent pas dans les établissements ? (ex : Inria,
-  CNRS ..)
+  Il me semble qu’un des problèmes que nous rencontrons collectivement
+  est la répartition du temps de travail entre les tâches
+  administratives, d’encadrement des étudiants (évaluations,
+  accompagnements, jurys, etc.) et de recherche. Une question sur cet
+  aspect de nos activités serait peut-être la bienvenue.
 
 ### Témoignage 77
 
 - sexe : Féminin
-- age : De 45 à 54 ans
-- anciennete : De 20 à 29 ans
-- metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Intéressant, même s’il est difficile de répondre à tout (la faute en
-  incombe surtout à une certaine méconnaissance des lois). Merci.
+  Quelques questions auraient mérité des précisions sur les manières d’y
+  répondre (par exemple, sur l’espoir que les choses s’améliorent dans
+  l’enseignement, la recherche, les relations de travail etc., je
+  n’étais pas sure que la question portait sur le fait que les choses
+  s’améliorent pour moi, ou pour l’ESR en général.). Mais merci pour
+  cette initiative!
 
 ### Témoignage 78
 
 - sexe : Masculin
-- age : De 45 à 54 ans
-- anciennete : De 5 à 9 ans
-- metier : Personnel d’ingénieurie
-- statut : Sous contrat CDD
-- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
-  assimilé ; BIASS catégorie C ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- age : De 25 à 34 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
 - responsabilite :  
-  Lorsqu’on fait des sciences, il y a des expériences dont le résultât
-  est évident et saute aux yeux et il n’y a en face dans ce cas que des
-  personnes de mauvaise foi qui ont des intérêts personnels et contraire
-  au résultât pour les contredire ou bien demander plus de
-  quantification pour noyer le poisson. Malheureusement on sait très
-  bien que la politique de l’état depuis 30 ans au moins vise a enrichir
-  les dirigeants des grandes entreprises et sans actions réel toutes ces
-  enquêtes n’apportent rien. J’attends le jour ou un groupe important
-  fera une analyse, un rapport et des demandes (formulé légalement comme
-  une loi) que les membres ESR pourraient signer (en grand nombre) et
-  annoncer dès le début de l’enquête les actions (manifestations,
-  blocages et plus radical) qu’ils mettront en place et accepteront de
-  soutenir si une majorité des membres ESR signe cette loi.
+  bizarre
 
 ### Témoignage 79
 
-- sexe : Féminin
-- age : De 25 à 34 ans
-- anciennete : De 5 à 9 ans
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
 - metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Il faudrait mesurer l’épuisement, le sentiment perpétuel de frôler le
-  burn-out, le sentiment de manquer de temps pour remplir toutes les
-  missions, le sentiment de mal faire son travail (un travail qu’on aime
-  pourtant) et le sentiment d’exercer la plupart du temps un “bullshit
-  job” - les moments de joie, où on sent qu’on fait ce qu’on voulait
-  faire sont en effet bien rares.
+  C’est plutôt bien, à poursuivre!
 
 ### Témoignage 80
 
 - sexe : Masculin
 - age : De 45 à 54 ans
 - anciennete : De 20 à 29 ans
-- metier : Personnel de recherche
+- metier : Personnel d’enseignement et de recherche
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
-  assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  Obligation de choisir l’universite hote comme mon etablissement alors
-  que je suis CNRS
+  Bonne initiative.
 
 ### Témoignage 81
 
 - sexe : Féminin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’enseignement
-- statut : Titulaire d’un poste de la fonction publique
-- categorie : MCF, CR, PRAG, PRCE ou assimilé ; BIATSS catégorie B ou
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
   assimilé
 - discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
   Sociales
 - responsabilite :  
-  Merci de votre engagement.
+  Il pourrait être intéressant de considérer les niveau de revenus des
+  participant.es, les horaires, la charge de travail, la charge
+  administrative, ainsi que les aides (financières ou autres) concédées
+  par les différentes instituts ions. De même, dans la mesure où de
+  nombreuses questions portent sur le “ressenti” de chacun.e dans sa vie
+  professionnelle quotidienne, d’autres question concernant la vie
+  quotidienne personnelles des participant.es (le logement, les
+  déplacements, la charge familiale, etc.) permettrait de mieux situer
+  les réponses au premières questions. D’autant plus, dans un milieu
+  professionnel où la frontière entre vie professionnelle et travail est
+  particulièrement poreuse (travail depuis le domicile et à des horaires
+  inhabituels notamment).
 
 ### Témoignage 82
 
 - sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 10 à 19 ans
-- metier : Personnel d’ingénieurie
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel d’enseignement
 - statut : Titulaire d’un poste de la fonction publique
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
 - responsabilite :  
-  RAS
+  Une coquille à corriger dans polycrises : renvoie au lieu de revoit
 
 ### Témoignage 83
 
-- sexe : Masculin
-- age : De 35 à 44 ans
-- anciennete : De 20 à 29 ans
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : De 10 à 19 ans
 - metier : Personnel d’enseignement et de recherche
-- statut : Titulaire d’une chaire professeur junior (CPJ)
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
 - discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  Trop d’acronymes (certains me sont inconnus) et pas de version
-  anglaise … il faut penser à la diversité
+  Distinguer les conditions de recherche : -financement par appel à
+  projet -soutien technique -soutien institutionnel (locaux,
+  administration…)
+
+Distinguer les conditions d’enseignement : - trop peu de temps de
+préparation - dégradations des amphis et matériel - trop d’étudiants -
+pression sur chiffre…
 
 ### Témoignage 84
 
@@ -3155,9 +5578,280 @@ Juste une coquille à “régionale” dans un questionnaire (un seul “N”) !
 - age : De 55 à 64 ans
 - anciennete : De 30 à 39 ans
 - metier : Personnel de recherche
-- statut : Sous contrat CDI
-- categorie : PR, DR ou assimilé ; BIATSS catégorie A ou assimilé
-- discipline : NA
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
 - responsabilite :  
-  comme je l’ai indiqué avant dans les disciplines je n’ai pas vue
-  écologie/agronomie/biologie c’est un champ important!
+  pas toujours facile de répondre
+
+### Témoignage 85
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  parfois difficile de savoir à partir de quel point de vue répondre :
+  entre ma situation “personnelle” et la situation globale, la frontière
+  n’est pas toujours si nette. pour ma part j’ai une position
+  relativement privilégiée en termes de statut, salaire etc., mais je
+  fais le constat et l’expérience d’une dégradation / destruction
+  progressive, par volonté politique, de l’ESR tel qu’il a du sens pour
+  moi
+
+### Témoignage 86
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  il me semble bien réalisé … j’espère qu’un maximum de personnels y
+  répondront !!!
+
+Au-delà, qu’en attendre ? ben, rien : un constat sera établi (a priori
+négatif), une commission au niv. ministérielle sera convoquée et puis …
+rien … tant pis (cf. mon mantra ci-dessus) … sniff :-(
+
+### Témoignage 87
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  merci pour l’initiative
+
+### Témoignage 88
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
+- responsabilite :  
+  Pas très à l’aise avec les concepts de crise qui ne sont pas forcément
+  les mêmes pour toutes et tous
+
+### Témoignage 89
+
+- sexe : Autre
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Vacataire ou précaire
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Merci
+
+### Témoignage 90
+
+- sexe : Masculin
+- age : De 55 à 64 ans
+- anciennete : De 30 à 39 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : Santé
+- responsabilite :  
+  curieux de voir les réponses intégrées
+
+### Témoignage 91
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
+- responsabilite :  
+  Un peu gêné par les questions sur les “crises” parce que je ne
+  souhaite pas que nos institutions agissent (au-delà du maintien d’un
+  climat universitaire sain lorsqu’il s’agit d’opinions
+  Israël/Palestine). Les questions suggèrent qu’il est normal qu’elles
+  le fassent. Or, la réduction des trajets en avion (interdiction si
+  train \< 7 heures, chez nous) nuit à nos conditions de travail
+  (déplacements plus longs sans que l’on puisse travailler -2ème
+  classe-, et qui font perdre deux jours de travail, besoin d’une ou
+  deux nuits d’hôtel supplémentaires -éloignement prolongé du domicile +
+  frais additionnels-, prix plus élevés que l’avion. Evidemment, mon
+  établissement ne finance pas la différence de coûts, et il nous faudra
+  inévitablement envoyer moins de gens en conférence ou réduire
+  l’enveloppe par personne, sachant que l’on doit déjà parfois se loger
+  dans des taudis près de la gare).
+
+### Témoignage 92
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :
+
+ce serait bien d’avoir des entretiens à côté pour éclairer les chiffres.
+
+### Témoignage 93
+
+- sexe : Féminin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie B ou assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  Bon baromètre,merci !
+
+### Témoignage 94
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  C’est bien !
+
+### Témoignage 95
+
+- sexe : Féminin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Bonne idée. Je n’aimerai pas le dépouiller, bon courage.
+
+### Témoignage 96
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : LLA-SHS - Lettres, Langues, Arts et Sciences Humaines et
+  Sociales
+- responsabilite :  
+  /
+
+### Témoignage 97
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  très bonne initiative
+
+### Témoignage 98
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : PR, DR ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  C’est bien d’offrir un moyen d’expression. Cela a un effet soupape.
+  J’espère que les décideurs en feront quelque chose… mais j’avoue que
+  j’ai du mal à y croire.
+
+### Témoignage 99
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel d’ingénieurie
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Non-applicable à votre métier
+- responsabilite :  
+  À propos des instances de notre institutions, j’en connais certaines,
+  pas d’autres, mais surtout j’ignore le rôle et les missions de chacune
+  d’entre elles précisément. J’ai donc laissé le choix sur “Pas de
+  réponse” lorsque je ne savais pas dire si ces instances “soutenaient”
+  l’ESR ou non.
+
+### Témoignage 100
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel administratif
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : DEG - Droit, Economie, Gestion
+- responsabilite :  
+  je me demande si les résultats seront restitués aux Etablissements
+  (Université etc ..) .
+
+### Témoignage 101
+
+- sexe : Féminin
+- age : De 25 à 34 ans
+- anciennete : Moins de 5 ans
+- metier : Personnel techno-scientifique
+- statut : Sous contrat CDD
+- categorie : BIATSS catégorie A ou assimilé
+- discipline : Santé
+- responsabilite :  
+  Questions pertinentes, merci. En espérant que les réponses trouvent
+  réellement des échos dans les établissements…
+
+### Témoignage 102
+
+- sexe : Masculin
+- age : De 35 à 44 ans
+- anciennete : De 10 à 19 ans
+- metier : Personnel de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  La question sur la crise diplomatique est étrange
+
+### Témoignage 103
+
+- sexe : Masculin
+- age : De 45 à 54 ans
+- anciennete : De 20 à 29 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Titulaire d’un poste de la fonction publique
+- categorie : MCF, CR, PRAG, PRCE ou assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- responsabilite :  
+  Questionnaire bien formulé, allant à l’essentiel. Je suis assez
+  curieux de connaitre les réponses qui auront été récoltées.

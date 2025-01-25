@@ -54,7 +54,7 @@ plot_etab <- function() {
 #plot_etab()
 
 
-plot_bloc <- function(bloc,bloc.factor, filldir=0) {
+plot_bloc <- function(bloc,bloc.factor, filldir=0, qwrap=50) {
   df <- results %>%
     select(id,starts_with(bloc)) %>%
     pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
@@ -88,7 +88,7 @@ plot_bloc <- function(bloc,bloc.factor, filldir=0) {
     geom_vline(xintercept = 0, size=0.1, color="black") +
     scale_x_continuous(limits=c(-1,1), name = "Part des répondants", 
                        labels = ~ scales::percent(abs(.x))) +
-    scale_y_discrete(labels = ~ str_wrap(.x,width=35), name=NULL) +
+    scale_y_discrete(labels = ~ str_wrap(.x,width=qwrap), name=NULL) +
     scale_fill_distiller(palette='RdYlBu', direction=filldir, breaks=seq(0,10),
                          guide = guide_coloursteps(), name=NULL)
 }
@@ -101,6 +101,8 @@ plot_bloc <- function(bloc,bloc.factor, filldir=0) {
 #plot_bloc("PCinquietude",pc.factor,filldir=-1)
 #plot_bloc("PCimpact",pc.factor,filldir=-1)
 #plot_bloc("PCeffort",pc.factor)
+#plot_bloc("socle",socle.factor)
+
 
 plot_bloc_hist <- function(bloc,bloc.factor) {
   
@@ -163,7 +165,6 @@ plot_bloc_grid <- function(bloc,bloc.factor,filldir=0) {
 
 
 
-
 plot_bloc_percent <- function(bloc, pad=35, plot=TRUE,filldir=0) {
   df <- results %>%
     select(id,starts_with(bloc)) %>%
@@ -199,13 +200,18 @@ plot_bloc_percent <- function(bloc, pad=35, plot=TRUE,filldir=0) {
     theme(legend.position = "left")
   return(p)
 }
-# plot_bloc_percent("conditions")
 # plot_bloc_percent("evolution")
 # plot_bloc_percent("optimisme")
 # plot_bloc_percent("confiance")
 # plot_bloc_percent("reformes")
 
-# plot_bloc_percent("conditions", FALSE)
+# plot_bloc_percent("conditions", plot=FALSE)
+# plot_bloc_percent("evolution", plot=FALSE)
+# plot_bloc_percent("optimisme", plot=FALSE)
+# plot_bloc_percent("confiance", plot=FALSE)
+# plot_bloc_percent("reformes", plot=FALSE)
+
+
 
 
 nb_repondants <- function(variable,valeur=NA) {
@@ -259,6 +265,8 @@ plot_pop2 <- function(variable,blocs,bloc.factor,bloc.labels,palette="Set2",size
 
 #plot_pop2("categorie.grp",c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"),"Set1")
 #plot_pop2("sexe",c("PCinquietude","PCimpact","PCeffort"),pc.factor,c("Inquiétude","Impact","Effort"), palette)
+
+
 
 plot_pops <- function(variable, palette="Set2", angle = 0) {
   

@@ -118,6 +118,12 @@ pc.factor  <- tibble(
   labels = unlist(lapply(1:4, function(x) qsubquestion(5,1,x))),
   lab = c("Crise\nClimatique","Crise\nEconomique","Crise\nDiplomatique","Crise\nPolitique"))
 
+socle.factor  <- tibble(
+  levels = cn[startsWith(cn,"socle")] %>% substr(7,50),
+  labels = unlist(lapply(0:6, function(x) qsubquestion(6,1,x))),
+  lab = c("Satisfaction","Bonheur","Sens","Valorisation","Capable jusqu'à Retraite","Souhait jusqu'à retraite","Confiance"))
+
+
 # reformes.factor <- tibble(
 #   levels = cn[startsWith(cn,"reformes")] %>% substr(10,50),
 #   labels = unlist(lapply(1:7, function(x) qsubquestion(5,0,x) )) %>% gsub(", description)",")",.))
@@ -187,7 +193,7 @@ results <- results %>%
 
 
 ## Sauvegarde 
-save(results,conditions.factor,confiance.factor,pc.factor,etab.factor, file="results.RData")
+save(results,conditions.factor,confiance.factor,pc.factor,etab.factor,socle.factor, file="results.RData")
 
 results %>%
   select(conditions.gener.:statut,responsabilites) %>% 
@@ -199,36 +205,57 @@ results %>%
 
 ```{r res}
 resume <- function(bloc) {
+  
   df <- results %>%
     select(id,starts_with(bloc)) %>%
     pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
-    filter(!is.na(Réponse)) 
-    #filter( !startsWith(as.character(Réponse), "Ne connait pas")) %>%
-    #mutate(Réponse = droplevels(Réponse)) 
-  
-  NNP <- df %>%
-    mutate(Réponse = factor(case_match(str_sub(Réponse,1,2),
+    filter(!is.na(Réponse)) %>%
+    mutate(Réponse2 = factor(case_match(str_sub(Réponse,1,2),
              "Ne" ~ "NCP",
              c("0 ","1","2","3","4") ~ "Négatif",
-             c("5") ~ "Neutre",
+             c("5","5 ") ~ "Neutre",
              c("6","7","8","9","10") ~ "Positif"),
-             levels = c("Négatif","Neutre","Positif","NCP"))) %>%
-    summarise(nb.réponses = n(), .by=c(Question,Réponse)) %>%
+             levels = c("Négatif","Neutre","Positif","NCP"))) 
+
+
+  NNP <- df %>%
+    filter(Réponse2 != "NCP") %>%
+    summarise(nb.réponses = n(), .by=c(Question,Réponse2)) %>%
     mutate(part = nb.réponses / sum(nb.réponses), .by=Question) %>%
     mutate(part = scales::percent(part,accuracy = 1)) %>%
     mutate(nb.réponses = sum(nb.réponses), .by=Question) %>%
-    arrange(Question,Réponse) %>%
-    pivot_wider(names_from = Réponse, values_from = part)
-  
+    arrange(Question,Réponse2) %>%
+    pivot_wider(names_from = Réponse2, values_from = part)
+    
+  NCP <- df %>%
+    summarise(nb.réponses = n(), .by=c(Question,Réponse2)) %>%
+    mutate(part = nb.réponses / sum(nb.réponses), .by=Question) %>%
+    mutate(part = scales::percent(part,accuracy = 1)) %>%
+    mutate(nb.réponses = sum(nb.réponses), .by=Question) %>%
+    arrange(Question,Réponse2) %>%
+    pivot_wider(names_from = Réponse2, values_from = part) %>%
+    { if (!"NCP" %in% names(.)) add_column(., NCP = NA) else . } %>%
+    select(Question,NCP)
+
+  NNPG <- df %>%
+    mutate(Question = "Global") %>%
+    filter(Réponse2 != "NCP") %>%
+    summarise(nb.réponses = n(), .by=c(Question,Réponse2)) %>%
+    mutate(part = nb.réponses / sum(nb.réponses)) %>%
+    mutate(part = scales::percent(part,accuracy = 1)) %>%
+    mutate(nb.réponses = sum(nb.réponses), .by=Question) %>%
+    arrange(Question,Réponse2) %>%
+    pivot_wider(names_from = Réponse2, values_from = part)
+
   score <- df %>%
     mutate(Réponse2 = droplevels(recode_factor(Réponse,"Ne connais pas" = NA_character_))) %>%
     mutate(Score = as.numeric(Réponse2)-6) %>%
     summarise(Score = mean(Score,na.rm=TRUE), .by=Question)
-
-  return(left_join(NNP,score)) 
+  
+  return(left_join(NNP,NCP) %>% left_join(score) %>% bind_rows(NNPG)) 
 }
 
-#resume("confiance") %>% View()
+resume("evolution") %>% View()
 ```
 
 
