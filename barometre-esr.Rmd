@@ -148,30 +148,30 @@ Le baromètre a été ouvert de juin à décembre 2024, en vue de limiter un eff
 
 _Nombre de réponses_ : `r nrow(results)` répondants ont rempli au moins la première partie, et `r nrow(results %>% filter(!is.na(submitdate)))` ont finalisé leur réponse. 
 
-## Principaux résultats : Opinion des répondants sur leurs conditions de travail
+## Principaux résultats : Opinion sur leurs conditions de travail
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
+::: {.col data-latex="{0.30\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
 plot_bloc_percent("conditions")
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0\textwidth}"}
 \ 
 :::
-::: {.col data-latex="{0.7\textwidth}"}
+::: {.col data-latex="{0.70\textwidth}"}
 __43% des opinions des répondants sur leurs conditions de travail sont positives, contre 43% négatives.__ Sont les mieux perçues les relations professionnelles avec le même corps de métier (67% d'opinions positives), les relations professionnelle avec les autres corps de métier (60% d'opinions positives) et les conditions de vie en général (50% d'opinions positives). Sont les plus mal perçues les conditions d'évolution de carrière (56% d'opinions négatives, les conditions de rémunérations (55%) et les conditions de travail relatives à l'administration (67% d'opinions négatives).
 :::
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
 plot_bloc_percent("evolution")
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.00\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -181,30 +181,30 @@ __10% des opinions des répondants sur l'évolution de leurs conditions de trava
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
 plot_bloc_percent("optimisme")
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
-__10% des opinions des répondants sont optimistes sur l'amélioration future de leurs conditions de travail, contre 67% qui sont pessimistes.__ Les répondants sont les plus optimistes quant à l'amélioration des relations professionnelles avec le même corps de métier (20% d'optimistes) et avec les autres (18%), ainsi que l'équilbre vie professionnelle vie personnelle (15%). Les répondants sont le plus pessimistes pour les conditions de travail relatives à l'administration (86% de pessimistes), à la recherche (81%) et à l'enseignement (80%), ainsi qu'aux rémuunérations (77%) et évolutions de carrière (75%). 
+__10% des opinions des répondants sont optimistes sur l'amélioration future de leurs conditions de travail, contre 67% qui sont pessimistes.__ Les répondants sont les plus optimistes quant à l'amélioration des relations professionnelles avec le même corps de métier (20% d'optimistes) et avec les autres (18%), ainsi que l'équilbre vie professionnelle vie personnelle (15%). Les répondants sont le plus pessimistes pour les conditions de travail relatives à l'administration (86% de pessimistes), à la recherche (81%) et à l'enseignement (80%), ainsi qu'aux rémunérations (77%) et évolutions de carrière (75%). 
 :::
 ::::::
 
 
-## Principaux résultats : Confiance des répondants envers les principales instances
+## Principaux résultats : Sentiment de soutien de la part des principales instances
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
-plot_bloc_percent("confiance", pad=35)
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
+plot_bloc_percent("confiance")
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -213,16 +213,16 @@ __21% des opinions des répondants témoignent d'un sentiment de soutien de la p
 ::::::
 
 
-## Principaux résultats : Confiance des répondants envers les principales instances
+## Principaux résultats : Sentiment faces aux crises
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
-plot_bloc_percent("PCinquietude", pad=35,filldir=-1)
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
+plot_bloc_percent("PCinquietude",filldir=-1)
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -231,12 +231,12 @@ __83% des opinions des répondants témoignent d'une inquiétude face aux crises
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
-plot_bloc_percent("PCimpact", pad=35,filldir=-1)
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
+plot_bloc_percent("PCimpact",filldir=-1)
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -245,12 +245,12 @@ __67% des opinions des répondants témoignent d'un impact des crises sur leur t
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
-```{r, echo=FALSE, out.width="100%", fig.width=6,fig.height=5}
-plot_bloc_percent("PCeffort", pad=35)
+::: {.col data-latex="{0.3\textwidth}"}
+```{r, echo=FALSE, out.width="100%", fig.width=4.5,fig.height=4.5}
+plot_bloc_percent("PCeffort")
 ```
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -259,7 +259,7 @@ __17% des opinions des répondants témoignent d'un effort suffisant de leur ins
 ::::::
 
 
-```{r end, eval=FALSE}
+```{r end, eval=TRUE}
 knitr::knit_exit()
 ```
 
@@ -339,48 +339,86 @@ plot_bloc("evolution",conditions.factor)
 
 ## Détail : Optimisme pour l'évolution des conditions de travail
 
-« Concernant l'amélioration dans le futur des choses suivantes, comment estimez-vous être personnellement ? »
+« Dans quelle mesure êtes-vous optimiste pour l'amélioration futures des choses suivantes ? »
 
 ```{r optimisme}
 plot_bloc("optimisme",conditions.factor)
 ```
 
-## Détail : Confiance envers les instances
+## Détail : Soutien de la part des principales instances
 
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
+« Avez-vous le sentiment d'avoir le soutien des instances suivantes ? »
 
 ```{r confiance, fig.width=12}
 plot_bloc_grid("confiance",confiance.factor)
 ```
 
-## Détail : Confiance envers les instances
-
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
-
-```{r PCinquietude, fig.asp=3/16, out.width="80%", fig.align='center'}
-plot_bloc("PCinquietude",pc.factor,filldir=-1) + theme(legend.position = "right")
-```
+## Détail : Inquiétude face aux crises
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.48\textwidth}"}
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
+::: {.col data-latex="{0.45\textwidth}"}
+« D'une manière générale, vous sentez-vous inquiet face aux crises suivantes ? 
 
-```{r PCimpact, fig.asp=3/8}
-plot_bloc("PCimpact",pc.factor,filldir=-1) + theme(legend.position = "none")
-```
+\footnotesize
+Si vous estimez qu'une crise n'existe pas, répondez "Pas du tout".
+
+La crise diplomatique revoit aux questions internationales, aux tensions comme aux guerres. »
+
 :::
-::: {.col data-latex="{0.04\textwidth}"}
+::: {.col data-latex="{0.05\textwidth}"}
 \ 
 :::
-::: {.col data-latex="{0.48\textwidth}"}
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
+::: {.col data-latex="{0.50\textwidth}"}
 
-```{r PCeffort, fig.asp=3/8}
-  plot_bloc("PCeffort",pc.factor) + theme(legend.position = "none")
+```{r PCinquietude, fig.asp=5/16, fig.width=6}
+plot_bloc("PCinquietude",pc.factor,filldir=-1,legend.position = "bottom-small")
+```
+
+:::
+::::::
+
+
+:::::: {.cols data-latex=""}
+::: {.col data-latex="{0.45\textwidth}"}
+« Estimez-vous que ces crises impactent, directement ou indirectement, vos conditions de travail ? »
+
+\footnotesize
+Considérez les impacts de toutes natures, que ce soit sur vos activités, sur votre façon de les exercer, ou sur le sens que vous leur donnez.
+
+:::
+::: {.col data-latex="{0.05\textwidth}"}
+\ 
+:::
+::: {.col data-latex="{0.50\textwidth}"}
+
+```{r PCimpact, fig.asp=5/16, fig.width=6}
+plot_bloc("PCimpact",pc.factor,filldir=-1,legend.position = "bottom-small")
 ```
 :::
 ::::::
+
+
+:::::: {.cols data-latex=""}
+::: {.col data-latex="{0.45\textwidth}"}
+« Estimez-vous que votre institution fait suffisamment d'effort face aux crises suivantes ? »
+
+\footnotesize 
+Considérez globalement tous les efforts, et votre institution locale (administration, université, centre de recherche...).
+
+
+:::
+::: {.col data-latex="{0.05\textwidth}"}
+\ 
+:::
+::: {.col data-latex="{0.50\textwidth}"}
+
+```{r PCeffort, fig.asp=5/16, fig.width=6}
+  plot_bloc("PCeffort",pc.factor,legend.position = "bottom-small")
+```
+:::
+::::::
+
 
 
 # Résultat par caractéristiques

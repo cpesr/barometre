@@ -54,7 +54,7 @@ plot_etab <- function() {
 #plot_etab()
 
 
-plot_bloc <- function(bloc,bloc.factor, filldir=0, qwrap=50) {
+plot_bloc <- function(bloc,bloc.factor, filldir=0, qwrap=50, rwrap=20, legend.position="bottom") {
   df <- results %>%
     select(id,starts_with(bloc)) %>%
     pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
@@ -78,23 +78,51 @@ plot_bloc <- function(bloc,bloc.factor, filldir=0, qwrap=50) {
       v2 = v2- mid,
     ) 
   
+  if(legend.position=="bottom") {
+    lguide = guide_legend(
+      byrow = TRUE, nrow = 1, label.position = "bottom",
+      override.aes = list(color="white",linewidth=0))
+    ltheme = theme(legend.key.width=unit(0.5, "cm"), 
+                   legend.spacing.x = unit(0, 'cm'),
+                   legend.position = "bottom")
+  }
+  if(legend.position=="bottom-small") {
+    lguide = guide_legend(
+      byrow = TRUE, nrow = 1, label.position = "bottom",
+      override.aes = list(color="white",linewidth=0))
+    ltheme = theme(legend.key.height=unit(0.2, "cm"),
+                   legend.key.width=unit(0.5, "cm"), 
+                   legend.spacing.x = unit(0, 'cm'),
+                   legend.position = "bottom",
+                   axis.title.x = element_blank())
+  }
+  if(legend.position=="right") {
+    lguide = guide_legend(
+      override.aes = list(color="white",linewidth=0))
+    ltheme = theme(legend.key.height=unit(0.5, "cm"),
+                   legend.position = "right")
+  }
+  
   df %>%
     mutate(RéponseNum = as.numeric(gsub(" .*","",Réponse))) %>%
     mutate(Question = fct_rev(Question)) %>%
     ggplot(aes(xmin=v2, xmax=v1, 
                y=Question, ymin=as.numeric(Question)-0.4, ymax=as.numeric(Question)+0.4,
-               fill=RéponseNum)) +
+               fill=Réponse)) +
     geom_rect(alpha=0.8,color="black", size=0.1) +
     geom_vline(xintercept = 0, size=0.1, color="black") +
     scale_x_continuous(limits=c(-1,1), name = "Part des répondants", 
                        labels = ~ scales::percent(abs(.x))) +
     scale_y_discrete(labels = ~ str_wrap(.x,width=qwrap), name=NULL) +
-    scale_fill_distiller(palette='RdYlBu', direction=filldir, breaks=seq(0,10),
-                         guide = guide_coloursteps(), name=NULL)
+    scale_fill_brewer(palette='RdYlBu', direction=filldir, 
+                      labels=~str_wrap(.x,rwrap),
+                      name = NULL,
+                      guide = lguide) +
+    ltheme
 }
 
 
-#plot_bloc("conditions",conditions.factor)
+plot_bloc("conditions",conditions.factor, legend.position = "bottom-small") 
 #plot_bloc("evolution",conditions.factor)
 #plot_bloc("optimisme",conditions.factor)
 #plot_bloc("confiance",confiance.factor)
@@ -165,7 +193,7 @@ plot_bloc_grid <- function(bloc,bloc.factor,filldir=0) {
 
 
 
-plot_bloc_percent <- function(bloc, pad=35, plot=TRUE,filldir=0) {
+plot_bloc_percent <- function(bloc, wwrap=20, plot=TRUE,filldir=0) {
   df <- results %>%
     select(id,starts_with(bloc)) %>%
     pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
@@ -191,13 +219,20 @@ plot_bloc_percent <- function(bloc, pad=35, plot=TRUE,filldir=0) {
   p <- df %>%
     ggplot(aes(x=1,y=part,fill=Réponse,color=Réponse)) +
     geom_col(color="black",size=0.1) +
-    annotate("text",x=-2,y=0,label=part,size=18,fontface="bold") +
+    annotate("text",x=-2,y=0,label=part,size=14,fontface="bold") +
     coord_polar(theta="y") +
     xlim(c(-2, 1.5)) +
     #scale_color_brewer(palette='RdYlBu', labels = ~ str_pad(.x, pad, side = "right")) +
-    scale_fill_brewer(palette='RdYlBu', labels = ~ str_pad(.x, pad, side = "right"), direction=filldir) +
+    scale_fill_brewer(palette='RdYlBu', 
+                      #labels = ~ str_pad(.x, pad, side = "right"), 
+                      labels = ~ str_pad(str_wrap(.x, wwrap),wwrap+5, side = "right"), 
+                      direction=filldir,
+                      guide = guide_legend(
+                        override.aes = list(color="white",linewidth=0))) +
     theme_void() +
-    theme(legend.position = "left")
+    theme(legend.position = "left",
+          legend.key.height=unit(0.2, "cm"))
+  
   return(p)
 }
 # plot_bloc_percent("evolution")

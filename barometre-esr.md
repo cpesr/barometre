@@ -136,28 +136,28 @@ Le baromètre a été ouvert de juin à décembre 2024, en vue de limiter un eff
 
 _Nombre de réponses_ : 2240 répondants ont rempli au moins la première partie, et 1872 ont finalisé leur réponse. 
 
-## Principaux résultats : Opinion des répondants sur leurs conditions de travail
+## Principaux résultats : Opinion sur leurs conditions de travail
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.30\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-1-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0\textwidth}"}
 \ 
 :::
-::: {.col data-latex="{0.7\textwidth}"}
+::: {.col data-latex="{0.70\textwidth}"}
 __43% des opinions des répondants sur leurs conditions de travail sont positives, contre 43% négatives.__ Sont les mieux perçues les relations professionnelles avec le même corps de métier (67% d'opinions positives), les relations professionnelle avec les autres corps de métier (60% d'opinions positives) et les conditions de vie en général (50% d'opinions positives). Sont les plus mal perçues les conditions d'évolution de carrière (56% d'opinions négatives, les conditions de rémunérations (55%) et les conditions de travail relatives à l'administration (67% d'opinions négatives).
 :::
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-2-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.00\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -167,28 +167,28 @@ __10% des opinions des répondants sur l'évolution de leurs conditions de trava
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-3-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
-__10% des opinions des répondants sont optimistes sur l'amélioration future de leurs conditions de travail, contre 67% qui sont pessimistes.__ Les répondants sont les plus optimistes quant à l'amélioration des relations professionnelles avec le même corps de métier (20% d'optimistes) et avec les autres (18%), ainsi que l'équilbre vie professionnelle vie personnelle (15%). Les répondants sont le plus pessimistes pour les conditions de travail relatives à l'administration (86% de pessimistes), à la recherche (81%) et à l'enseignement (80%), ainsi qu'aux rémuunérations (77%) et évolutions de carrière (75%). 
+__10% des opinions des répondants sont optimistes sur l'amélioration future de leurs conditions de travail, contre 67% qui sont pessimistes.__ Les répondants sont les plus optimistes quant à l'amélioration des relations professionnelles avec le même corps de métier (20% d'optimistes) et avec les autres (18%), ainsi que l'équilbre vie professionnelle vie personnelle (15%). Les répondants sont le plus pessimistes pour les conditions de travail relatives à l'administration (86% de pessimistes), à la recherche (81%) et à l'enseignement (80%), ainsi qu'aux rémunérations (77%) et évolutions de carrière (75%). 
 :::
 ::::::
 
 
-## Principaux résultats : Confiance des répondants envers les principales instances
+## Principaux résultats : Sentiment de soutien de la part des principales instances
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-4-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -197,15 +197,15 @@ __21% des opinions des répondants témoignent d'un sentiment de soutien de la p
 ::::::
 
 
-## Principaux résultats : Confiance des répondants envers les principales instances
+## Principaux résultats : Sentiment faces aux crises
 
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-5-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -214,11 +214,11 @@ __83% des opinions des répondants témoignent d'une inquiétude face aux crises
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-6-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -227,11 +227,11 @@ __67% des opinions des répondants témoignent d'un impact des crises sur leur t
 ::::::
 
 :::::: {.cols data-latex=""}
-::: {.col data-latex="{0.27\textwidth}"}
+::: {.col data-latex="{0.3\textwidth}"}
 
 \includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/unnamed-chunk-7-1} 
 :::
-::: {.col data-latex="{0.03\textwidth}"}
+::: {.col data-latex="{0.0\textwidth}"}
 \ 
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
@@ -245,181 +245,36 @@ __17% des opinions des répondants témoignent d'un effort suffisant de leur ins
 
 
 
-## Représentativité (I)
-\footnotesize
-Les répondants sont représentatifs de la population de l'ESR en ce qui concerne le sexe et l'âge. En revanche, la population universitaire est sur-représentée, et le secteur privé pratiquement absent. 
 
-Les répondants appartiennent à plus de 131 établissements différents, et toutes les universités sont représentées. Le biais établissement est donc probablement faible, mais il n'est pas possible de procéder à des comparaisons entre établissements.
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/rep-1} 
 
 
-## Représentativité (II)
 
-\footnotesize
-Les répondants sont représentatifs de toute la population de l'ESR en ce qui concerne la pyramide des catégories et des responsabilités. En revanche, les enseignants-chercheurs titulaires sont sur-représentés, ainsi que les disciplines LLA-SHS et STEM, et les personnels BIATSS de catégorie B et C sont trop sous-représentés pour permettre des comparaisons.
 
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/rep2-1} 
 
 
-## Questions socles
 
-« Pour chacune des questions suivantes, situez-vous sur une échelle de 0 à 10. »
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/socle-1} 
 
-# Détail des réponses par question
 
-## Détail : Conditions de travail
 
-« En ce qui vous concerne personnellement, et à l'heure actuelle, comment estimez-vous les choses suivantes ? »
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/conditions-1} 
 
-## Détail : Évolution des conditions de travail
 
-« En ce qui vous concerne personnellement, comment estimez-vous l'évolution des choses suivantes ? »
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/evolution-1} 
 
-## Détail : Optimisme pour l'évolution des conditions de travail
 
-« Concernant l'amélioration dans le futur des choses suivantes, comment estimez-vous être personnellement ? »
 
 
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/optimisme-1} 
 
-## Détail : Confiance envers les instances
 
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
 
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/confiance-1} 
-
-## Détail : Confiance envers les instances
-
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
-
-
-\begin{center}\includegraphics[width=0.8\linewidth]{barometre-esr_files/figure-beamer/PCinquietude-1} \end{center}
-
-
-:::::: {.cols data-latex=""}
-::: {.col data-latex="{0.48\textwidth}"}
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/PCimpact-1} 
-:::
-::: {.col data-latex="{0.04\textwidth}"}
-\ 
-:::
-::: {.col data-latex="{0.48\textwidth}"}
-« Pour améliorer vos conditions de travail et la qualité de vos missions, quelle confiance accordez-vous personnellement aux instances suivantes ? »
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/PCeffort-1} 
-:::
-::::::
-
-
-# Résultat par caractéristiques
-
-## Résultat par caractéristiques : Sexe 
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/sexe-1} 
-
-\scriptsize
-Le groupe de réponses « Autre » présente trop peu de réponses (18) pour être représentatif : il n'est pas représenté ici. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.1 est donc très faible.
-
-
-## Résultat par caractéristiques : Métier
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/metier-1} 
-
-\scriptsize
-Pour des questions de lisibilité et de représentativité, les groupes détaillés de métiers supports ont été fusionnés en un seul groupe. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.5 est donc assez significatif.
-
-
-## Résultat par caractéristiques : Discipline
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/discipline-1} 
-
-\scriptsize
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.2 est donc faible.
-
- 
-
-## Résultat par caractéristiques : Statut
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/statut-1} 
-
-\scriptsize
-Pour des questions de lisibilité et de représentativité, les groupes détaillés de contractuels ont été fusionnés en un seul groupe. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.2 est donc faible.
-
-
-## Résultat par caractéristiques : Corps
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/categorie-1} 
-
-\scriptsize
-Les réponses des BIATSS catégories B et C sont trop peu nombreuses pour être représentatives, malheureusement. C'est pourquoi cette représentation se limite aux personnels d'enseignement et de recherche. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.8 est donc significatif.
-
-
-## Résultat par caractéristiques : Responsabilités
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/responsabilties-1} 
-
-\scriptsize
-Pour des questions de lisibilité et de représentativité, les groupes détaillés de responsabilité ont été fusionnés en quatre groupes. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.4 est donc assez significatif.
-
-## Résultat par caractéristiques : Ancienneté
-
-
-\includegraphics[width=1\linewidth]{barometre-esr_files/figure-beamer/anciennete-1} 
-
-\scriptsize
-Pour des questions de lisibilité et de représentativité, les groupes détaillés d'ancienneté ont été fusionnés en quatre groupes. \newline
-Le score de chaque groupe est calculé comme la moyenne des réponses, en valeurs numériques de 0 à 6. Un écart de 0.4 est donc assez significatif.
-
-
-# Expressions libres
-
-## Expressions libres : quelques choses ajoutées aux réponses (I)
-
-X commentaires ont été laissés par les répondants à la question « Avez-vous quelque chose à ajouter aux réponses que vous avez fournies ? ». Ils sont analysés dans la suite.
-
-\footnotesize
-
-La CPESR remercie chaleureusement les participantes et participants à ce baromètre.
-
-\vfill
-
-
-\begin{center}\includegraphics[width=0.07\linewidth]{files/589px-Knowledge-Reid-Highsmith} \end{center}
-
-\scriptsize
-
-\hfill Enquête dirigée par Julien Gossa \newline
-\hphantom{.} \hfill Analyse OpenAI effectuée par Jacques Haiech \newline
-\hphantom{.} \hfill Contact : contact@cpesr.fr
 
 
 
