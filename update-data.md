@@ -1,58 +1,108 @@
 Baromètre ESR - updatedata
 ================
 CPESR
-2025-01-25
+2025-01-31
 
 ## Données
 
-    ##  [1] "id"                           "submitdate"                  
-    ##  [3] "lastpage"                     "startlanguage"               
-    ##  [5] "seed"                         "startdate"                   
-    ##  [7] "datestamp"                    "ipaddr"                      
-    ##  [9] "refurl"                       "conditions.gener."           
-    ## [11] "conditions.ens."              "conditions.rech."            
-    ## [13] "conditions.admin."            "conditions.relmem."          
-    ## [15] "conditions.relaut."           "conditions.carri."           
-    ## [17] "conditions.remun."            "conditions.equil."           
-    ## [19] "evolution.gener."             "evolution.ens."              
-    ## [21] "evolution.rech."              "evolution.admin."            
-    ## [23] "evolution.relmem."            "evolution.relaut."           
-    ## [25] "evolution.carri."             "evolution.remun."            
-    ## [27] "evolution.equil."             "optimisme.gener."            
-    ## [29] "optimisme.ens."               "optimisme.rech."             
-    ## [31] "optimisme.admin."             "optimisme.relmem."           
-    ## [33] "optimisme.relaut."            "optimisme.carri."            
-    ## [35] "optimisme.remun."             "optimisme.equil."            
-    ## [37] "confiance.Etat."              "confiance.MESRI."            
-    ## [39] "confiance.ParitairesNat."     "confiance.CNU."              
-    ## [41] "confiance.CoNRS."             "confiance.ANR."              
-    ## [43] "confiance.HCERES."            "confiance.ONR."              
-    ## [45] "confiance.FU."                "confiance.UDICE."            
-    ## [47] "confiance.AUREF."             "confiance.Territoire."       
-    ## [49] "confiance.Presidences."       "confiance.Conseils."         
-    ## [51] "confiance.ParitainesLocales." "confiance.Dircomp."          
-    ## [53] "PCinquietude.clim."           "PCinquietude.eco."           
-    ## [55] "PCinquietude.diplo."          "PCinquietude.pol."           
-    ## [57] "PCimpact.clim."               "PCimpact.eco."               
-    ## [59] "PCimpact.diplo."              "PCimpact.pol."               
-    ## [61] "PCeffort.clim."               "PCeffort.eco."               
-    ## [63] "PCeffort.diplo."              "PCeffort.pol."               
-    ## [65] "PCexpression"                 "socle.satisfaction."         
-    ## [67] "socle.bonheur."               "socle.sens."                 
-    ## [69] "socle.valo."                  "socle.capretraite."          
-    ## [71] "socle.souretraite."           "socle.confiance."            
-    ## [73] "sexe"                         "age"                         
-    ## [75] "aciennete"                    "metier"                      
-    ## [77] "discipline"                   "categorie"                   
-    ## [79] "statut"                       "typeetab.univ."              
-    ## [81] "typeetab.UFR."                "typeetab.IUT."               
-    ## [83] "typeetab.ecole."              "typeetab.UMR."               
-    ## [85] "typeetab.labo."               "typeetab.cenrec."            
-    ## [87] "typeetab.institut."           "typeetab.natreg."            
-    ## [89] "typeetab.other."              "secteur"                     
-    ## [91] "etab"                         "etab.other."                 
-    ## [93] "responsabilites"              "responsabilites2"            
-    ## [95] "ELajout"                      "ELbarometre"
+    ## Rows: 2,848
+    ## Columns: 96
+    ## $ id                           <int> 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 4…
+    ## $ submitdate                   <chr> NA, "2024-03-26 13:13:53", "2024-05-01 23…
+    ## $ lastpage                     <int> NA, 8, 8, 3, NA, 8, 8, NA, NA, 6, NA, NA,…
+    ## $ startlanguage                <chr> "fr", "fr", "fr", "fr", "fr", "fr", "fr",…
+    ## $ seed                         <int> 208208165, 1340348542, 1413370669, 172850…
+    ## $ startdate                    <chr> "2024-03-26 09:42:54", "2024-03-26 13:07:…
+    ## $ datestamp                    <chr> "2024-03-26 09:42:54", "2024-03-26 13:13:…
+    ## $ ipaddr                       <chr> "194.199.64.73", "194.167.47.253", "2a01:…
+    ## $ refurl                       <chr> NA, NA, NA, NA, NA, NA, "https://partage.…
+    ## $ conditions.gener.            <chr> NA, "3", "4", "5", NA, "3", "2", NA, NA, …
+    ## $ conditions.ens.              <chr> NA, "5", "1", "5", NA, "5", "2", NA, NA, …
+    ## $ conditions.rech.             <chr> NA, "5", "0 - Pas du tout satisfaisantes"…
+    ## $ conditions.admin.            <chr> NA, "4", "1", "4", NA, "2", "2", NA, NA, …
+    ## $ conditions.relmem.           <chr> NA, "8", "2", "6", NA, "7", "5", NA, NA, …
+    ## $ conditions.relaut.           <chr> NA, "7", "2", "6", NA, "7", "5", NA, NA, …
+    ## $ conditions.carri.            <chr> NA, "6", "5", "2", NA, "5", "6", NA, NA, …
+    ## $ conditions.remun.            <chr> NA, "3", "8", "3", NA, "5", "6", NA, NA, …
+    ## $ conditions.equil.            <chr> NA, "2", "1", "3", NA, "2", "7", NA, NA, …
+    ## $ evolution.gener.             <chr> NA, "2", "2", "6", NA, "0 - Rapide dégrad…
+    ## $ evolution.ens.               <chr> NA, "4", "0 - Rapide dégradation", "6", N…
+    ## $ evolution.rech.              <chr> NA, "3", "2", "2", NA, "3", "2", NA, NA, …
+    ## $ evolution.admin.             <chr> NA, "3", "2", "6", NA, "0 - Rapide dégrad…
+    ## $ evolution.relmem.            <chr> NA, "5 - Stable", "0 - Rapide dégradation…
+    ## $ evolution.relaut.            <chr> NA, "5 - Stable", "2", "6", NA, "4", "5 -…
+    ## $ evolution.carri.             <chr> NA, "2", "5 - Stable", "2", NA, "4", "4",…
+    ## $ evolution.remun.             <chr> NA, "2", "7", "3", NA, "4", "3", NA, NA, …
+    ## $ evolution.equil.             <chr> NA, "1", "2", "2", NA, "3", "3", NA, NA, …
+    ## $ optimisme.gener.             <chr> NA, "3", "2", "2", NA, "3", "3", NA, NA, …
+    ## $ optimisme.ens.               <chr> NA, "3", "2", "3", NA, "4", "3", NA, NA, …
+    ## $ optimisme.rech.              <chr> NA, "3", "2", "1", NA, "2", "3", NA, NA, …
+    ## $ optimisme.admin.             <chr> NA, "3", "2", "2", NA, "2", "3", NA, NA, …
+    ## $ optimisme.relmem.            <chr> NA, "4", "2", "5 - Neutre", NA, "3", "6",…
+    ## $ optimisme.relaut.            <chr> NA, "4", "2", "5 - Neutre", NA, "3", "6",…
+    ## $ optimisme.carri.             <chr> NA, "2", "5 - Neutre", "2", NA, "3", "3",…
+    ## $ optimisme.remun.             <chr> NA, "2", "5 - Neutre", "2", NA, "3", "3",…
+    ## $ optimisme.equil.             <chr> NA, "1", "2", "2", NA, "3", "6", NA, NA, …
+    ## $ confiance.Etat.              <chr> NA, "0 - Pas du tout", "0 - Pas du tout",…
+    ## $ confiance.MESRI.             <chr> NA, "0 - Pas du tout", "0 - Pas du tout",…
+    ## $ confiance.ParitairesNat.     <chr> NA, "7", "0 - Pas du tout", NA, NA, "0 - …
+    ## $ confiance.CNU.               <chr> NA, "9", "4", NA, NA, "1", "2", NA, NA, "…
+    ## $ confiance.CoNRS.             <chr> NA, "9", "4", NA, NA, "1", "6", NA, NA, "…
+    ## $ confiance.ANR.               <chr> NA, "3", "0 - Pas du tout", NA, NA, "1", …
+    ## $ confiance.HCERES.            <chr> NA, "3", "0 - Pas du tout", NA, NA, "1", …
+    ## $ confiance.ONR.               <chr> NA, "6", "3", NA, NA, "1", "7", NA, NA, "…
+    ## $ confiance.FU.                <chr> NA, "0 - Pas du tout", "0 - Pas du tout",…
+    ## $ confiance.UDICE.             <chr> NA, "0 - Pas du tout", "0 - Pas du tout",…
+    ## $ confiance.AUREF.             <chr> NA, "5", "0 - Pas du tout", NA, NA, "1", …
+    ## $ confiance.Territoire.        <chr> NA, "4", "0 - Pas du tout", NA, NA, "1", …
+    ## $ confiance.Presidences.       <chr> NA, "7", "0 - Pas du tout", NA, NA, "2", …
+    ## $ confiance.Conseils.          <chr> NA, "7", "3", NA, NA, "4", "5", NA, NA, "…
+    ## $ confiance.ParitainesLocales. <chr> NA, "9", "3", NA, NA, "6", "7", NA, NA, "…
+    ## $ confiance.Dircomp.           <chr> NA, "8", "1", NA, NA, "9", "8", NA, NA, "…
+    ## $ PCinquietude.clim.           <chr> NA, "9", "10 - Tout à fait", NA, NA, "10 …
+    ## $ PCinquietude.eco.            <chr> NA, "9", "8", NA, NA, "10 - Tout à fait",…
+    ## $ PCinquietude.diplo.          <chr> NA, "9", "8", NA, NA, "7", "8", NA, NA, N…
+    ## $ PCinquietude.pol.            <chr> NA, "9", "10 - Tout à fait", NA, NA, "10 …
+    ## $ PCimpact.clim.               <chr> NA, "7", "5", NA, NA, "7", "6", NA, NA, "…
+    ## $ PCimpact.eco.                <chr> NA, "9", "7", NA, NA, "7", "7", NA, NA, "…
+    ## $ PCimpact.diplo.              <chr> NA, "6", "3", NA, NA, "2", "3", NA, NA, N…
+    ## $ PCimpact.pol.                <chr> NA, "8", "9", NA, NA, "7", "7", NA, NA, "…
+    ## $ PCeffort.clim.               <chr> NA, "7", "0 - Pas du tout", NA, NA, "5", …
+    ## $ PCeffort.eco.                <chr> NA, "6", "0 - Pas du tout", NA, NA, "2", …
+    ## $ PCeffort.diplo.              <chr> NA, "5", "0 - Pas du tout", NA, NA, NA, "…
+    ## $ PCeffort.pol.                <chr> NA, "3", "0 - Pas du tout", NA, NA, "5", …
+    ## $ PCexpression                 <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
+    ## $ socle.satisfaction.          <chr> NA, "5 - Neutre", "7", NA, NA, "7", "7", …
+    ## $ socle.bonheur.               <chr> NA, "6", "9", NA, NA, "7", "7", NA, NA, N…
+    ## $ socle.sens.                  <chr> NA, "4", "9", NA, NA, "8", "8", NA, NA, N…
+    ## $ socle.valo.                  <chr> NA, "4", "1", NA, NA, "4", "8", NA, NA, N…
+    ## $ socle.capretraite.           <chr> NA, "3", "8", NA, NA, "2", "9", NA, NA, N…
+    ## $ socle.souretraite.           <chr> NA, "6", "10 - Totalement", NA, NA, NA, "…
+    ## $ socle.confiance.             <chr> NA, "8", "8", NA, NA, "7", "7", NA, NA, N…
+    ## $ sexe                         <chr> NA, "Féminin", "Féminin", NA, NA, "Fémini…
+    ## $ age                          <chr> NA, "De 45 à 54 ans", "De 55 à 64 ans", N…
+    ## $ aciennete                    <chr> NA, "De 20 à 29 ans", "De 30 à 39 ans", N…
+    ## $ metier                       <chr> NA, "Personnel d'enseignement et de reche…
+    ## $ discipline                   <chr> NA, "STEM - Science, Technologie, Ingénie…
+    ## $ categorie                    <chr> NA, "PR, DR ou assimilé", "PR, DR ou assi…
+    ## $ statut                       <chr> NA, "Titulaire d'un poste de la fonction …
+    ## $ typeetab.univ.               <chr> "Non", "Oui", "Oui", "Non", "Non", "Oui",…
+    ## $ typeetab.UFR.                <chr> "Non", "Non", "Oui", "Non", "Non", "Non",…
+    ## $ typeetab.IUT.                <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.ecole.              <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.UMR.                <chr> "Non", "Non", "Oui", "Non", "Non", "Oui",…
+    ## $ typeetab.labo.               <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.cenrec.             <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.institut.           <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.natreg.             <chr> "Non", "Non", "Non", "Non", "Non", "Non",…
+    ## $ typeetab.other.              <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
+    ## $ secteur                      <chr> NA, "Public", "Public", NA, NA, "Public",…
+    ## $ etab                         <chr> NA, "Université de Poitiers", "Université…
+    ## $ etab.other.                  <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
+    ## $ responsabilites              <chr> NA, "Membre élu d'une instance nationale"…
+    ## $ responsabilites2             <chr> NA, "cnu", "Directrice d'UMR", NA, NA, "R…
+    ## $ ELajout                      <chr> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, N…
+    ## $ ELbarometre                  <chr> NA, NA, NA, NA, NA, "Merci pour ce baromè…
 
 <details>
 <summary>
@@ -61,101 +111,101 @@ complétion
 
 | colonne                      | Renseigné_FALSE | Renseigné_TRUE |
 |:-----------------------------|----------------:|---------------:|
-| datestamp                    |              NA |           2854 |
-| ipaddr                       |              NA |           2854 |
-| seed                         |              NA |           2854 |
-| startdate                    |              NA |           2854 |
-| startlanguage                |              NA |           2854 |
-| typeetab.IUT.                |              NA |           2854 |
-| typeetab.UFR.                |              NA |           2854 |
-| typeetab.UMR.                |              NA |           2854 |
-| typeetab.cenrec.             |              NA |           2854 |
-| typeetab.ecole.              |              NA |           2854 |
-| typeetab.institut.           |              NA |           2854 |
-| typeetab.labo.               |              NA |           2854 |
-| typeetab.natreg.             |              NA |           2854 |
-| typeetab.univ.               |              NA |           2854 |
-| lastpage                     |             549 |           2305 |
-| conditions.gener.            |             619 |           2235 |
-| conditions.equil.            |             629 |           2225 |
-| conditions.remun.            |             635 |           2219 |
-| conditions.relmem.           |             644 |           2210 |
-| conditions.carri.            |             672 |           2182 |
-| conditions.admin.            |             685 |           2169 |
-| conditions.relaut.           |             708 |           2146 |
-| evolution.gener.             |             801 |           2053 |
-| evolution.equil.             |             810 |           2044 |
-| evolution.remun.             |             816 |           2038 |
-| evolution.relmem.            |             830 |           2024 |
-| evolution.carri.             |             832 |           2022 |
-| conditions.rech.             |             834 |           2020 |
-| evolution.admin.             |             839 |           2015 |
-| optimisme.gener.             |             861 |           1993 |
-| evolution.relaut.            |             865 |           1989 |
-| optimisme.equil.             |             877 |           1977 |
-| optimisme.remun.             |             879 |           1975 |
-| optimisme.admin.             |             886 |           1968 |
-| optimisme.carri.             |             891 |           1963 |
-| optimisme.relmem.            |             894 |           1960 |
-| optimisme.relaut.            |             912 |           1942 |
-| confiance.Etat.              |             920 |           1934 |
-| confiance.MESRI.             |             926 |           1928 |
-| confiance.Dircomp.           |             927 |           1927 |
-| PCinquietude.eco.            |             938 |           1916 |
-| PCinquietude.clim.           |             939 |           1915 |
-| PCinquietude.pol.            |             940 |           1914 |
-| PCinquietude.diplo.          |             948 |           1906 |
-| PCimpact.clim.               |             951 |           1903 |
-| confiance.Presidences.       |             951 |           1903 |
-| PCimpact.pol.                |             953 |           1901 |
-| PCimpact.eco.                |             954 |           1900 |
-| evolution.rech.              |             958 |           1896 |
-| socle.valo.                  |             961 |           1893 |
-| socle.satisfaction.          |             965 |           1889 |
-| socle.sens.                  |             965 |           1889 |
-| PCimpact.diplo.              |             969 |           1885 |
-| submitdate                   |             982 |           1872 |
-| socle.capretraite.           |             984 |           1870 |
-| metier                       |             985 |           1869 |
-| socle.bonheur.               |             987 |           1867 |
-| age                          |             991 |           1863 |
-| socle.souretraite.           |             991 |           1863 |
-| statut                       |             991 |           1863 |
-| aciennete                    |             994 |           1860 |
-| optimisme.rech.              |             994 |           1860 |
-| secteur                      |             995 |           1859 |
-| categorie                    |             997 |           1857 |
-| discipline                   |             999 |           1855 |
-| confiance.Conseils.          |            1000 |           1854 |
-| socle.confiance.             |            1003 |           1851 |
-| PCeffort.clim.               |            1004 |           1850 |
-| confiance.HCERES.            |            1004 |           1850 |
-| sexe                         |            1017 |           1837 |
-| confiance.ANR.               |            1023 |           1831 |
-| confiance.Territoire.        |            1023 |           1831 |
-| responsabilites              |            1039 |           1815 |
-| confiance.ParitainesLocales. |            1051 |           1803 |
-| etab                         |            1054 |           1800 |
-| confiance.ONR.               |            1055 |           1799 |
-| confiance.ParitairesNat.     |            1056 |           1798 |
-| confiance.CNU.               |            1092 |           1762 |
-| confiance.CoNRS.             |            1108 |           1746 |
-| confiance.FU.                |            1120 |           1734 |
-| conditions.ens.              |            1127 |           1727 |
-| confiance.UDICE.             |            1133 |           1721 |
-| PCeffort.eco.                |            1149 |           1705 |
-| optimisme.ens.               |            1149 |           1705 |
-| confiance.AUREF.             |            1171 |           1683 |
-| evolution.ens.               |            1182 |           1672 |
-| PCeffort.pol.                |            1245 |           1609 |
-| PCeffort.diplo.              |            1333 |           1521 |
-| responsabilites2             |            2008 |            846 |
-| ELajout                      |            2541 |            313 |
-| ELbarometre                  |            2643 |            211 |
-| PCexpression                 |            2690 |            164 |
-| typeetab.other.              |            2765 |             89 |
-| etab.other.                  |            2771 |             83 |
-| refurl                       |            2801 |             53 |
+| datestamp                    |              NA |           2848 |
+| ipaddr                       |              NA |           2848 |
+| seed                         |              NA |           2848 |
+| startdate                    |              NA |           2848 |
+| startlanguage                |              NA |           2848 |
+| typeetab.IUT.                |              NA |           2848 |
+| typeetab.UFR.                |              NA |           2848 |
+| typeetab.UMR.                |              NA |           2848 |
+| typeetab.cenrec.             |              NA |           2848 |
+| typeetab.ecole.              |              NA |           2848 |
+| typeetab.institut.           |              NA |           2848 |
+| typeetab.labo.               |              NA |           2848 |
+| typeetab.natreg.             |              NA |           2848 |
+| typeetab.univ.               |              NA |           2848 |
+| lastpage                     |             549 |           2299 |
+| conditions.gener.            |             619 |           2229 |
+| conditions.equil.            |             627 |           2221 |
+| conditions.remun.            |             634 |           2214 |
+| conditions.relmem.           |             641 |           2207 |
+| conditions.carri.            |             671 |           2177 |
+| conditions.admin.            |             683 |           2165 |
+| conditions.relaut.           |             707 |           2141 |
+| evolution.gener.             |             796 |           2052 |
+| evolution.equil.             |             805 |           2043 |
+| evolution.remun.             |             811 |           2037 |
+| evolution.relmem.            |             825 |           2023 |
+| evolution.carri.             |             827 |           2021 |
+| conditions.rech.             |             831 |           2017 |
+| evolution.admin.             |             834 |           2014 |
+| optimisme.gener.             |             856 |           1992 |
+| evolution.relaut.            |             860 |           1988 |
+| optimisme.equil.             |             872 |           1976 |
+| optimisme.remun.             |             874 |           1974 |
+| optimisme.admin.             |             881 |           1967 |
+| optimisme.carri.             |             886 |           1962 |
+| optimisme.relmem.            |             889 |           1959 |
+| optimisme.relaut.            |             907 |           1941 |
+| confiance.Etat.              |             915 |           1933 |
+| confiance.MESRI.             |             921 |           1927 |
+| confiance.Dircomp.           |             922 |           1926 |
+| PCinquietude.eco.            |             932 |           1916 |
+| PCinquietude.clim.           |             933 |           1915 |
+| PCinquietude.pol.            |             934 |           1914 |
+| PCinquietude.diplo.          |             942 |           1906 |
+| PCimpact.clim.               |             945 |           1903 |
+| confiance.Presidences.       |             946 |           1902 |
+| PCimpact.pol.                |             947 |           1901 |
+| PCimpact.eco.                |             948 |           1900 |
+| evolution.rech.              |             953 |           1895 |
+| socle.valo.                  |             955 |           1893 |
+| socle.satisfaction.          |             959 |           1889 |
+| socle.sens.                  |             959 |           1889 |
+| PCimpact.diplo.              |             963 |           1885 |
+| submitdate                   |             976 |           1872 |
+| socle.capretraite.           |             978 |           1870 |
+| metier                       |             979 |           1869 |
+| socle.bonheur.               |             981 |           1867 |
+| age                          |             985 |           1863 |
+| socle.souretraite.           |             985 |           1863 |
+| statut                       |             985 |           1863 |
+| aciennete                    |             988 |           1860 |
+| optimisme.rech.              |             989 |           1859 |
+| secteur                      |             989 |           1859 |
+| categorie                    |             991 |           1857 |
+| discipline                   |             993 |           1855 |
+| confiance.Conseils.          |             995 |           1853 |
+| socle.confiance.             |             997 |           1851 |
+| PCeffort.clim.               |             998 |           1850 |
+| confiance.HCERES.            |             999 |           1849 |
+| sexe                         |            1011 |           1837 |
+| confiance.ANR.               |            1018 |           1830 |
+| confiance.Territoire.        |            1018 |           1830 |
+| responsabilites              |            1033 |           1815 |
+| confiance.ParitainesLocales. |            1046 |           1802 |
+| etab                         |            1048 |           1800 |
+| confiance.ONR.               |            1050 |           1798 |
+| confiance.ParitairesNat.     |            1051 |           1797 |
+| confiance.CNU.               |            1087 |           1761 |
+| confiance.CoNRS.             |            1103 |           1745 |
+| confiance.FU.                |            1115 |           1733 |
+| conditions.ens.              |            1124 |           1724 |
+| confiance.UDICE.             |            1128 |           1720 |
+| PCeffort.eco.                |            1143 |           1705 |
+| optimisme.ens.               |            1144 |           1704 |
+| confiance.AUREF.             |            1166 |           1682 |
+| evolution.ens.               |            1177 |           1671 |
+| PCeffort.pol.                |            1239 |           1609 |
+| PCeffort.diplo.              |            1327 |           1521 |
+| responsabilites2             |            2002 |            846 |
+| ELajout                      |            2535 |            313 |
+| ELbarometre                  |            2637 |            211 |
+| PCexpression                 |            2685 |            163 |
+| typeetab.other.              |            2759 |             89 |
+| etab.other.                  |            2765 |             83 |
+| refurl                       |            2795 |             53 |
 
 </details>
 <details>
@@ -165,25 +215,44 @@ nb réponses complètes
 
 | submitdate_na | lastpage |   nb | nbsum |
 |:--------------|---------:|-----:|------:|
-| TRUE          |        0 |   49 |    49 |
-| TRUE          |        1 |  166 |   215 |
-| TRUE          |        2 |   71 |   286 |
-| TRUE          |        3 |   52 |   338 |
-| TRUE          |        4 |   29 |   367 |
-| TRUE          |        5 |   24 |   391 |
-| TRUE          |        6 |   33 |   424 |
-| TRUE          |        7 |    9 |   433 |
-| FALSE         |        8 | 1872 |  2305 |
-| TRUE          |       NA |  549 |  2854 |
+| TRUE          |        0 |   48 |    48 |
+| TRUE          |        1 |  163 |   211 |
+| TRUE          |        2 |   71 |   282 |
+| TRUE          |        3 |   52 |   334 |
+| TRUE          |        4 |   29 |   363 |
+| TRUE          |        5 |   24 |   387 |
+| TRUE          |        6 |   31 |   418 |
+| TRUE          |        7 |    9 |   427 |
+| FALSE         |        8 | 1872 |  2299 |
+| TRUE          |       NA |  549 |  2848 |
 
 </details>
 
 ## Export
 
-## Résumés
+## Check
 
-    ## Joining with `by = join_by(Question)`
-    ## Joining with `by = join_by(Question)`
+<details>
+<summary>
+Voir les données
+</summary>
+
+    ## Joining with `by = join_by(id)`
+
+| id | nb | submitdate | lastpage | startlanguage | seed | startdate | datestamp | ipaddr | refurl | conditions.gener. | conditions.ens. | conditions.rech. | conditions.admin. | conditions.relmem. | conditions.relaut. | conditions.carri. | conditions.remun. | conditions.equil. | evolution.gener. | evolution.ens. | evolution.rech. | evolution.admin. | evolution.relmem. | evolution.relaut. | evolution.carri. | evolution.remun. | evolution.equil. | optimisme.gener. | optimisme.ens. | optimisme.rech. | optimisme.admin. | optimisme.relmem. | optimisme.relaut. | optimisme.carri. | optimisme.remun. | optimisme.equil. | confiance.Etat. | confiance.MESRI. | confiance.ParitairesNat. | confiance.CNU. | confiance.CoNRS. | confiance.ANR. | confiance.HCERES. | confiance.ONR. | confiance.FU. | confiance.UDICE. | confiance.AUREF. | confiance.Territoire. | confiance.Presidences. | confiance.Conseils. | confiance.ParitairesLocales. | confiance.Dircomp. | PCinquietude.clim. | PCinquietude.eco. | PCinquietude.diplo. | PCinquietude.pol. | PCimpact.clim. | PCimpact.eco. | PCimpact.diplo. | PCimpact.pol. | PCeffort.clim. | PCeffort.eco. | PCeffort.diplo. | PCeffort.pol. | PCexpression | socle.satisfaction. | socle.bonheur. | socle.sens. | socle.valo. | socle.capretraite. | socle.souretraite. | socle.confiance. | sexe | age | anciennete | metier | discipline | categorie | statut | typeetab.univ. | typeetab.UFR. | typeetab.IUT. | typeetab.ecole. | typeetab.UMR. | typeetab.labo. | typeetab.cenrec. | typeetab.institut. | typeetab.natreg. | typeetab.other. | secteur | etab | etab.other. | responsabilites | responsabilites2 | ELajout | ELbarometre | metier.grp | statut.grp | responsabilites.grp | categorie.grp | anciennete.grp | discipline.grp | sexe.grp |
+|---:|---:|:---|---:|:---|---:|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| 118 | 2 | 2024-09-03 05:37:02 | 8 | fr | 1132634813 | 2024-09-03 05:28:35 | 2024-09-03 05:37:02 | 2a01:cb05:25d:8d00:4150:b6c2:1b2:7b84 | NA | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | NA | NA | NA | NA | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | Masculin | NA | Au moins 40 ans | Personnel de recherche | NA | NA | Titulaire d’un poste de la fonction publique | Non | Non | Non | Non | Non | Oui | Non | Non | Non | NA | Public | NA | NA | NA | NA | NA | NA | C | Titulaire | NA | NA | Au moins 20 ans | NA | Masculin |
+| 1265 | 2 | NA | 1 | fr | 2146177857 | 2024-09-06 12:21:52 | 2024-09-06 12:22:52 | 2a01:e34:ec29:e080:35de:fe0f:d199:a106 | NA | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 0 - Pas du tout satisfaisantes | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | Non | Non | Non | Non | Non | Non | Non | Non | Non | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+| 1315 | 2 | NA | 1 | fr | 1644208992 | 2024-09-06 14:27:12 | 2024-09-06 14:29:17 | 147.171.178.5 | NA | 9 | 9 | 9 | 9 | 10 - Tout à fait satisfaisantes | 10 - Tout à fait satisfaisantes | 9 | 9 | 9 | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | Non | Non | Non | Non | Non | Non | Non | Non | Non | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+| 1338 | 2 | 2024-09-06 15:15:57 | 8 | fr | 1024161418 | 2024-09-06 15:11:23 | 2024-09-06 15:15:57 | 5.51.99.113 | NA | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Rapide dégradation | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Sans espoir | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 10 - Tout à fait | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | NA | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | 0 - Pas du tout | Masculin | Moins de 25 ans | NA | Personnel d’enseignement et de recherche | STEM - Science, Technologie, Ingénierie et Mathématiques | Doctorant, post-doctorant, ATER, ATEN, vacataire ou assimilé | NA | Oui | Oui | Non | Non | Non | Non | Non | Non | Non | NA | Public | NA | NA | NA | NA | NA | NA | E-EC | NA | NA | Doc, Post-Doc, |  |  |  |
+| ATER, vacataires | NA | STEM | Masculin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1454 | 2 | NA | 1 | fr | 1302241892 | 2024-09-06 23:22:18 | 2024-09-06 23:25:22 | 2001:861:e3c4:c360:3976:efe:e5ec:135e | <https://academia.hypotheses.org/> | 8 | NA | 5 | NA | 8 | 8 | 5 | 5 | 8 | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | Non | Non | Non | Non | Non | Non | Non | Non | Non | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+| 2540 | 2 | NA | 0 | fr | 1731270036 | 2024-09-25 23:45:54 | 2024-09-25 23:47:55 | 89.3.147.175 | NA | 0 - Pas du tout satisfaisantes | NA | NA | NA | NA | NA | 0 - Pas du tout satisfaisantes | 0 - Pas du tout satisfaisantes | 2 | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | Non | Non | Non | Non | Non | Non | Non | Non | Non | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+| 2606 | 2 | NA | 0 | fr | 1048058412 | 2024-10-01 16:18:43 | 2024-10-01 16:19:50 | 193.55.218.7 | NA | 6 | NA | NA | NA | NA | NA | NA | 0 - Pas du tout satisfaisantes | 6 | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | Non | Non | Non | Non | Non | Non | Non | Non | Non | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA |
+
+</details>
+
+## Résumés
 
 ### Conditions de travail
 
@@ -197,16 +266,16 @@ Conditions
 
 | Question           | nb.réponses | Négatif | Neutre | Positif | NCP |      Score |
 |:-------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| conditions.admin.  |        2166 | 67%     | 13%    | 20%     | NA  | -1.4662973 |
-| conditions.carri.  |        2180 | 56%     | 14%    | 31%     | NA  | -1.0486239 |
-| conditions.ens.    |        1726 | 40%     | 18%    | 43%     | NA  | -0.0110081 |
-| conditions.equil.  |        2223 | 49%     | 13%    | 38%     | NA  | -0.4340981 |
-| conditions.gener.  |        2235 | 35%     | 15%    | 50%     | NA  |  0.3114094 |
-| conditions.rech.   |        2018 | 43%     | 14%    | 43%     | NA  | -0.1377602 |
-| conditions.relaut. |        2144 | 24%     | 16%    | 60%     | NA  |  0.9090485 |
-| conditions.relmem. |        2208 | 20%     | 13%    | 67%     | NA  |  1.3328804 |
-| conditions.remun.  |        2216 | 55%     | 13%    | 32%     | NA  | -0.8506318 |
-| Global             |       19116 | 43%     | 14%    | 43%     | NA  |         NA |
+| conditions.admin.  |        2162 | 67%     | 13%    | 20%     | NA  | -1.4690102 |
+| conditions.carri.  |        2175 | 56%     | 14%    | 31%     | NA  | -1.0505747 |
+| conditions.ens.    |        1723 | 40%     | 18%    | 43%     | NA  | -0.0092861 |
+| conditions.equil.  |        2219 | 49%     | 13%    | 38%     | NA  | -0.4357819 |
+| conditions.gener.  |        2229 | 35%     | 15%    | 50%     | NA  |  0.3091072 |
+| conditions.rech.   |        2015 | 43%     | 14%    | 43%     | NA  | -0.1404467 |
+| conditions.relaut. |        2139 | 24%     | 16%    | 60%     | NA  |  0.9102384 |
+| conditions.relmem. |        2205 | 20%     | 13%    | 67%     | NA  |  1.3333333 |
+| conditions.remun.  |        2211 | 55%     | 13%    | 32%     | NA  | -0.8521031 |
+| Global             |       19078 | 43%     | 14%    | 43%     | NA  |         NA |
 
 </details>
 <details>
@@ -219,16 +288,16 @@ Evolution
 
 | Question          | nb.réponses | Négatif | Neutre | Positif | NCP |      Score |
 |:------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| evolution.admin.  |        2014 | 79%     | 16%    | 5%      | NA  | -2.2432969 |
-| evolution.carri.  |        2021 | 60%     | 32%    | 8%      | NA  | -1.4903513 |
-| evolution.ens.    |        1670 | 63%     | 31%    | 6%      | NA  | -1.4628743 |
-| evolution.equil.  |        2043 | 48%     | 39%    | 12%     | NA  | -1.0093000 |
-| evolution.gener.  |        2051 | 68%     | 25%    | 8%      | NA  | -1.5343735 |
-| evolution.rech.   |        1894 | 69%     | 23%    | 8%      | NA  | -1.5290391 |
-| evolution.relaut. |        1988 | 31%     | 56%    | 12%     | NA  | -0.4537223 |
-| evolution.relmem. |        2023 | 30%     | 56%    | 14%     | NA  | -0.3919921 |
-| evolution.remun.  |        2037 | 57%     | 28%    | 15%     | NA  | -1.2906235 |
-| Global            |       17741 | 56%     | 34%    | 10%     | NA  |         NA |
+| evolution.admin.  |        2013 | 79%     | 16%    | 5%      | NA  | -2.2468952 |
+| evolution.carri.  |        2020 | 60%     | 32%    | 8%      | NA  | -1.4935644 |
+| evolution.ens.    |        1669 | 63%     | 31%    | 6%      | NA  | -1.4667466 |
+| evolution.equil.  |        2042 | 48%     | 39%    | 12%     | NA  | -1.0122429 |
+| evolution.gener.  |        2050 | 68%     | 25%    | 8%      | NA  | -1.5375610 |
+| evolution.rech.   |        1893 | 69%     | 23%    | 8%      | NA  | -1.5324881 |
+| evolution.relaut. |        1987 | 32%     | 56%    | 12%     | NA  | -0.4564670 |
+| evolution.relmem. |        2022 | 30%     | 56%    | 14%     | NA  | -0.3946588 |
+| evolution.remun.  |        2036 | 57%     | 28%    | 15%     | NA  | -1.2937132 |
+| Global            |       17732 | 56%     | 34%    | 10%     | NA  |         NA |
 
 </details>
 <details>
@@ -241,16 +310,16 @@ Optimisme
 
 | Question          | nb.réponses | Négatif | Neutre | Positif | NCP |      Score |
 |:------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| optimisme.admin.  |        1968 | 86%     | 10%    | 4%      | NA  | -2.8053862 |
-| optimisme.carri.  |        1963 | 75%     | 18%    | 7%      | NA  | -2.3346918 |
-| optimisme.ens.    |        1705 | 80%     | 14%    | 6%      | NA  | -2.3806452 |
-| optimisme.equil.  |        1977 | 52%     | 34%    | 15%     | NA  | -1.2169954 |
-| optimisme.gener.  |        1993 | 79%     | 14%    | 7%      | NA  | -2.2493728 |
-| optimisme.rech.   |        1860 | 81%     | 12%    | 7%      | NA  | -2.4215054 |
-| optimisme.relaut. |        1942 | 37%     | 46%    | 18%     | NA  | -0.6271885 |
-| optimisme.relmem. |        1960 | 35%     | 45%    | 20%     | NA  | -0.5117347 |
-| optimisme.remun.  |        1975 | 77%     | 16%    | 7%      | NA  | -2.3807595 |
-| Global            |       17343 | 67%     | 23%    | 10%     | NA  |         NA |
+| optimisme.admin.  |        1967 | 86%     | 10%    | 4%      | NA  | -2.8093543 |
+| optimisme.carri.  |        1962 | 75%     | 18%    | 7%      | NA  | -2.3384302 |
+| optimisme.ens.    |        1704 | 80%     | 14%    | 6%      | NA  | -2.3849765 |
+| optimisme.equil.  |        1976 | 52%     | 34%    | 15%     | NA  | -1.2201417 |
+| optimisme.gener.  |        1992 | 79%     | 14%    | 7%      | NA  | -2.2530120 |
+| optimisme.rech.   |        1859 | 81%     | 12%    | 7%      | NA  | -2.4254976 |
+| optimisme.relaut. |        1941 | 37%     | 46%    | 18%     | NA  | -0.6300876 |
+| optimisme.relmem. |        1959 | 35%     | 45%    | 20%     | NA  | -0.5145482 |
+| optimisme.remun.  |        1974 | 77%     | 16%    | 7%      | NA  | -2.3844985 |
+| Global            |       17334 | 67%     | 23%    | 10%     | NA  |         NA |
 
 </details>
 
@@ -266,23 +335,23 @@ Voir les données
 
 | Question                     | nb.réponses | Négatif | Neutre | Positif | NCP |      Score |
 |:-----------------------------|------------:|:--------|:-------|:--------|:----|-----------:|
-| confiance.ANR.               |        1728 | 79%     | 12%    | 9%      | 6%  | -2.6521991 |
-| confiance.AUREF.             |         567 | 81%     | 14%    | 5%      | 66% | -3.1992945 |
-| confiance.CNU.               |        1554 | 49%     | 16%    | 35%     | 12% | -0.7509653 |
-| confiance.CoNRS.             |        1288 | 52%     | 18%    | 30%     | 26% | -1.0473602 |
-| confiance.Conseils.          |        1696 | 57%     | 17%    | 27%     | 9%  | -1.2158019 |
-| confiance.Dircomp.           |        1906 | 27%     | 11%    | 61%     | 1%  |  1.0828961 |
-| confiance.Etat.              |        1890 | 91%     | 5%     | 3%      | 2%  | -3.5248677 |
-| confiance.FU.                |        1073 | 77%     | 14%    | 9%      | 38% | -2.7660764 |
-| confiance.HCERES.            |        1751 | 77%     | 11%    | 11%     | 5%  | -2.6442033 |
-| confiance.MESRI.             |        1886 | 91%     | 5%     | 4%      | 2%  | -3.4220573 |
-| confiance.ONR.               |        1612 | 59%     | 18%    | 23%     | 10% | -1.4385856 |
-| confiance.ParitairesLocales. |        1501 | 42%     | 19%    | 39%     | 17% | -0.3844104 |
-| confiance.ParitairesNat.     |        1264 | 65%     | 16%    | 18%     | 30% | -1.8156646 |
-| confiance.Presidences.       |        1853 | 62%     | 14%    | 25%     | 3%  | -1.4964922 |
-| confiance.Territoire.        |        1698 | 68%     | 15%    | 17%     | 7%  | -1.9546525 |
-| confiance.UDICE.             |         919 | 82%     | 12%    | 5%      | 47% | -3.3394995 |
-| Global                       |       24186 | 65%     | 13%    | 21%     | NA  |         NA |
+| confiance.ANR.               |        1727 | 79%     | 12%    | 9%      | 6%  | -2.6560510 |
+| confiance.AUREF.             |         566 | 81%     | 14%    | 4%      | 66% | -3.2137809 |
+| confiance.CNU.               |        1553 | 49%     | 16%    | 35%     | 12% | -0.7546684 |
+| confiance.CoNRS.             |        1287 | 52%     | 18%    | 30%     | 26% | -1.0520591 |
+| confiance.Conseils.          |        1695 | 57%     | 17%    | 27%     | 9%  | -1.2194690 |
+| confiance.Dircomp.           |        1905 | 27%     | 11%    | 61%     | 1%  |  1.0808399 |
+| confiance.Etat.              |        1889 | 91%     | 5%     | 3%      | 2%  | -3.5293806 |
+| confiance.FU.                |        1072 | 78%     | 14%    | 9%      | 38% | -2.7733209 |
+| confiance.HCERES.            |        1750 | 77%     | 11%    | 11%     | 5%  | -2.6480000 |
+| confiance.MESRI.             |        1885 | 91%     | 5%     | 4%      | 2%  | -3.4265252 |
+| confiance.ONR.               |        1611 | 59%     | 18%    | 23%     | 10% | -1.4425822 |
+| confiance.ParitairesLocales. |        1500 | 42%     | 19%    | 39%     | 17% | -0.3880000 |
+| confiance.ParitairesNat.     |        1263 | 65%     | 16%    | 18%     | 30% | -1.8210610 |
+| confiance.Presidences.       |        1852 | 62%     | 14%    | 25%     | 3%  | -1.5000000 |
+| confiance.Territoire.        |        1697 | 68%     | 15%    | 17%     | 7%  | -1.9587507 |
+| confiance.UDICE.             |         918 | 82%     | 12%    | 5%      | 47% | -3.3485839 |
+| Global                       |       24170 | 66%     | 13%    | 21%     | NA  |         NA |
 
 </details>
 
@@ -376,7 +445,7 @@ Voir les données
 
 | etab | nb_reponses |
 |:---|---:|
-| NA | 440 |
+| NA | 434 |
 | CNRS | 199 |
 | Autre | 103 |
 | Aix-Marseille Université | 70 |
@@ -516,7 +585,7 @@ Voir les données
 
 | etab.other. | nb_reponses |
 |:---|---:|
-| NA | 2157 |
+| NA | 2151 |
 | cea | 3 |
 | ne souhaite pas répondre | 3 |
 | ifremer | 3 |

@@ -42,7 +42,7 @@ qtext <- function(qgrp,qnum) {
 ```{r load}
 res <- read.csv("results-survey593811.csv",na.strings=c("","NA"))
 
-colnames(res)
+res %>% glimpse()
 ```
 
 ```{r comp, results='asis'}
@@ -121,7 +121,7 @@ pc.factor  <- tibble(
 socle.factor  <- tibble(
   levels = cn[startsWith(cn,"socle")] %>% substr(7,50),
   labels = unlist(lapply(0:6, function(x) qsubquestion(6,1,x))),
-  lab = c("Satisfaction","Bonheur","Sens","Valorisation","Capable jusqu'à Retraite","Souhait jusqu'à retraite","Confiance"))
+  lab = c("Satisfaction","Bonheur","Sens\ndu métier","Valorisation\ndu métier","Capable\njusqu'à retraite","Souhait\njusqu'à retraite","Confiance"))
 
 
 # reformes.factor <- tibble(
@@ -165,6 +165,7 @@ results <- results %>%
     `Etablissement` = "Membre d'une autre instance centrale d'établissement", 
     `Composante` = "Membre d'une direction de composante ou laboratoire", 
     `Composante` = "Membre d'un conseil de composante ou laboratoire", 
+    `Pédagogique` = "Responsable pédagogique", 
     `Aucune` = "Aucune de ces responsabilités")) %>%
   mutate(categorie.grp = fct_recode(categorie,
     `PR, DR` = "PR, DR ou assimilé", 
@@ -199,7 +200,18 @@ results %>%
   select(conditions.gener.:statut,responsabilites) %>% 
   write.csv("results-anon.csv",row.names = FALSE)
 ```
+## Check
 
+```{r, results='asis'}
+results %>%
+  select(id, starts_with("conditions"), starts_with("evolution"), starts_with("optimisme"), starts_with("confiance"), starts_with("PCinquietude"), starts_with("PCimpact"), starts_with("PCeffort"), starts_with("socle")) %>%
+  pivot_longer(-id, values_to = "Réponse", names_to = "Question") %>%
+  filter(!is.na(Réponse)) %>%
+  summarise(nb = n_distinct(str_sub(Réponse,1,2)), .by=c(id)) %>%
+  filter(nb < 3) %>%
+  left_join(results) %>%
+  spoiler_table(trim = Inf)
+```
 
 ## Résumés 
 
@@ -255,7 +267,7 @@ resume <- function(bloc) {
   return(left_join(NNP,NCP) %>% left_join(score) %>% bind_rows(NNPG)) 
 }
 
-resume("evolution") %>% View()
+# resume("evolution") %>% View()
 ```
 
 

@@ -291,35 +291,42 @@ plot_pop2 <- function(variable,blocs,bloc.factor,bloc.labels,palette="Set2",size
     geom_vline(xintercept = 0, color="grey") +
     geom_point(size=size, stroke=0.2) +
     facet_wrap(bloc~.) +
+    expand_limits(x=c(-max(df$Score.diff),-min(df$Score.diff))) +
+    scale_x_continuous(breaks=scales::breaks_pretty(n=3), name="Ecart au score moyen") +
     scale_y_discrete(limits=rev,name="") +
     scale_fill_brewer(palette=palette, name="", direction=-1) +
-    scale_x_continuous(name="Ecart au score moyen") +
     scale_shape_manual(name="", values=c(21,24,22,23,25,20)) +
     theme(legend.position = "right", strip.text.x = element_text(size = 14))
 }
 
-#plot_pop2("categorie.grp",c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"),"Set1")
-#plot_pop2("sexe",c("PCinquietude","PCimpact","PCeffort"),pc.factor,c("Inquiétude","Impact","Effort"), palette)
-
+# plot_pop2("categorie.grp",c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"),"Set1")
+#plot_pop2("sexe",c("PCinquietude","PCimpact","PCeffort"),pc.factor,c("Inquiétude","Impact","Effort"), "Set1")
+# plot_pop2("sexe",c("socle"),socle.factor,c("Socle"), "Set1")
 
 
 plot_pops <- function(variable, palette="Set2", angle = 0) {
   
+  pc <- plot_caracteristique(variable, palette = palette, width=0.5) + 
+    scale_y_discrete(limits=identity) +
+    coord_flip() + 
+    ggtitle("Nombre de répondants") +
+    theme(axis.title.x = element_blank(), axis.text.x = element_text(angle = angle)) 
+
+  
     cowplot::plot_grid(ncol=1,
-      plot_pop2(variable,c("conditions","optimisme","evolution"), conditions.factor, c("Conditions","Optimisme","Evolution"), palette) ,
-      cowplot::plot_grid(ncol=3, rel_widths = c(1.5,1.5,1),
+      cowplot::plot_grid(nrow=1, rel_widths = c(1.1,5),
+        pc,
+        plot_pop2(variable,c("conditions","optimisme","evolution"), conditions.factor, c("Conditions","Optimisme","Evolution"), palette)
+      ),
+      cowplot::plot_grid(nrow=1, rel_widths = c(1,2,1.2),
+        plot_pop2(variable,c("socle"), socle.factor, c("Socle"), palette)+ theme(legend.position = "None"),
         plot_pop2(variable,c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"), palette) + theme(legend.position = "None"),
-        plot_pop2(variable,"confiance", confiance.factor,"Confiance", palette,2)+ theme(legend.position = "None"),
-        plot_caracteristique(variable, palette = palette, width=0.5) + 
-          scale_y_discrete(limits=identity) +
-          coord_flip() + 
-          ggtitle("Nombre de répondants") +
-          theme(axis.title.x = element_blank(), axis.text.x = element_text(angle = angle)) 
-        )
+        plot_pop2(variable,"confiance", confiance.factor,"Confiance", palette,2)+ theme(legend.position = "None")
+      )
     )
 }
 
-# plot_pops("sexe.grp")
+plot_pops("sexe.grp")
 # plot_pops("anciennete","PRGn")
 # plot_pops("metier.grp","Set1")
 # plot_pops("statut.grp","Accent")

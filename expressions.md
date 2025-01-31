@@ -1,7 +1,7 @@
 Expressions libres
 ================
 CPESR
-2025-01-25
+2025-01-27
 
 ## Commentaire sur les crises
 
@@ -1524,21 +1524,6 @@ faisant appel à des cabinets conseils alors même que certains de nos
 
 ### Témoignage 72
 
-- sexe : NA
-- age : NA
-- anciennete : NA
-- metier : NA
-- statut : NA
-- categorie : NA
-- discipline : NA
-- etab : NA
-- etab.other :  
-- responsabilites : NA
-
-Es dievinu piena pulveri
-
-### Témoignage 73
-
 - sexe : Féminin
 - age : De 45 à 54 ans
 - anciennete : De 10 à 19 ans
@@ -1564,7 +1549,7 @@ politiques de recherche délétères ; tout cela affecte notre capacité
 collective à répondre aux enjeux contemporains, notamment les crises
 climatique et politique.
 
-### Témoignage 74
+### Témoignage 73
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -1581,7 +1566,7 @@ climatique et politique.
 Mon institution de peut pas faire grand chose face aux crises politiques
 et diplomatiques
 
-### Témoignage 75
+### Témoignage 74
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -1604,7 +1589,7 @@ pas d’orientations propres s’agissant d’économie, de diplomatie, de
 politique… et se contente de répercuter les consignes : assurer la
 communication de l’industrie nucléaire, etc.
 
-### Témoignage 76
+### Témoignage 75
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -1621,7 +1606,7 @@ Le principal impact n’est pas la crise politique ou économique, mais
 plutôt les choix politiques et économiques qui sont faits depuis au
 moins 30 ans.
 
-### Témoignage 77
+### Témoignage 76
 
 - sexe : NA
 - age : NA
@@ -1638,7 +1623,7 @@ Etant donné que les décisions sont pris sans prendre en compte les
 travailleurs, cela ne peut pas répondre au fait de la vie de ces
 travailleurs.
 
-### Témoignage 78
+### Témoignage 77
 
 - sexe : Féminin
 - age : De 45 à 54 ans
@@ -1653,7 +1638,7 @@ travailleurs.
 
 dans un contexte d’université en outremer
 
-### Témoignage 79
+### Témoignage 78
 
 - sexe : Féminin
 - age : De 25 à 34 ans
@@ -1669,7 +1654,7 @@ dans un contexte d’université en outremer
 Cette question a peu de sens car une réponse adéquate à ses crises se
 ferait à l’échelle systémique.
 
-### Témoignage 80
+### Témoignage 79
 
 - sexe : Masculin
 - age : De 35 à 44 ans
@@ -1690,7 +1675,7 @@ est un état irrévocable; le déni de la crise écologique dans son
 ensemble et en particulier la crise de la biodiversité dans ce
 questionnaire pourtant déjà un bel effort…
 
-### Témoignage 81
+### Témoignage 80
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -1719,7 +1704,7 @@ pratiques et son mode de consommation. Les pauvres eux subissent de
 plein fouet les changements, ils en meurent ou survivent dans des
 conditions “inhumaines”. Ça semble sans espoir…
 
-### Témoignage 82
+### Témoignage 81
 
 - sexe : Féminin
 - age : De 25 à 34 ans
@@ -1738,7 +1723,7 @@ compliqué de réserver des trains pour aller à l’étranger. Il faut
 souvent avancer les frais ou prendre l’avion, même pour des pays
 frontaliers…
 
-### Témoignage 83
+### Témoignage 82
 
 - sexe : Féminin
 - age : De 35 à 44 ans
@@ -1755,7 +1740,7 @@ frontaliers…
 L’institution locale n’a pas vraiment de pouvoir face aux pressions
 nationales et aux divers manques. Ils font avec le peu qu’ils ont.
 
-### Témoignage 84
+### Témoignage 83
 
 - sexe : Masculin
 - age : NA
@@ -1786,7 +1771,7 @@ une menace potentielle pour la pérennité de certaines activités de
 recherche, même si ma recherche n’est actuellement pas menacée
 directement.
 
-### Témoignage 85
+### Témoignage 84
 
 - sexe : Féminin
 - age : De 45 à 54 ans
@@ -1805,7 +1790,7 @@ crises économiques et politiques… CE ne sont pas que les conditions de
 travail qui sont incertaines (et pas optimistes), mais aussi le contenu
 de l’enseignement et de la recherche.
 
-### Témoignage 86
+### Témoignage 85
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -1834,7 +1819,7 @@ universitaire et autre. Disons même qu’une des raisons de cette fiction
 de la crise économique est de justifier le désengagement financier de
 l’Etat des divers services publics.
 
-### Témoignage 87
+### Témoignage 86
 
 - sexe : Féminin
 - age : De 35 à 44 ans
@@ -1851,7 +1836,7 @@ l’Etat des divers services publics.
 Les mesures prises (en particulier face au défi climatique) ne sont pas
 à la hauteur des enjeux.
 
-### Témoignage 88
+### Témoignage 87
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -1875,7 +1860,7 @@ doit dépenser, dépenser tout et à toute vitesse. La recherche dans mon
 domaine fonctionne avec du gaspillage et, très souvent, du report dans
 le temps ou vers d’autres taches et projets.
 
-### Témoignage 89
+### Témoignage 88
 
 - sexe : Masculin
 - age : Moins de 25 ans
@@ -1894,7 +1879,7 @@ Je pense que mon institution ne peut pas faire grand chose sur les
 crises. Même si elles mettent en place des actions, c’est à plus grande
 échelle que ces problèmes vont se régler.
 
-### Témoignage 90
+### Témoignage 89
 
 - sexe : NA
 - age : De 55 à 64 ans
@@ -1914,7 +1899,7 @@ faveur de l’environnement qui, de mon point de vue, déstabilise la
 rigueur de notre travail (je suis chercheur en SHS) et lui fait perdre
 son sens.
 
-### Témoignage 91
+### Témoignage 90
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -1931,7 +1916,7 @@ son sens.
 La destruction de la recherche en France est très inquiétant. On peut
 qu’espérer un changement mais ça semble très lointain.
 
-### Témoignage 92
+### Témoignage 91
 
 - sexe : Féminin
 - age : De 45 à 54 ans
@@ -1948,7 +1933,7 @@ qu’espérer un changement mais ça semble très lointain.
 Même si elles en avaient l’intention (réelle et pas uniquement de la
 com), les institutions n’ont pas les moyens de faire face à ces crises.
 
-### Témoignage 93
+### Témoignage 92
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -1964,7 +1949,7 @@ com), les institutions n’ont pas les moyens de faire face à ces crises.
 Difficile, l’université peut peu de chose à ce niveau hormis les
 éternels “campus verts”…
 
-### Témoignage 94
+### Témoignage 93
 
 - sexe : Féminin
 - age : De 45 à 54 ans
@@ -1984,7 +1969,7 @@ qu’institution. Les progrès ou les réponses, quand il y en a, sont le
 fruit de mobilisations personnelles et/ou militantes de collègues ou
 d’étudiants.
 
-### Témoignage 95
+### Témoignage 94
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -2021,7 +2006,7 @@ celles qui sont propriétaires. Il faut se concentrer sur ce qui a du
 sens économiquement à long terme et écologiquement. Il y a déjà beaucoup
 de boulot à ce niveau.
 
-### Témoignage 96
+### Témoignage 95
 
 - sexe : Masculin
 - age : De 35 à 44 ans
@@ -2036,7 +2021,7 @@ de boulot à ce niveau.
 
 Ca n’est pas du ressort de l’institution locale de gérer ces crises
 
-### Témoignage 97
+### Témoignage 96
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -2052,7 +2037,7 @@ Ca n’est pas du ressort de l’institution locale de gérer ces crises
 Je n’attends pas de mon institution quoi que ce soit sur les crises
 “diplomatique” et “politique” qui sont hors de son champ d’activité.
 
-### Témoignage 98
+### Témoignage 97
 
 - sexe : Masculin
 - age : Au moins 65 ans
@@ -2069,7 +2054,7 @@ Crise diplomatique impacte sur les collaborations internationales et
 échanges de personnels; impact sur la continuité des travaux ou accueil
 de collègues/étudiants étrangers.
 
-### Témoignage 99
+### Témoignage 98
 
 - sexe : Féminin
 - age : De 55 à 64 ans
@@ -2087,7 +2072,7 @@ les conditions d’exercice et de rémunération n’ont cessé de se dégrader.
 Le service public dans sa globalité est fragilisé et mis en péril,
 quelles que soient les contextes politique, économique …
 
-### Témoignage 100
+### Témoignage 99
 
 - sexe : Autre
 - age : De 35 à 44 ans
@@ -2105,7 +2090,7 @@ la crise climatique est utilisé pour faire des économies et nous
 empêcher de plus en plus de travailler à l’international c’est
 contre-productif et usant
 
-### Témoignage 101
+### Témoignage 100
 
 - sexe : Masculin
 - age : De 55 à 64 ans
@@ -2122,7 +2107,7 @@ Sur la crise climatique, trop peu de prise de conscience des directions
 et des personnels. Offre de transport, consommation des bâtiments,
 consommation numérique, rien n’avance.
 
-### Témoignage 102
+### Témoignage 101
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -2147,7 +2132,7 @@ j’ai accumulé tellement de retard technologique, la tâche consistant à
 me remettre à niveau est tellement immense que je n’ai même plus la
 volonté de m’y consacrer.
 
-### Témoignage 103
+### Témoignage 102
 
 - sexe : Masculin
 - age : De 45 à 54 ans
@@ -2169,6 +2154,27 @@ négocier ou d’un manque de volonté politique, est profondément
 inadmissible. Il est incompréhensible qu’un secteur aussi crucial pour
 l’avenir de notre société et notre compétitivité mondiale soit traité
 avec un tel mépris par les autorités.
+
+### Témoignage 103
+
+- sexe : Masculin
+- age : De 25 à 34 ans
+- anciennete : De 5 à 9 ans
+- metier : Personnel d’enseignement et de recherche
+- statut : Sous contrat CDD
+- categorie : Doctorant, post-doctorant, ATER, ATEN, vacataire ou
+  assimilé
+- discipline : STEM - Science, Technologie, Ingénierie et Mathématiques
+- etab : Inserm
+- etab.other :  
+- responsabilites : Membre d’une direction de composante ou laboratoire
+
+Avec le délitement accéléré de l’INSERM, la question qu’on se pose
+vraiment est l’effet de la crise climatique ? Il faudrait peut être se
+poser les bonnes questions quant à la rémunération générale, l’assommoir
+administratif avec des règles archaïques et le manque de reconnaissance
+à tous les niveaux. Les professions support (RH etc) en tension -\>
+mauvaise gestion et c’est la recherche qui trinque !
 
 ## Avez-vous des choses à ajouter ?
 

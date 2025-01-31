@@ -33,7 +33,7 @@ for(i in seq(1,length(t))) {
 
 ## Avez-vous des choses à ajouter ? 
 
-```{r elajout, results='asis'}
+```{r elajout, results='asis', eval=TRUE}
 t <- results %>% filter(!is.na(ELajout))
 for(i in seq(1,length(t))) { 
   cat("\n### Témoignage ", i,"\n\n")
@@ -46,7 +46,7 @@ for(i in seq(1,length(t))) {
 
 ## Propositions pour le baromètre
 
-```{r elbaro, results='asis'}
+```{r elbaro, results='asis', eval=TRUE}
 t <- results %>% filter(!is.na(ELbarometre))
 for(i in seq(1,length(t))) { 
   cat("\n### Témoignage ", i,"\n\n")
