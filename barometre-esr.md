@@ -206,7 +206,7 @@ __21% des opinions des répondants témoignent d'un sentiment de soutien de la p
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
 __58% des réponses aux questions socles sont positives, contre 27% qui sont négatives.__ 
-76% des répondants s'estiment plus heureux que les gens qui vivent en France d'une manière générale, et 66% estiment que leur vie est satisfaisante. 75% estiment que ce qu'ils font dans leur vie à du sens et de la valeur, mais seulement 30% estiment que leur métier est valorisé (contre 59% qui estiment le contraire). 49% s'estiment capable de faire le même travail jusqu'à la retraite (contre 37% qui s'en sentent plutôt incapable), et 54% souhaitent faire le même travail jusqu'à leur retraite (contre 37% qui ne le souhaitent pas).
+76% des répondants s'estiment plus heureux que les gens qui vivent en France d'une manière générale, et 66% estiment que leur vie est satisfaisante. 75% estiment que ce qu'ils font dans leur vie à du sens et de la valeur, !mais seulement 30% estiment que leur métier est valorisé (contre 59% qui estiment le contraire). 49% s'estiment capable de faire le même travail jusqu'à la retraite (contre 37% qui s'en sentent plutôt incapable), et 54% souhaitent faire le même travail jusqu'à leur retraite (contre 37% qui ne le souhaitent pas).
 :::
 ::::::
 
@@ -482,11 +482,11 @@ ___« Il serait d’une grande niaiserie de croire que mon université peut quel
 
 ___« La prise en compte de la crise climatique par nos instances est à un niveau indigne de la culture scientifique ».___ Quelques commentaires soulignent la déconnexion entre les compétences de l'ESR et son action, et parfois un conflit entre les impératifs écologiques et le fonctionnement de la recherche _« Les chercheurs continuent à sillonner la planète en avion et à organiser des missions en bateau »_, mais aussi beaucoup l'état du bâtit _« les locaux ne sont pas adaptés »_.
 
-___« La réunionnite nous a bouffé et nos tutelles n'ont aucune vision, juste des peurs »___. De nombreux commentaires pointent le défaut d'ambition et de pilotage pour mettre en œuvre de véritables politiques _« Les ONR obéissent aux girouettes gouvernementales au lieu de s’en affranchir », mais également pour se positionner dans les débats publics, notamment en ce qui concerne les crises politiques et diplomatiques « la frilosité voire la paranoïa de l’institution est très notable »_.
+___« La réunionnite nous a bouffé et nos tutelles n'ont aucune vision, juste des peurs »___. De nombreux commentaires pointent le défaut d'ambition et de pilotage pour mettre en œuvre de véritables politiques _« Les ONR obéissent aux girouettes gouvernementales au lieu de s’en affranchir », mais également pour se positionner dans les débats publics, notamment en ce qui concerne les crises politiques et diplomatiques : « la frilosité voire la paranoïa de l’institution est très notable »_, y compris pour de simples autorisations de réunions.
 
 ___« On va droit dans le mur, à tous les niveaux, il faut changer les choses en profondeur et MAINTENANT ».___ Des commentaires montrent une grande inquiétude et un sentiment d'urgence et de déclin _« nous allons de décrépititute en déchéance, de déchéance en décadence »_.
 
-___« Mon enseignement (architecture) doit faire avec, et enseigner, avec un futur très incertain et très impacté par le changement climatique, les crises économiques et politiques... Ce ne sont pas que les conditions de travail qui sont incertaines (et pas optimistes), mais aussi le contenu de l’enseignement et de la recherche ».___ Enfin, un seul commentaire rapporte que les crises impactent directement le contenu et les méthodes d'enseignement.
+___« Mon enseignement (architecture) doit faire avec, et enseigner, avec un futur très incertain et très impacté par le changement climatique, les crises économiques et politiques... Ce ne sont pas que les conditions de travail qui sont incertaines (et pas optimistes), mais aussi le contenu de l’enseignement et de la recherche ».___ Enfin, un seul commentaire rapporte que les crises impactent directement le contenu et les méthodes d'enseignement et de rechercher.
 
 
 ## Expressions libres : quelques choses ajoutées aux réponses (I)
@@ -501,45 +501,52 @@ ___« La souffrance au travail est visible dans tous les services à tous les é
 
 - ___« Les universités sont paralysées par le manque de moyens »___. La pénurie de moyens humains et financiers est récurente dans les commentaires : _« Je n’ai ni ordinateur ni imprimante en état de fonctionner »_, _«le manque de possibilité de recrutement de titulaires nous transforme en gestionnaire DRH »_. Elle est parfois attribuée à la _«  privatisation galopante de l’enseignement supérieur, et également de la recherche »_ ou à _« une politique “darwinienne” de mise en compétition généralisée »_.
 
-___« On nous empêche de fonctionner et ensuite on nous reproche de dysfonctionner »___. Il ressort une impression d'entrave, due à _« une pure logique financière »_ générant désormais trop de dysfonctionnements et un sentiment d'abandon : _« Un soutien du ministère plutôt que des accusations de wokisme serait bienvenu également »_.
+___« On nous empêche de fonctionner et ensuite on nous reproche de dysfonctionner »___. Il ressort une impression d'entrave, due à _« une pure logique financière »_ générant désormais trop de dysfonctionnements et un sentiment d'abandon : _« Un soutien du ministère plutôt que des accusations de wokisme serait bienvenu »_.
 
-___« Sensation que notre métier dans l’ESR n’a plus de sens, d’ailleurs que ni la recherche, ni l’enseignement, ni même l’université n’ont de sens »___ La perte de sens est une des conséquences principales notée dans les commentaires, _« Je ne veux pas “être rentable”, je veux être utile »_, parfois jusqu'à la colère : « _« Sa dégradation me remplit de tristesse, de honte, de colère et je ne me reconnais plus dans cet environnement »_, _« C’est tout à fait déprimant, révoltant »_.
-
-___« Ce n’est pas la fonction publique pour laquelle j’ai signée. »___ Plusieurs commentaires rapportent un doute sur la conduite à suivre, et envisage explicitement un _exit_ : _« Je crois en mon métier mais n’ai plus aucune illusion  »_, _« No Future »_, _« je cherche à me reconvertir dans un autre secteur »_, _« J’espère juste réussir à trouver une porte de sortie »_, _« Faut-il continuer d’œuvrer pour une utopie ou bien sauver sa peau et aller faire autre chose ?_ »
+___« Sensation que notre métier dans l’ESR n’a plus de sens, d’ailleurs que ni la recherche, ni l’enseignement, ni même l’université n’ont de sens »___ La perte de sens est une des conséquences principales notée dans les commentaires, _« Je ne veux pas “être rentable”, je veux être utile »_, parfois jusqu'à la colère : _« Sa dégradation me remplit de tristesse, de honte, de colère et je ne me reconnais plus dans cet environnement »_, _« C’est tout à fait déprimant, révoltant »_.
 
 ## Expressions libres : quelques choses ajoutées aux réponses (II)
 
 \footnotesize
 
-___« Le maître-mot est désormais l’individualisme ».___ L'impact sur les relations professionnelles est souvent souligné : _« les tensions montent »_, _« la vie est de plus en plus triste, notamment professionnelle »_. Ce sentiment va même dans plusieurs commentaires jusqu'à une forme de déshumanisation _« il n’y a plus aucune considération humaine »_. Le télétravail, qui s'est développé depuis le Covid, est pointé une fois comme source de dégradation : _«c’est une catastrophe pour le travail en équipe._».
+Trois types de conséquence reviennent plus particulièrement :
 
-___« J’ai indiqué un meilleur équilibre entre vie pro et perso, ayant décidé depuis 6 mois de ralentir et d’alléger ma charge de travail, pour éviter les burn outs qui ont touché la plupart de mes collègues… »___. Quelques commentaires font état d'une forme de _quiet-quitting_, dont l'ampleur reste à mesurer : « Le peu de soutien de notre Université n’a fait que rajouter à notre volonté de désengagament massif »
+- ___« J’ai indiqué un meilleur équilibre entre vie pro et perso, ayant décidé depuis 6 mois de ralentir et d’alléger ma charge de travail, pour éviter les burn outs qui ont touché la plupart de mes collègues… »___. Quelques commentaires font état d'une forme de _quiet-quitting_, dont l'ampleur reste à mesurer, et qui semblent toucher plus particulièrement les _« 384h »_ : _« Le peu de soutien de notre Université n’a fait que rajouter à notre volonté de désengagament massif »_.
+
+- ___« Ce n’est pas la fonction publique pour laquelle j’ai signée. »___ Plusieurs commentaires rapportent un doute sur la conduite à suivre, et envisage explicitement un _exit_ : _« Je crois en mon métier mais n’ai plus aucune illusion  »_, _« No Future »_, _« je cherche à me reconvertir dans un autre secteur »_, _« J’espère juste réussir à trouver une porte de sortie »_, _« Faut-il continuer d’œuvrer pour une utopie ou bien sauver sa peau et aller faire autre chose ?_ »
+
+- ___« Le maître-mot est désormais l’individualisme ».___ L'impact sur les relations professionnelles est souvent souligné : _« les tensions montent »_, _« la vie est de plus en plus triste, notamment professionnelle »_. Ce sentiment va même dans plusieurs commentaires jusqu'à une forme de déshumanisation : _« il n’y a plus aucune considération humaine »_. Le télétravail, qui s'est développé depuis le Covid, est pointé une fois comme source de dégradation : _« c’est une catastrophe pour le travail en équipe. »_.
+
+___« Je trouve compliqués les rapports de pouvoir qui s’exercent sans le dire »___ De nombreux commentaires, particulièrement de la part de collègues précaires, regrettent le renforcement des hiérarchies, parfois perçues comme un  _« management autoritaire et brutal »_. Le directions ne sont pas perçues comme des alliées : _« Les directions d’instances ONR ou autres agences sont devenues des relais verticaux des injonctions ministérielles vers le bas »_.
+
+___« En tant que 384h, notre exclusion du RIPEC (ou non mise en place d’un dispositif analogue) à été délétère ».___ Plusieurs commentaires proviennent d'enseignants de statut second degré, qui perçoive leur situation comme injuste, essentiellement en ce qui concerne les rémunérations et progressions de carrière : _« En tant que PRAG après 20 ans, ma carrière est maintenant face à un mur »._
+
+
+## Expressions libres : quelques choses ajoutées aux réponses (III)
+
+\footnotesize
 
 ___« Le problème de l’ESR aujourd’hui est la maltraitance que subissent les précaires avec un manque parfois de solidarité ».___ Contrairement à l'an dernier, beaucoup de commentaires s'intéressent à la situation des précaires de l'ESR.
 
-- ___« je suis payée à peine au-dessus du SMIC, je ne trouve que des CDD, je ne peux pas me stabiliser comme mes ami.es qui sont souvent moins qualifié.es que moi. »___ Plusieurs commentaires rapportent des situations de précarité financières et statutaires ayant des impacts lourds sur les conditions de travail et de vie des précaires de l'ESR, pourtant les plus qualifiés de la nation : _« La difficulté de se projeter dans l’avenir lorsqu’on est en post doctorat pèse beaucoup sur la qualité de vie quotidienne »_
+- ___« je suis payée à peine au-dessus du SMIC, je ne trouve que des CDD, je ne peux pas me stabiliser comme mes ami.es qui sont souvent moins qualifié.es que moi. »___ Plusieurs commentaires rapportent des situations de précarité financières et statutaires ayant des impacts lourds sur les conditions de travail mais aussi de vie des précaires de l'ESR, pourtant les plus qualifiés de la nation : _« La difficulté de se projeter dans l’avenir lorsqu’on est en post doctorat pèse beaucoup sur la qualité de vie quotidienne »_
+
+- ___« 42h de vacations de l’année précédentes toujours impayées ».___ Cette précarité matérielle est augmentée par la complexité administrative et le non respect de la loi sur les paiements des heures de vacation. 
+
+- ___« Fonctionnement boiteux, des projets ANR sur 5 ans, des CDD ».___ Les modes de financement et de recrutement sont presque systématiquement mis en cause,   
+
+- ___« Je suis sollicitée sans arrêt pour des vacations ou du travail de recherche gratuit (comité de lecture de revues, co-écritures de papiers, communication, etc.) »___. La conscience d'être devenus indispensable participe grandement au sentiment d'injustice ressenti par les collègues précaires.
+
+- ___« Je suis choquée de la pure façade des mécanismes de soutien. »___ et ___« Je suis inquiète de la précarisation des chercheurs, et de la concurrence accrue qui en résulte. Cela fausse complètement les relations de travail ».___ Si beaucoup de commentaires de collègues précaires témoignent d'une défiance envers les titulaires, plusieurs commentaires de titulaires partagent les mêmes inquiétudes que les précaires.
 
 
-- ___« fonctionnement boiteux, des projets ANR sur 5 ans, des CDD ».___ Les modes de financement et de recrutement sont presque systématiquement mis en cause,   « 42h de vacations de l’année précédentes toujours impayees »
+Enfin, seuls deux commentaires ont une tonalité positive :
 
-
-- ___« Je suis sollicitée sans arrêt pour des vacations ou du travail de recherche gratuit (comité de lecture de revues, co-écritures de papiers, communication, etc.) »___. Un sentiment d'injustice se dégage de l'écart entre la précarité des embauches et la pérénité des missions.
-
-
-- ___« Je trouve compliqués les rapports de pouvoir qui s’exercent sans le dire »___ De nombreux commentaires regrettent le renforcement des hiérarchies, parfois perçu comme un  _« management autoritaire et brutal »_. Le directions ne sont pas perçues comme des alliées : _« Les directions d’instances ONR ou autres agences sont devenues des relais verticaux des injonctions ministérielles vers le bas »_.
-
-___« En tant que 384h, notre exclusion du RIPEC (ou non mise en place d’un dispositif analogue) à été délétère ».___ Plusieurs commentaires proviennent d'enseignants de statut second degré, qui perçoive leur situation comme injuste : ___« En tant que PRAG après 20 ans, ma carrière est maintenant face à un mur ».___
-
-
-Deux commentaires ont une tonalité positive :
 - ___« Heureusement, le lien avec les étudiants, entre (certains) collègues, le travail en équipe permet encore de tenir ! »___
 - ___« Je suis actuellement en post-doctorat en Belgique, où les conditions de travail et de rémunération sont bien plus satisfaisantes, ce qui explique mes réponses plutôt positives, et le regard plus serein que je porte sur mon métier et ses perspectives »___. 
 
-Précaires : « Je suis choquée de la pure façade des mécanismes de soutien. »
 
 
-
-## Expressions libres : Observations sur le baromètre. 
+## Expressions libres : Observations sur le baromètre (I) 
 
 103 réponses ont été laissées à la question « Avez-vous des observations sur le baromètre lui-même ? ». 
 
@@ -558,6 +565,10 @@ Plusieurs commentaires estiment que les questions ne vont pas assez loin, manque
 
 Le baromètre est effectivement conçu comme un sondage pour être le plus court et le plus général possible afin de pouvoir être maintenu dans le temps et percevoir des évolutions. C'est frustrant, mais il n'a pas l'ambition de se substituer aux enquêtes plus longues, plus détaillées, ou plus focalisées comme il en existe par exemple sur les VSS.
 
+## Expressions libres : Observations sur le baromètre (II)
+
+\footnotesize
+
 - ___« Pensez aux BIATSS et Vacataires dans la conception de votre questionnaire, il y a des choses à y creuser ».___ Quelques commentaires regrettent le manque de questions spécifiques à certaines situations professionnelles, notamment BIATSS, vacataires et ESAS.
 
 Les questions ont été conçues et relues par une équipe composées de personnels de toutes catégories, y compris des vacatatairs et personnels BIATSS. Malgré tous nos efforts, il semble impossible d'avoir une enquête parfaitement adaptée à tout le monde.
@@ -571,17 +582,23 @@ C'est effectivement une question « socle », c'est-à-dire hors-sujet mais stan
 
 Le sujet était délicat et vaste à aborder, notamment parce que l'actualité a été très intense pendant la période d'ouverte du baromètre. A défaut de pouvoir demander plus de temps aux répondants, nous avons fait le choix d'être le plus général possible. L'utilisation de « climatique » au lieu de « écologique » était sans doute une erreur. 
 
+
 - ___« vous sentez vous obligé d’assumer des tâches qui ne font pas partie de votre poste pour que votre établissement continue à fonctionner et à représenter vos valeurs ? ».___ Un commentaire propose d'ajouter une question sur les tâches acceptées par dépit. 
 
 Cette question touche à la question du _quiet-quitting_, qui sera étudiée comme possible thème du prochain baromètre.
 
 
+## Expressions libres : Observations sur le baromètre (III)
+
+\footnotesize
+
 ___« Aurez-vous le courage de publier certains propos qui ne vont pas dans le sens de la doxa wokiste bien-pensante ? Toutes les formations ne se valent pas, quoiqu’on veuille nous faire croire. »___ Un commentaire exprime une crainte de censure « wokiste » dans le compte rendu du baromètre. 
 
 Les risques paraissent faibles, les questions de l'offre de formation et des mouvements idéologiques n'étant pas abordées dans le baromètre.
 
+\vfill
 
-\footnotesize
+\normalsize
 
 La CPESR remercie chaleureusement les participantes et participants à ce baromètre.
 

@@ -292,7 +292,7 @@ plot_pop2 <- function(variable,blocs,bloc.factor,bloc.labels,palette="Set2",size
     geom_point(size=size, stroke=0.2) +
     facet_wrap(bloc~.) +
     expand_limits(x=c(-max(df$Score.diff),-min(df$Score.diff))) +
-    scale_x_continuous(breaks=scales::breaks_pretty(n=3), name="Ecart au score moyen") +
+    scale_x_continuous(breaks=scales::breaks_pretty(n=4), name="Ecart au score moyen") +
     scale_y_discrete(limits=rev,name="") +
     scale_fill_brewer(palette=palette, name="", direction=-1) +
     scale_shape_manual(name="", values=c(21,24,22,23,25,20)) +
@@ -318,10 +318,10 @@ plot_pops <- function(variable, palette="Set2", angle = 0) {
         pc,
         plot_pop2(variable,c("conditions","optimisme","evolution"), conditions.factor, c("Conditions","Optimisme","Evolution"), palette)
       ),
-      cowplot::plot_grid(nrow=1, rel_widths = c(1,2,1.2),
+      cowplot::plot_grid(nrow=1, rel_widths = c(1.2,1,2),
+        plot_pop2(variable,"confiance", confiance.factor,"Soutien", palette,2)+ theme(legend.position = "None"),
         plot_pop2(variable,c("socle"), socle.factor, c("Socle"), palette)+ theme(legend.position = "None"),
-        plot_pop2(variable,c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"), palette) + theme(legend.position = "None"),
-        plot_pop2(variable,"confiance", confiance.factor,"Confiance", palette,2)+ theme(legend.position = "None")
+        plot_pop2(variable,c("PCinquietude","PCimpact","PCeffort"), pc.factor, c("Inquiétude","Impact","Effort"), palette) + theme(legend.position = "None")
       )
     )
 }
