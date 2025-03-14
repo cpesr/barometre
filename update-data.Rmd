@@ -196,8 +196,11 @@ results <- results %>%
 ## Sauvegarde 
 save(results,conditions.factor,confiance.factor,pc.factor,etab.factor,socle.factor, file="results.RData")
 
-results %>%
+results.anon <- results %>%
   select(conditions.gener.:statut,responsabilites) %>% 
+  select(-PCexpression) 
+
+results.anon %>%
   write.csv("results-anon.csv",row.names = FALSE)
 ```
 ## Check

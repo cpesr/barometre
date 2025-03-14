@@ -223,7 +223,7 @@ plot_bloc_percent("socle")
 :::
 ::: {.col data-latex="{0.7\textwidth}"}
 __58% des réponses aux questions socles sont positives, contre 27% qui sont négatives.__ 
-76% des répondants s'estiment plus heureux que les gens qui vivent en France d'une manière générale, et 66% estiment que leur vie est satisfaisante. 75% estiment que ce qu'ils font dans leur vie à du sens et de la valeur, mais seulement 30% estiment que leur métier est valorisé (contre 59% qui estiment le contraire). 49% s'estiment capable de faire le même travail jusqu'à la retraite (contre 37% qui s'en sentent plutôt incapable), et 54% souhaitent faire le même travail jusqu'à leur retraite (contre 37% qui ne le souhaitent pas).
+76% des répondants s'estiment plus heureux que les gens qui vivent en France d'une manière générale, et 66% estiment que leur vie est satisfaisante. 75% estiment que ce qu'ils font dans leur vie à du sens et de la valeur, mais seulement 30% estiment que leur métier est valorisé (contre 59% qui estiment le contraire). 49% s'estiment capables de faire le même travail jusqu'à la retraite (contre 37% qui s'en sentent plutôt incapables), et 54% souhaitent faire le même travail jusqu'à leur retraite (contre 37% qui ne le souhaitent pas).
 :::
 ::::::
 
